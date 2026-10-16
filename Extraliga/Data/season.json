@@ -1,0 +1,24 @@
+{
+  "competition"     : "tipsport-extraliga",
+  "season"          : "2026-2027",
+  "phase"           : "regular",
+  "teams_count"     : 14,
+  "scheduled_rounds": 52,
+  "points"          : {
+    "regulation_win" : 3,
+    "overtime_win"   : 2,
+    "shootout_win"   : 2,
+    "overtime_loss"  : 1,
+    "shootout_loss"  : 1,
+    "regulation_loss": 0
+  },
+  "standings_policy": {
+    "round_basis"              : "official_round",
+    "tie_break"                : "pending_official_rules",
+    "official_ranking_verified": false
+  },
+  "source": {
+    "name": "Hokej.cz",
+    "url" : "https://www.hokej.cz/tipsport-extraliga/zapasy"
+  }
+}

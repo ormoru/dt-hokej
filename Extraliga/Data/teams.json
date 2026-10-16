@@ -1,0 +1,74 @@
+{
+  "teams": {
+    "CEB": {
+      "name"      : "Banes Motor Č. Budějovice",
+      "short_name": "České Budějovice",
+      "color"     : "#003B71"
+    },
+    "HKR": {
+      "name"      : "Mountfield HK",
+      "short_name": "Hr. Králové",
+      "color"     : "#252525"
+    },
+    "KVA": {
+      "name"      : "BYD Energie Karlovy Vary",
+      "short_name": "Karlovy Vary",
+      "color"     : "#008A58"
+    },
+    "KLA": {
+      "name"      : "Rytíři Kladno",
+      "short_name": "Kladno",
+      "color"     : "#003B7A"
+    },
+    "KOM": {
+      "name"      : "HC Kometa Brno",
+      "short_name": "Brno",
+      "color"     : "#173F90"
+    },
+    "LIB": {
+      "name"      : "Bílí Tygři Liberec",
+      "short_name": "Liberec",
+      "color"     : "#005AA9"
+    },
+    "LIT": {
+      "name"      : "HC VERVA Litvínov",
+      "short_name": "Litvínov",
+      "color"     : "#E8B900"
+    },
+    "MBL": {
+      "name"      : "BK Mladá Boleslav",
+      "short_name": "Mladá Boleslav",
+      "color"     : "#008B58"
+    },
+    "OLO": {
+      "name"      : "HC Olomouc",
+      "short_name": "Olomouc",
+      "color"     : "#C71F30"
+    },
+    "PCE": {
+      "name"      : "HC Dynamo Pardubice",
+      "short_name": "Pardubice",
+      "color"     : "#C41230"
+    },
+    "PLZ": {
+      "name"      : "HC Škoda Plzeň",
+      "short_name": "Plzeň",
+      "color"     : "#00529B"
+    },
+    "SPA": {
+      "name"      : "HC Sparta Praha",
+      "short_name": "Sparta",
+      "color"     : "#9E1B32"
+    },
+    "TRI": {
+      "name"      : "HC Oceláři Třinec",
+      "short_name": "Třinec",
+      "color"     : "#D71920"
+    },
+    "VIT": {
+      "name"      : "HC VÍTKOVICE RIDERA",
+      "short_name": "Vítkovice",
+      "color"     : "#0075B9"
+    }
+  }
+}
