@@ -3,72 +3,72 @@
     "CEB": {
       "name"      : "Banes Motor Č. Budějovice",
       "short_name": "České Budějovice",
-      "color"     : "#003B71"
+      "color"     : "#FFCC00"
     },
     "HKR": {
       "name"      : "Mountfield HK",
-      "short_name": "Hr. Králové",
-      "color"     : "#252525"
+      "short_name": "Hradec Králové",
+      "color"     : "#E60000"
     },
     "KVA": {
       "name"      : "BYD Energie Karlovy Vary",
       "short_name": "Karlovy Vary",
-      "color"     : "#008A58"
+      "color"     : "#00FFFF"
     },
     "KLA": {
       "name"      : "Rytíři Kladno",
       "short_name": "Kladno",
-      "color"     : "#003B7A"
+      "color"     : "#00529B"
     },
     "KOM": {
       "name"      : "HC Kometa Brno",
       "short_name": "Brno",
-      "color"     : "#173F90"
+      "color"     : "#003399"
     },
     "LIB": {
       "name"      : "Bílí Tygři Liberec",
       "short_name": "Liberec",
-      "color"     : "#005AA9"
+      "color"     : "#009EE0"
     },
     "LIT": {
       "name"      : "HC VERVA Litvínov",
       "short_name": "Litvínov",
-      "color"     : "#E8B900"
+      "color"     : "#F9A825"
     },
     "MBL": {
       "name"      : "BK Mladá Boleslav",
       "short_name": "Mladá Boleslav",
-      "color"     : "#008B58"
+      "color"     : "#4CAF50"
     },
     "OLO": {
       "name"      : "HC Olomouc",
       "short_name": "Olomouc",
-      "color"     : "#C71F30"
+      "color"     : "#E53935"
     },
     "PCE": {
       "name"      : "HC Dynamo Pardubice",
       "short_name": "Pardubice",
-      "color"     : "#C41230"
+      "color"     : "#CC0000"
     },
     "PLZ": {
       "name"      : "HC Škoda Plzeň",
       "short_name": "Plzeň",
-      "color"     : "#00529B"
+      "color"     : "#0D47A1"
     },
     "SPA": {
       "name"      : "HC Sparta Praha",
       "short_name": "Sparta",
-      "color"     : "#9E1B32"
+      "color"     : "#800020"
     },
     "TRI": {
       "name"      : "HC Oceláři Třinec",
       "short_name": "Třinec",
-      "color"     : "#D71920"
+      "color"     : "#D32F2F"
     },
     "VIT": {
       "name"      : "HC VÍTKOVICE RIDERA",
       "short_name": "Vítkovice",
-      "color"     : "#0075B9"
+      "color"     : "#01579B"
     }
   }
 }
