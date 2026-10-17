@@ -4,6 +4,9 @@ __pycache__/
 
 # Distribution / packaging / files
 /logs/
+/Extraliga/Reporty/**
+!/Extraliga/Reporty/**/
+!/Extraliga/Reporty/**/.gitkeep
 
 # Environments
 .env
