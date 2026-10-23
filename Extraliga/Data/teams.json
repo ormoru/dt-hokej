@@ -64,6 +64,11 @@
     "short_name": "Plzeň",
     "color"     : "#0D47A1"
   },
+  "SLA": {
+    "name"      : "HC Slavia Praha",
+    "short_name": "Slavia",
+    "color"     : "#d31313"
+  },
   "SPA": {
     "name"      : "HC Sparta Praha",
     "short_name": "Sparta",
