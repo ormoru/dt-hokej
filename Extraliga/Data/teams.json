@@ -4,6 +4,11 @@
     "short_name": "České Budějovice",
     "color"     : "#FFCC00"
   },
+  "CHM": {
+    "name"      : "Piráti Chomutov",
+    "short_name": "Chomutov",
+    "color"     : "#4e1c22"
+  },
   "HKR": {
     "name"      : "Mountfield HK",
     "short_name": "Hradec Králové",
