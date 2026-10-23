@@ -265,6 +265,28 @@
       "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=2&matchList-filter-season=2019&matchList-filter-competition=6475"
     },
     {
+      "id": "2019-02-ZLN-VIT",
+      "round": 2,
+      "scheduled_at": "2019-09-15",
+      "home_team_id": "ZLN",
+      "away_team_id": "VIT",
+      "status": "finished",
+      "played_at": "2019-09-15",
+      "home_score": 2,
+      "away_score": 3,
+      "periods": [
+        [0, 0],
+        [1, 2],
+        [1, 1]
+      ],
+      "ot_score": null,
+      "so_score": null,
+      "finish": "REG",
+      "home_points": 0,
+      "away_points": 3,
+      "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=2&matchList-filter-season=2019&matchList-filter-competition=6475"
+    },
+    {
       "id": "2019-03-HKR-PLZ",
       "round": 3,
       "scheduled_at": "2019-09-20",
@@ -394,6 +416,28 @@
       "finish": "SO",
       "home_points": 1,
       "away_points": 2,
+      "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=3&matchList-filter-season=2019&matchList-filter-competition=6475"
+    },
+    {
+      "id": "2019-03-ZLN-OLO",
+      "round": 3,
+      "scheduled_at": "2019-09-20",
+      "home_team_id": "ZLN",
+      "away_team_id": "OLO",
+      "status": "finished",
+      "played_at": "2019-09-20",
+      "home_score": 1,
+      "away_score": 4,
+      "periods": [
+        [1, 0],
+        [0, 2],
+        [0, 2]
+      ],
+      "ot_score": null,
+      "so_score": null,
+      "finish": "REG",
+      "home_points": 0,
+      "away_points": 3,
       "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=3&matchList-filter-season=2019&matchList-filter-competition=6475"
     },
     {

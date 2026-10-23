@@ -30,7 +30,7 @@
     "color"     : "#009EE0"
   },
   "LIT": {
-    "name"      : "HC VERVA Litvínov",
+    "name"      : "HC Verva Litvínov",
     "short_name": "Litvínov",
     "color"     : "#F9A825"
   },
@@ -65,8 +65,13 @@
     "color"     : "#D32F2F"
   },
   "VIT": {
-    "name"      : "HC VÍTKOVICE RIDERA",
+    "name"      : "HC Vítkovice Ridera",
     "short_name": "Vítkovice",
     "color"     : "#01579B"
+  },
+  "ZLN": {
+    "name"      : "Berani Zlín",
+    "short_name": "Zlín",
+    "color"     : "#d7cb23"
   }
 }
