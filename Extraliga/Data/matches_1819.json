@@ -3,6 +3,7 @@
     {
       "id": "2018-01-CHM-KOM",
       "round": 1,
+      "season": 2018,
       "scheduled_at": "2018-09-15",
       "home_team_id": "CHM",
       "away_team_id": "KOM",
@@ -25,6 +26,7 @@
     {
       "id": "2018-01-MBL-LIT",
       "round": 1,
+      "season": 2018,
       "scheduled_at": "2018-09-14",
       "home_team_id": "MBL",
       "away_team_id": "LIT",
@@ -47,6 +49,7 @@
     {
       "id": "2018-01-OLO-KVA",
       "round": 1,
+      "season": 2018,
       "scheduled_at": "2018-09-14",
       "home_team_id": "OLO",
       "away_team_id": "KVA",
@@ -69,6 +72,7 @@
     {
       "id": "2018-01-PCE-VIT",
       "round": 1,
+      "season": 2018,
       "scheduled_at": "2018-09-14",
       "home_team_id": "PCE",
       "away_team_id": "VIT",
@@ -91,6 +95,7 @@
     {
       "id": "2018-01-PLZ-LIB",
       "round": 1,
+      "season": 2018,
       "scheduled_at": "2018-09-14",
       "home_team_id": "PLZ",
       "away_team_id": "LIB",
@@ -113,6 +118,7 @@
     {
       "id": "2018-01-SPA-HKR",
       "round": 1,
+      "season": 2018,
       "scheduled_at": "2018-09-14",
       "home_team_id": "SPA",
       "away_team_id": "HKR",
@@ -135,6 +141,7 @@
     {
       "id": "2018-01-ZLN-TRI",
       "round": 1,
+      "season": 2018,
       "scheduled_at": "2018-09-14",
       "home_team_id": "ZLN",
       "away_team_id": "TRI",
@@ -157,6 +164,7 @@
     {
       "id": "2018-02-HKR-CHM",
       "round": 2,
+      "season": 2018,
       "scheduled_at": "2018-09-16",
       "home_team_id": "HKR",
       "away_team_id": "CHM",
@@ -179,6 +187,7 @@
     {
       "id": "2018-02-KOM-PLZ",
       "round": 2,
+      "season": 2018,
       "scheduled_at": "2018-09-16",
       "home_team_id": "KOM",
       "away_team_id": "PLZ",
@@ -201,6 +210,7 @@
     {
       "id": "2018-02-KVA-MBL",
       "round": 2,
+      "season": 2018,
       "scheduled_at": "2018-09-16",
       "home_team_id": "KVA",
       "away_team_id": "MBL",
@@ -223,6 +233,7 @@
     {
       "id": "2018-02-LIB-PCE",
       "round": 2,
+      "season": 2018,
       "scheduled_at": "2018-09-16",
       "home_team_id": "LIB",
       "away_team_id": "PCE",
@@ -245,6 +256,7 @@
     {
       "id": "2018-02-LIT-ZLN",
       "round": 2,
+      "season": 2018,
       "scheduled_at": "2018-09-16",
       "home_team_id": "LIT",
       "away_team_id": "ZLN",
@@ -267,6 +279,7 @@
     {
       "id": "2018-02-TRI-OLO",
       "round": 2,
+      "season": 2018,
       "scheduled_at": "2018-09-16",
       "home_team_id": "TRI",
       "away_team_id": "OLO",
@@ -289,6 +302,7 @@
     {
       "id": "2018-02-VIT-SPA",
       "round": 2,
+      "season": 2018,
       "scheduled_at": "2018-09-16",
       "home_team_id": "VIT",
       "away_team_id": "SPA",
@@ -311,6 +325,7 @@
     {
       "id": "2018-03-CHM-LIB",
       "round": 3,
+      "season": 2018,
       "scheduled_at": "2018-09-21",
       "home_team_id": "CHM",
       "away_team_id": "LIB",
@@ -333,6 +348,7 @@
     {
       "id": "2018-03-KVA-TRI",
       "round": 3,
+      "season": 2018,
       "scheduled_at": "2018-09-21",
       "home_team_id": "KVA",
       "away_team_id": "TRI",
@@ -355,6 +371,7 @@
     {
       "id": "2018-03-MBL-VIT",
       "round": 3,
+      "season": 2018,
       "scheduled_at": "2018-09-21",
       "home_team_id": "MBL",
       "away_team_id": "VIT",
@@ -377,6 +394,7 @@
     {
       "id": "2018-03-OLO-KOM",
       "round": 3,
+      "season": 2018,
       "scheduled_at": "2018-09-22",
       "home_team_id": "OLO",
       "away_team_id": "KOM",
@@ -399,6 +417,7 @@
     {
       "id": "2018-03-PCE-LIT",
       "round": 3,
+      "season": 2018,
       "scheduled_at": "2018-09-21",
       "home_team_id": "PCE",
       "away_team_id": "LIT",
@@ -421,6 +440,7 @@
     {
       "id": "2018-03-PLZ-SPA",
       "round": 3,
+      "season": 2018,
       "scheduled_at": "2018-09-21",
       "home_team_id": "PLZ",
       "away_team_id": "SPA",
@@ -443,6 +463,7 @@
     {
       "id": "2018-03-ZLN-HKR",
       "round": 3,
+      "season": 2018,
       "scheduled_at": "2018-09-20",
       "home_team_id": "ZLN",
       "away_team_id": "HKR",
@@ -465,6 +486,7 @@
     {
       "id": "2018-04-HKR-OLO",
       "round": 4,
+      "season": 2018,
       "scheduled_at": "2018-09-23",
       "home_team_id": "HKR",
       "away_team_id": "OLO",
@@ -487,6 +509,7 @@
     {
       "id": "2018-04-KOM-MBL",
       "round": 4,
+      "season": 2018,
       "scheduled_at": "2018-09-23",
       "home_team_id": "KOM",
       "away_team_id": "MBL",
@@ -509,6 +532,7 @@
     {
       "id": "2018-04-KVA-ZLN",
       "round": 4,
+      "season": 2018,
       "scheduled_at": "2018-09-23",
       "home_team_id": "KVA",
       "away_team_id": "ZLN",
@@ -531,6 +555,7 @@
     {
       "id": "2018-04-LIB-TRI",
       "round": 4,
+      "season": 2018,
       "scheduled_at": "2018-09-23",
       "home_team_id": "LIB",
       "away_team_id": "TRI",
@@ -553,6 +578,7 @@
     {
       "id": "2018-04-LIT-CHM",
       "round": 4,
+      "season": 2018,
       "scheduled_at": "2018-09-23",
       "home_team_id": "LIT",
       "away_team_id": "CHM",
@@ -575,6 +601,7 @@
     {
       "id": "2018-04-SPA-PCE",
       "round": 4,
+      "season": 2018,
       "scheduled_at": "2018-09-23",
       "home_team_id": "SPA",
       "away_team_id": "PCE",
@@ -597,6 +624,7 @@
     {
       "id": "2018-04-VIT-PLZ",
       "round": 4,
+      "season": 2018,
       "scheduled_at": "2018-09-23",
       "home_team_id": "VIT",
       "away_team_id": "PLZ",
@@ -619,6 +647,7 @@
     {
       "id": "2018-05-CHM-PLZ",
       "round": 5,
+      "season": 2018,
       "scheduled_at": "2018-09-28",
       "home_team_id": "CHM",
       "away_team_id": "PLZ",
@@ -641,6 +670,7 @@
     {
       "id": "2018-05-HKR-TRI",
       "round": 5,
+      "season": 2018,
       "scheduled_at": "2018-09-28",
       "home_team_id": "HKR",
       "away_team_id": "TRI",
@@ -663,6 +693,7 @@
     {
       "id": "2018-05-KVA-LIT",
       "round": 5,
+      "season": 2018,
       "scheduled_at": "2018-09-28",
       "home_team_id": "KVA",
       "away_team_id": "LIT",
@@ -685,6 +716,7 @@
     {
       "id": "2018-05-MBL-SPA",
       "round": 5,
+      "season": 2018,
       "scheduled_at": "2018-09-28",
       "home_team_id": "MBL",
       "away_team_id": "SPA",
@@ -707,6 +739,7 @@
     {
       "id": "2018-05-OLO-VIT",
       "round": 5,
+      "season": 2018,
       "scheduled_at": "2018-09-28",
       "home_team_id": "OLO",
       "away_team_id": "VIT",
@@ -729,6 +762,7 @@
     {
       "id": "2018-05-PCE-KOM",
       "round": 5,
+      "season": 2018,
       "scheduled_at": "2018-09-29",
       "home_team_id": "PCE",
       "away_team_id": "KOM",
@@ -751,6 +785,7 @@
     {
       "id": "2018-05-ZLN-LIB",
       "round": 5,
+      "season": 2018,
       "scheduled_at": "2018-09-28",
       "home_team_id": "ZLN",
       "away_team_id": "LIB",
@@ -773,6 +808,7 @@
     {
       "id": "2018-06-HKR-KVA",
       "round": 6,
+      "season": 2018,
       "scheduled_at": "2018-09-30",
       "home_team_id": "HKR",
       "away_team_id": "KVA",
@@ -795,6 +831,7 @@
     {
       "id": "2018-06-KOM-TRI",
       "round": 6,
+      "season": 2018,
       "scheduled_at": "2018-09-30",
       "home_team_id": "KOM",
       "away_team_id": "TRI",
@@ -817,6 +854,7 @@
     {
       "id": "2018-06-LIB-MBL",
       "round": 6,
+      "season": 2018,
       "scheduled_at": "2018-09-30",
       "home_team_id": "LIB",
       "away_team_id": "MBL",
@@ -839,6 +877,7 @@
     {
       "id": "2018-06-LIT-OLO",
       "round": 6,
+      "season": 2018,
       "scheduled_at": "2018-09-30",
       "home_team_id": "LIT",
       "away_team_id": "OLO",
@@ -861,6 +900,7 @@
     {
       "id": "2018-06-PLZ-PCE",
       "round": 6,
+      "season": 2018,
       "scheduled_at": "2018-09-30",
       "home_team_id": "PLZ",
       "away_team_id": "PCE",
@@ -883,6 +923,7 @@
     {
       "id": "2018-06-SPA-CHM",
       "round": 6,
+      "season": 2018,
       "scheduled_at": "2018-09-30",
       "home_team_id": "SPA",
       "away_team_id": "CHM",
@@ -905,6 +946,7 @@
     {
       "id": "2018-06-VIT-ZLN",
       "round": 6,
+      "season": 2018,
       "scheduled_at": "2018-10-02",
       "home_team_id": "VIT",
       "away_team_id": "ZLN",
@@ -927,6 +969,7 @@
     {
       "id": "2018-07-CHM-VIT",
       "round": 7,
+      "season": 2018,
       "scheduled_at": "2018-10-05",
       "home_team_id": "CHM",
       "away_team_id": "VIT",
@@ -949,6 +992,7 @@
     {
       "id": "2018-07-HKR-KOM",
       "round": 7,
+      "season": 2018,
       "scheduled_at": "2018-10-05",
       "home_team_id": "HKR",
       "away_team_id": "KOM",
@@ -971,6 +1015,7 @@
     {
       "id": "2018-07-KVA-LIB",
       "round": 7,
+      "season": 2018,
       "scheduled_at": "2018-10-05",
       "home_team_id": "KVA",
       "away_team_id": "LIB",
@@ -993,6 +1038,7 @@
     {
       "id": "2018-07-LIT-TRI",
       "round": 7,
+      "season": 2018,
       "scheduled_at": "2018-10-05",
       "home_team_id": "LIT",
       "away_team_id": "TRI",
@@ -1015,6 +1061,7 @@
     {
       "id": "2018-07-MBL-PCE",
       "round": 7,
+      "season": 2018,
       "scheduled_at": "2018-10-05",
       "home_team_id": "MBL",
       "away_team_id": "PCE",
@@ -1037,6 +1084,7 @@
     {
       "id": "2018-07-OLO-SPA",
       "round": 7,
+      "season": 2018,
       "scheduled_at": "2018-10-05",
       "home_team_id": "OLO",
       "away_team_id": "SPA",
@@ -1059,6 +1107,7 @@
     {
       "id": "2018-07-ZLN-PLZ",
       "round": 7,
+      "season": 2018,
       "scheduled_at": "2018-10-05",
       "home_team_id": "ZLN",
       "away_team_id": "PLZ",
@@ -1081,6 +1130,7 @@
     {
       "id": "2018-08-KOM-KVA",
       "round": 8,
+      "season": 2018,
       "scheduled_at": "2018-10-07",
       "home_team_id": "KOM",
       "away_team_id": "KVA",
@@ -1103,6 +1153,7 @@
     {
       "id": "2018-08-LIB-OLO",
       "round": 8,
+      "season": 2018,
       "scheduled_at": "2018-10-06",
       "home_team_id": "LIB",
       "away_team_id": "OLO",
@@ -1125,6 +1176,7 @@
     {
       "id": "2018-08-LIT-HKR",
       "round": 8,
+      "season": 2018,
       "scheduled_at": "2018-10-07",
       "home_team_id": "LIT",
       "away_team_id": "HKR",
@@ -1147,6 +1199,7 @@
     {
       "id": "2018-08-PCE-CHM",
       "round": 8,
+      "season": 2018,
       "scheduled_at": "2018-10-07",
       "home_team_id": "PCE",
       "away_team_id": "CHM",
@@ -1169,6 +1222,7 @@
     {
       "id": "2018-08-PLZ-MBL",
       "round": 8,
+      "season": 2018,
       "scheduled_at": "2018-10-07",
       "home_team_id": "PLZ",
       "away_team_id": "MBL",
@@ -1191,6 +1245,7 @@
     {
       "id": "2018-08-SPA-ZLN",
       "round": 8,
+      "season": 2018,
       "scheduled_at": "2018-10-07",
       "home_team_id": "SPA",
       "away_team_id": "ZLN",
@@ -1213,6 +1268,7 @@
     {
       "id": "2018-08-TRI-VIT",
       "round": 8,
+      "season": 2018,
       "scheduled_at": "2018-10-07",
       "home_team_id": "TRI",
       "away_team_id": "VIT",
@@ -1235,6 +1291,7 @@
     {
       "id": "2018-09-CHM-MBL",
       "round": 9,
+      "season": 2018,
       "scheduled_at": "2018-10-12",
       "home_team_id": "CHM",
       "away_team_id": "MBL",
@@ -1257,6 +1314,7 @@
     {
       "id": "2018-09-HKR-LIB",
       "round": 9,
+      "season": 2018,
       "scheduled_at": "2018-10-12",
       "home_team_id": "HKR",
       "away_team_id": "LIB",
@@ -1279,6 +1337,7 @@
     {
       "id": "2018-09-KOM-LIT",
       "round": 9,
+      "season": 2018,
       "scheduled_at": "2018-10-12",
       "home_team_id": "KOM",
       "away_team_id": "LIT",
@@ -1301,6 +1360,7 @@
     {
       "id": "2018-09-KVA-VIT",
       "round": 9,
+      "season": 2018,
       "scheduled_at": "2018-10-12",
       "home_team_id": "KVA",
       "away_team_id": "VIT",
@@ -1323,6 +1383,7 @@
     {
       "id": "2018-09-OLO-PLZ",
       "round": 9,
+      "season": 2018,
       "scheduled_at": "2018-10-12",
       "home_team_id": "OLO",
       "away_team_id": "PLZ",
@@ -1345,6 +1406,7 @@
     {
       "id": "2018-09-TRI-SPA",
       "round": 9,
+      "season": 2018,
       "scheduled_at": "2018-10-12",
       "home_team_id": "TRI",
       "away_team_id": "SPA",
@@ -1367,6 +1429,7 @@
     {
       "id": "2018-09-ZLN-PCE",
       "round": 9,
+      "season": 2018,
       "scheduled_at": "2018-10-10",
       "home_team_id": "ZLN",
       "away_team_id": "PCE",
@@ -1389,6 +1452,7 @@
     {
       "id": "2018-10-CHM-ZLN",
       "round": 10,
+      "season": 2018,
       "scheduled_at": "2018-10-14",
       "home_team_id": "CHM",
       "away_team_id": "ZLN",
@@ -1411,6 +1475,7 @@
     {
       "id": "2018-10-LIB-LIT",
       "round": 10,
+      "season": 2018,
       "scheduled_at": "2018-10-14",
       "home_team_id": "LIB",
       "away_team_id": "LIT",
@@ -1433,6 +1498,7 @@
     {
       "id": "2018-10-MBL-OLO",
       "round": 10,
+      "season": 2018,
       "scheduled_at": "2018-10-14",
       "home_team_id": "MBL",
       "away_team_id": "OLO",
@@ -1455,6 +1521,7 @@
     {
       "id": "2018-10-PLZ-HKR",
       "round": 10,
+      "season": 2018,
       "scheduled_at": "2018-10-14",
       "home_team_id": "PLZ",
       "away_team_id": "HKR",
@@ -1477,6 +1544,7 @@
     {
       "id": "2018-10-SPA-KVA",
       "round": 10,
+      "season": 2018,
       "scheduled_at": "2018-10-09",
       "home_team_id": "SPA",
       "away_team_id": "KVA",
@@ -1499,6 +1567,7 @@
     {
       "id": "2018-10-TRI-PCE",
       "round": 10,
+      "season": 2018,
       "scheduled_at": "2018-10-13",
       "home_team_id": "TRI",
       "away_team_id": "PCE",
@@ -1521,6 +1590,7 @@
     {
       "id": "2018-10-VIT-KOM",
       "round": 10,
+      "season": 2018,
       "scheduled_at": "2018-10-14",
       "home_team_id": "VIT",
       "away_team_id": "KOM",
@@ -1543,6 +1613,7 @@
     {
       "id": "2018-11-HKR-VIT",
       "round": 11,
+      "season": 2018,
       "scheduled_at": "2018-10-19",
       "home_team_id": "HKR",
       "away_team_id": "VIT",
@@ -1565,6 +1636,7 @@
     {
       "id": "2018-11-KOM-LIB",
       "round": 11,
+      "season": 2018,
       "scheduled_at": "2018-10-19",
       "home_team_id": "KOM",
       "away_team_id": "LIB",
@@ -1587,6 +1659,7 @@
     {
       "id": "2018-11-KVA-CHM",
       "round": 11,
+      "season": 2018,
       "scheduled_at": "2018-10-19",
       "home_team_id": "KVA",
       "away_team_id": "CHM",
@@ -1609,6 +1682,7 @@
     {
       "id": "2018-11-LIT-SPA",
       "round": 11,
+      "season": 2018,
       "scheduled_at": "2018-10-20",
       "home_team_id": "LIT",
       "away_team_id": "SPA",
@@ -1631,6 +1705,7 @@
     {
       "id": "2018-11-OLO-PCE",
       "round": 11,
+      "season": 2018,
       "scheduled_at": "2018-10-19",
       "home_team_id": "OLO",
       "away_team_id": "PCE",
@@ -1653,6 +1728,7 @@
     {
       "id": "2018-11-TRI-PLZ",
       "round": 11,
+      "season": 2018,
       "scheduled_at": "2018-10-19",
       "home_team_id": "TRI",
       "away_team_id": "PLZ",
@@ -1675,6 +1751,7 @@
     {
       "id": "2018-11-ZLN-MBL",
       "round": 11,
+      "season": 2018,
       "scheduled_at": "2018-10-19",
       "home_team_id": "ZLN",
       "away_team_id": "MBL",
@@ -1697,6 +1774,7 @@
     {
       "id": "2018-12-CHM-TRI",
       "round": 12,
+      "season": 2018,
       "scheduled_at": "2018-10-21",
       "home_team_id": "CHM",
       "away_team_id": "TRI",
@@ -1719,6 +1797,7 @@
     {
       "id": "2018-12-MBL-HKR",
       "round": 12,
+      "season": 2018,
       "scheduled_at": "2018-10-21",
       "home_team_id": "MBL",
       "away_team_id": "HKR",
@@ -1741,6 +1820,7 @@
     {
       "id": "2018-12-PCE-KVA",
       "round": 12,
+      "season": 2018,
       "scheduled_at": "2018-10-21",
       "home_team_id": "PCE",
       "away_team_id": "KVA",
@@ -1763,6 +1843,7 @@
     {
       "id": "2018-12-PLZ-LIT",
       "round": 12,
+      "season": 2018,
       "scheduled_at": "2018-10-21",
       "home_team_id": "PLZ",
       "away_team_id": "LIT",
@@ -1785,6 +1866,7 @@
     {
       "id": "2018-12-SPA-KOM",
       "round": 12,
+      "season": 2018,
       "scheduled_at": "2018-10-21",
       "home_team_id": "SPA",
       "away_team_id": "KOM",
@@ -1807,6 +1889,7 @@
     {
       "id": "2018-12-VIT-LIB",
       "round": 12,
+      "season": 2018,
       "scheduled_at": "2018-10-21",
       "home_team_id": "VIT",
       "away_team_id": "LIB",
@@ -1829,6 +1912,7 @@
     {
       "id": "2018-12-ZLN-OLO",
       "round": 12,
+      "season": 2018,
       "scheduled_at": "2018-10-21",
       "home_team_id": "ZLN",
       "away_team_id": "OLO",
@@ -1851,6 +1935,7 @@
     {
       "id": "2018-13-HKR-PCE",
       "round": 13,
+      "season": 2018,
       "scheduled_at": "2018-10-26",
       "home_team_id": "HKR",
       "away_team_id": "PCE",
@@ -1873,6 +1958,7 @@
     {
       "id": "2018-13-KOM-ZLN",
       "round": 13,
+      "season": 2018,
       "scheduled_at": "2018-10-24",
       "home_team_id": "KOM",
       "away_team_id": "ZLN",
@@ -1895,6 +1981,7 @@
     {
       "id": "2018-13-KVA-PLZ",
       "round": 13,
+      "season": 2018,
       "scheduled_at": "2018-10-26",
       "home_team_id": "KVA",
       "away_team_id": "PLZ",
@@ -1917,6 +2004,7 @@
     {
       "id": "2018-13-LIB-SPA",
       "round": 13,
+      "season": 2018,
       "scheduled_at": "2018-10-27",
       "home_team_id": "LIB",
       "away_team_id": "SPA",
@@ -1939,6 +2027,7 @@
     {
       "id": "2018-13-LIT-VIT",
       "round": 13,
+      "season": 2018,
       "scheduled_at": "2018-10-26",
       "home_team_id": "LIT",
       "away_team_id": "VIT",
@@ -1961,6 +2050,7 @@
     {
       "id": "2018-13-OLO-CHM",
       "round": 13,
+      "season": 2018,
       "scheduled_at": "2018-10-26",
       "home_team_id": "OLO",
       "away_team_id": "CHM",
@@ -1983,6 +2073,7 @@
     {
       "id": "2018-13-TRI-MBL",
       "round": 13,
+      "season": 2018,
       "scheduled_at": "2018-10-26",
       "home_team_id": "TRI",
       "away_team_id": "MBL",
@@ -2005,6 +2096,7 @@
     {
       "id": "2018-14-HKR-SPA",
       "round": 14,
+      "season": 2018,
       "scheduled_at": "2018-10-28",
       "home_team_id": "HKR",
       "away_team_id": "SPA",
@@ -2027,6 +2119,7 @@
     {
       "id": "2018-14-KOM-CHM",
       "round": 14,
+      "season": 2018,
       "scheduled_at": "2018-10-28",
       "home_team_id": "KOM",
       "away_team_id": "CHM",
@@ -2049,6 +2142,7 @@
     {
       "id": "2018-14-KVA-OLO",
       "round": 14,
+      "season": 2018,
       "scheduled_at": "2018-10-28",
       "home_team_id": "KVA",
       "away_team_id": "OLO",
@@ -2071,6 +2165,7 @@
     {
       "id": "2018-14-LIB-PLZ",
       "round": 14,
+      "season": 2018,
       "scheduled_at": "2018-10-28",
       "home_team_id": "LIB",
       "away_team_id": "PLZ",
@@ -2093,6 +2188,7 @@
     {
       "id": "2018-14-LIT-MBL",
       "round": 14,
+      "season": 2018,
       "scheduled_at": "2018-10-28",
       "home_team_id": "LIT",
       "away_team_id": "MBL",
@@ -2115,6 +2211,7 @@
     {
       "id": "2018-14-TRI-ZLN",
       "round": 14,
+      "season": 2018,
       "scheduled_at": "2018-10-28",
       "home_team_id": "TRI",
       "away_team_id": "ZLN",
@@ -2137,6 +2234,7 @@
     {
       "id": "2018-14-VIT-PCE",
       "round": 14,
+      "season": 2018,
       "scheduled_at": "2018-10-28",
       "home_team_id": "VIT",
       "away_team_id": "PCE",
@@ -2159,6 +2257,7 @@
     {
       "id": "2018-15-CHM-HKR",
       "round": 15,
+      "season": 2018,
       "scheduled_at": "2018-10-30",
       "home_team_id": "CHM",
       "away_team_id": "HKR",
@@ -2181,6 +2280,7 @@
     {
       "id": "2018-15-MBL-KVA",
       "round": 15,
+      "season": 2018,
       "scheduled_at": "2018-10-30",
       "home_team_id": "MBL",
       "away_team_id": "KVA",
@@ -2203,6 +2303,7 @@
     {
       "id": "2018-15-OLO-TRI",
       "round": 15,
+      "season": 2018,
       "scheduled_at": "2018-10-30",
       "home_team_id": "OLO",
       "away_team_id": "TRI",
@@ -2225,6 +2326,7 @@
     {
       "id": "2018-15-PCE-LIB",
       "round": 15,
+      "season": 2018,
       "scheduled_at": "2018-10-02",
       "home_team_id": "PCE",
       "away_team_id": "LIB",
@@ -2247,6 +2349,7 @@
     {
       "id": "2018-15-PLZ-KOM",
       "round": 15,
+      "season": 2018,
       "scheduled_at": "2018-10-30",
       "home_team_id": "PLZ",
       "away_team_id": "KOM",
@@ -2269,6 +2372,7 @@
     {
       "id": "2018-15-SPA-VIT",
       "round": 15,
+      "season": 2018,
       "scheduled_at": "2018-10-31",
       "home_team_id": "SPA",
       "away_team_id": "VIT",
@@ -2291,6 +2395,7 @@
     {
       "id": "2018-15-ZLN-LIT",
       "round": 15,
+      "season": 2018,
       "scheduled_at": "2018-10-30",
       "home_team_id": "ZLN",
       "away_team_id": "LIT",
@@ -2313,6 +2418,7 @@
     {
       "id": "2018-16-HKR-ZLN",
       "round": 16,
+      "season": 2018,
       "scheduled_at": "2018-11-02",
       "home_team_id": "HKR",
       "away_team_id": "ZLN",
@@ -2335,6 +2441,7 @@
     {
       "id": "2018-16-KOM-OLO",
       "round": 16,
+      "season": 2018,
       "scheduled_at": "2018-11-28",
       "home_team_id": "KOM",
       "away_team_id": "OLO",
@@ -2357,6 +2464,7 @@
     {
       "id": "2018-16-LIB-CHM",
       "round": 16,
+      "season": 2018,
       "scheduled_at": "2018-11-02",
       "home_team_id": "LIB",
       "away_team_id": "CHM",
@@ -2379,6 +2487,7 @@
     {
       "id": "2018-16-LIT-PCE",
       "round": 16,
+      "season": 2018,
       "scheduled_at": "2018-11-03",
       "home_team_id": "LIT",
       "away_team_id": "PCE",
@@ -2401,6 +2510,7 @@
     {
       "id": "2018-16-SPA-PLZ",
       "round": 16,
+      "season": 2018,
       "scheduled_at": "2019-02-11",
       "home_team_id": "SPA",
       "away_team_id": "PLZ",
@@ -2423,6 +2533,7 @@
     {
       "id": "2018-16-TRI-KVA",
       "round": 16,
+      "season": 2018,
       "scheduled_at": "2018-11-02",
       "home_team_id": "TRI",
       "away_team_id": "KVA",
@@ -2445,6 +2556,7 @@
     {
       "id": "2018-16-VIT-MBL",
       "round": 16,
+      "season": 2018,
       "scheduled_at": "2018-11-02",
       "home_team_id": "VIT",
       "away_team_id": "MBL",
@@ -2467,6 +2579,7 @@
     {
       "id": "2018-17-CHM-LIT",
       "round": 17,
+      "season": 2018,
       "scheduled_at": "2018-11-04",
       "home_team_id": "CHM",
       "away_team_id": "LIT",
@@ -2489,6 +2602,7 @@
     {
       "id": "2018-17-MBL-KOM",
       "round": 17,
+      "season": 2018,
       "scheduled_at": "2018-11-04",
       "home_team_id": "MBL",
       "away_team_id": "KOM",
@@ -2511,6 +2625,7 @@
     {
       "id": "2018-17-OLO-HKR",
       "round": 17,
+      "season": 2018,
       "scheduled_at": "2018-11-04",
       "home_team_id": "OLO",
       "away_team_id": "HKR",
@@ -2533,6 +2648,7 @@
     {
       "id": "2018-17-PCE-SPA",
       "round": 17,
+      "season": 2018,
       "scheduled_at": "2018-11-04",
       "home_team_id": "PCE",
       "away_team_id": "SPA",
@@ -2555,6 +2671,7 @@
     {
       "id": "2018-17-PLZ-VIT",
       "round": 17,
+      "season": 2018,
       "scheduled_at": "2018-11-04",
       "home_team_id": "PLZ",
       "away_team_id": "VIT",
@@ -2577,6 +2694,7 @@
     {
       "id": "2018-17-TRI-LIB",
       "round": 17,
+      "season": 2018,
       "scheduled_at": "2018-11-04",
       "home_team_id": "TRI",
       "away_team_id": "LIB",
@@ -2599,6 +2717,7 @@
     {
       "id": "2018-17-ZLN-KVA",
       "round": 17,
+      "season": 2018,
       "scheduled_at": "2018-11-04",
       "home_team_id": "ZLN",
       "away_team_id": "KVA",
@@ -2621,6 +2740,7 @@
     {
       "id": "2018-18-KOM-PCE",
       "round": 18,
+      "season": 2018,
       "scheduled_at": "2018-11-14",
       "home_team_id": "KOM",
       "away_team_id": "PCE",
@@ -2643,6 +2763,7 @@
     {
       "id": "2018-18-LIB-ZLN",
       "round": 18,
+      "season": 2018,
       "scheduled_at": "2018-11-14",
       "home_team_id": "LIB",
       "away_team_id": "ZLN",
@@ -2665,6 +2786,7 @@
     {
       "id": "2018-18-LIT-KVA",
       "round": 18,
+      "season": 2018,
       "scheduled_at": "2018-11-14",
       "home_team_id": "LIT",
       "away_team_id": "KVA",
@@ -2687,6 +2809,7 @@
     {
       "id": "2018-18-PLZ-CHM",
       "round": 18,
+      "season": 2018,
       "scheduled_at": "2019-01-22",
       "home_team_id": "PLZ",
       "away_team_id": "CHM",
@@ -2709,6 +2832,7 @@
     {
       "id": "2018-18-SPA-MBL",
       "round": 18,
+      "season": 2018,
       "scheduled_at": "2018-11-14",
       "home_team_id": "SPA",
       "away_team_id": "MBL",
@@ -2731,6 +2855,7 @@
     {
       "id": "2018-18-TRI-HKR",
       "round": 18,
+      "season": 2018,
       "scheduled_at": "2018-11-20",
       "home_team_id": "TRI",
       "away_team_id": "HKR",
@@ -2753,6 +2878,7 @@
     {
       "id": "2018-18-VIT-OLO",
       "round": 18,
+      "season": 2018,
       "scheduled_at": "2018-11-20",
       "home_team_id": "VIT",
       "away_team_id": "OLO",
@@ -2775,6 +2901,7 @@
     {
       "id": "2018-19-CHM-SPA",
       "round": 19,
+      "season": 2018,
       "scheduled_at": "2018-11-16",
       "home_team_id": "CHM",
       "away_team_id": "SPA",
@@ -2797,6 +2924,7 @@
     {
       "id": "2018-19-KVA-HKR",
       "round": 19,
+      "season": 2018,
       "scheduled_at": "2018-11-16",
       "home_team_id": "KVA",
       "away_team_id": "HKR",
@@ -2819,6 +2947,7 @@
     {
       "id": "2018-19-MBL-LIB",
       "round": 19,
+      "season": 2018,
       "scheduled_at": "2018-11-16",
       "home_team_id": "MBL",
       "away_team_id": "LIB",
@@ -2841,6 +2970,7 @@
     {
       "id": "2018-19-OLO-LIT",
       "round": 19,
+      "season": 2018,
       "scheduled_at": "2018-11-16",
       "home_team_id": "OLO",
       "away_team_id": "LIT",
@@ -2863,6 +2993,7 @@
     {
       "id": "2018-19-PCE-PLZ",
       "round": 19,
+      "season": 2018,
       "scheduled_at": "2018-11-16",
       "home_team_id": "PCE",
       "away_team_id": "PLZ",
@@ -2885,6 +3016,7 @@
     {
       "id": "2018-19-TRI-KOM",
       "round": 19,
+      "season": 2018,
       "scheduled_at": "2018-11-16",
       "home_team_id": "TRI",
       "away_team_id": "KOM",
@@ -2907,6 +3039,7 @@
     {
       "id": "2018-19-ZLN-VIT",
       "round": 19,
+      "season": 2018,
       "scheduled_at": "2018-11-16",
       "home_team_id": "ZLN",
       "away_team_id": "VIT",
@@ -2929,6 +3062,7 @@
     {
       "id": "2018-20-HKR-KOM",
       "round": 20,
+      "season": 2018,
       "scheduled_at": "2018-11-18",
       "home_team_id": "HKR",
       "away_team_id": "KOM",
@@ -2951,6 +3085,7 @@
     {
       "id": "2018-20-LIB-KVA",
       "round": 20,
+      "season": 2018,
       "scheduled_at": "2018-11-18",
       "home_team_id": "LIB",
       "away_team_id": "KVA",
@@ -2973,6 +3108,7 @@
     {
       "id": "2018-20-PCE-MBL",
       "round": 20,
+      "season": 2018,
       "scheduled_at": "2018-11-18",
       "home_team_id": "PCE",
       "away_team_id": "MBL",
@@ -2995,6 +3131,7 @@
     {
       "id": "2018-20-PLZ-ZLN",
       "round": 20,
+      "season": 2018,
       "scheduled_at": "2018-11-18",
       "home_team_id": "PLZ",
       "away_team_id": "ZLN",
@@ -3017,6 +3154,7 @@
     {
       "id": "2018-20-SPA-OLO",
       "round": 20,
+      "season": 2018,
       "scheduled_at": "2018-11-18",
       "home_team_id": "SPA",
       "away_team_id": "OLO",
@@ -3039,6 +3177,7 @@
     {
       "id": "2018-20-TRI-LIT",
       "round": 20,
+      "season": 2018,
       "scheduled_at": "2018-11-17",
       "home_team_id": "TRI",
       "away_team_id": "LIT",
@@ -3061,6 +3200,7 @@
     {
       "id": "2018-20-VIT-CHM",
       "round": 20,
+      "season": 2018,
       "scheduled_at": "2018-11-18",
       "home_team_id": "VIT",
       "away_team_id": "CHM",
@@ -3083,6 +3223,7 @@
     {
       "id": "2018-21-CHM-PCE",
       "round": 21,
+      "season": 2018,
       "scheduled_at": "2018-11-23",
       "home_team_id": "CHM",
       "away_team_id": "PCE",
@@ -3105,6 +3246,7 @@
     {
       "id": "2018-21-HKR-LIT",
       "round": 21,
+      "season": 2018,
       "scheduled_at": "2018-11-23",
       "home_team_id": "HKR",
       "away_team_id": "LIT",
@@ -3127,6 +3269,7 @@
     {
       "id": "2018-21-KVA-KOM",
       "round": 21,
+      "season": 2018,
       "scheduled_at": "2018-11-24",
       "home_team_id": "KVA",
       "away_team_id": "KOM",
@@ -3149,6 +3292,7 @@
     {
       "id": "2018-21-MBL-PLZ",
       "round": 21,
+      "season": 2018,
       "scheduled_at": "2018-11-23",
       "home_team_id": "MBL",
       "away_team_id": "PLZ",
@@ -3171,6 +3315,7 @@
     {
       "id": "2018-21-OLO-LIB",
       "round": 21,
+      "season": 2018,
       "scheduled_at": "2018-11-23",
       "home_team_id": "OLO",
       "away_team_id": "LIB",
@@ -3193,6 +3338,7 @@
     {
       "id": "2018-21-TRI-VIT",
       "round": 21,
+      "season": 2018,
       "scheduled_at": "2018-11-23",
       "home_team_id": "TRI",
       "away_team_id": "VIT",
@@ -3215,6 +3361,7 @@
     {
       "id": "2018-21-ZLN-SPA",
       "round": 21,
+      "season": 2018,
       "scheduled_at": "2018-11-23",
       "home_team_id": "ZLN",
       "away_team_id": "SPA",
@@ -3237,6 +3384,7 @@
     {
       "id": "2018-22-KVA-VIT",
       "round": 22,
+      "season": 2018,
       "scheduled_at": "2018-11-25",
       "home_team_id": "KVA",
       "away_team_id": "VIT",
@@ -3259,6 +3407,7 @@
     {
       "id": "2018-22-LIB-HKR",
       "round": 22,
+      "season": 2018,
       "scheduled_at": "2018-11-25",
       "home_team_id": "LIB",
       "away_team_id": "HKR",
@@ -3281,6 +3430,7 @@
     {
       "id": "2018-22-LIT-KOM",
       "round": 22,
+      "season": 2018,
       "scheduled_at": "2018-11-25",
       "home_team_id": "LIT",
       "away_team_id": "KOM",
@@ -3303,6 +3453,7 @@
     {
       "id": "2018-22-MBL-CHM",
       "round": 22,
+      "season": 2018,
       "scheduled_at": "2018-11-25",
       "home_team_id": "MBL",
       "away_team_id": "CHM",
@@ -3325,6 +3476,7 @@
     {
       "id": "2018-22-PCE-ZLN",
       "round": 22,
+      "season": 2018,
       "scheduled_at": "2018-11-27",
       "home_team_id": "PCE",
       "away_team_id": "ZLN",
@@ -3347,6 +3499,7 @@
     {
       "id": "2018-22-PLZ-OLO",
       "round": 22,
+      "season": 2018,
       "scheduled_at": "2018-11-25",
       "home_team_id": "PLZ",
       "away_team_id": "OLO",
@@ -3369,6 +3522,7 @@
     {
       "id": "2018-22-SPA-TRI",
       "round": 22,
+      "season": 2018,
       "scheduled_at": "2018-11-25",
       "home_team_id": "SPA",
       "away_team_id": "TRI",
@@ -3391,6 +3545,7 @@
     {
       "id": "2018-23-HKR-PLZ",
       "round": 23,
+      "season": 2018,
       "scheduled_at": "2018-11-30",
       "home_team_id": "HKR",
       "away_team_id": "PLZ",
@@ -3413,6 +3568,7 @@
     {
       "id": "2018-23-KOM-VIT",
       "round": 23,
+      "season": 2018,
       "scheduled_at": "2018-11-30",
       "home_team_id": "KOM",
       "away_team_id": "VIT",
@@ -3435,6 +3591,7 @@
     {
       "id": "2018-23-KVA-SPA",
       "round": 23,
+      "season": 2018,
       "scheduled_at": "2018-12-01",
       "home_team_id": "KVA",
       "away_team_id": "SPA",
@@ -3457,6 +3614,7 @@
     {
       "id": "2018-23-LIT-LIB",
       "round": 23,
+      "season": 2018,
       "scheduled_at": "2018-11-30",
       "home_team_id": "LIT",
       "away_team_id": "LIB",
@@ -3479,6 +3637,7 @@
     {
       "id": "2018-23-OLO-MBL",
       "round": 23,
+      "season": 2018,
       "scheduled_at": "2018-11-30",
       "home_team_id": "OLO",
       "away_team_id": "MBL",
@@ -3501,6 +3660,7 @@
     {
       "id": "2018-23-TRI-PCE",
       "round": 23,
+      "season": 2018,
       "scheduled_at": "2018-11-29",
       "home_team_id": "TRI",
       "away_team_id": "PCE",
@@ -3523,6 +3683,7 @@
     {
       "id": "2018-23-ZLN-CHM",
       "round": 23,
+      "season": 2018,
       "scheduled_at": "2018-11-30",
       "home_team_id": "ZLN",
       "away_team_id": "CHM",
@@ -3545,6 +3706,7 @@
     {
       "id": "2018-24-CHM-KVA",
       "round": 24,
+      "season": 2018,
       "scheduled_at": "2018-12-02",
       "home_team_id": "CHM",
       "away_team_id": "KVA",
@@ -3567,6 +3729,7 @@
     {
       "id": "2018-24-LIB-KOM",
       "round": 24,
+      "season": 2018,
       "scheduled_at": "2018-12-02",
       "home_team_id": "LIB",
       "away_team_id": "KOM",
@@ -3589,6 +3752,7 @@
     {
       "id": "2018-24-MBL-ZLN",
       "round": 24,
+      "season": 2018,
       "scheduled_at": "2018-12-02",
       "home_team_id": "MBL",
       "away_team_id": "ZLN",
@@ -3611,6 +3775,7 @@
     {
       "id": "2018-24-PCE-OLO",
       "round": 24,
+      "season": 2018,
       "scheduled_at": "2018-12-02",
       "home_team_id": "PCE",
       "away_team_id": "OLO",
@@ -3633,6 +3798,7 @@
     {
       "id": "2018-24-PLZ-TRI",
       "round": 24,
+      "season": 2018,
       "scheduled_at": "2018-12-02",
       "home_team_id": "PLZ",
       "away_team_id": "TRI",
@@ -3655,6 +3821,7 @@
     {
       "id": "2018-24-SPA-LIT",
       "round": 24,
+      "season": 2018,
       "scheduled_at": "2018-10-23",
       "home_team_id": "SPA",
       "away_team_id": "LIT",
@@ -3677,6 +3844,7 @@
     {
       "id": "2018-24-VIT-HKR",
       "round": 24,
+      "season": 2018,
       "scheduled_at": "2018-12-02",
       "home_team_id": "VIT",
       "away_team_id": "HKR",
@@ -3699,6 +3867,7 @@
     {
       "id": "2018-25-HKR-MBL",
       "round": 25,
+      "season": 2018,
       "scheduled_at": "2018-12-07",
       "home_team_id": "HKR",
       "away_team_id": "MBL",
@@ -3721,6 +3890,7 @@
     {
       "id": "2018-25-KOM-SPA",
       "round": 25,
+      "season": 2018,
       "scheduled_at": "2018-12-06",
       "home_team_id": "KOM",
       "away_team_id": "SPA",
@@ -3743,6 +3913,7 @@
     {
       "id": "2018-25-KVA-PCE",
       "round": 25,
+      "season": 2018,
       "scheduled_at": "2018-12-07",
       "home_team_id": "KVA",
       "away_team_id": "PCE",
@@ -3765,6 +3936,7 @@
     {
       "id": "2018-25-LIB-VIT",
       "round": 25,
+      "season": 2018,
       "scheduled_at": "2018-12-07",
       "home_team_id": "LIB",
       "away_team_id": "VIT",
@@ -3787,6 +3959,7 @@
     {
       "id": "2018-25-LIT-PLZ",
       "round": 25,
+      "season": 2018,
       "scheduled_at": "2018-12-07",
       "home_team_id": "LIT",
       "away_team_id": "PLZ",
@@ -3809,6 +3982,7 @@
     {
       "id": "2018-25-OLO-ZLN",
       "round": 25,
+      "season": 2018,
       "scheduled_at": "2018-12-07",
       "home_team_id": "OLO",
       "away_team_id": "ZLN",
@@ -3831,6 +4005,7 @@
     {
       "id": "2018-25-TRI-CHM",
       "round": 25,
+      "season": 2018,
       "scheduled_at": "2018-12-07",
       "home_team_id": "TRI",
       "away_team_id": "CHM",
@@ -3853,6 +4028,7 @@
     {
       "id": "2018-26-CHM-OLO",
       "round": 26,
+      "season": 2018,
       "scheduled_at": "2018-12-09",
       "home_team_id": "CHM",
       "away_team_id": "OLO",
@@ -3875,6 +4051,7 @@
     {
       "id": "2018-26-LIB-SPA",
       "round": 26,
+      "season": 2018,
       "scheduled_at": "2018-12-09",
       "home_team_id": "LIB",
       "away_team_id": "SPA",
@@ -3897,6 +4074,7 @@
     {
       "id": "2018-26-MBL-TRI",
       "round": 26,
+      "season": 2018,
       "scheduled_at": "2018-12-09",
       "home_team_id": "MBL",
       "away_team_id": "TRI",
@@ -3919,6 +4097,7 @@
     {
       "id": "2018-26-PCE-HKR",
       "round": 26,
+      "season": 2018,
       "scheduled_at": "2018-12-09",
       "home_team_id": "PCE",
       "away_team_id": "HKR",
@@ -3941,6 +4120,7 @@
     {
       "id": "2018-26-PLZ-KVA",
       "round": 26,
+      "season": 2018,
       "scheduled_at": "2018-12-09",
       "home_team_id": "PLZ",
       "away_team_id": "KVA",
@@ -3963,6 +4143,7 @@
     {
       "id": "2018-26-VIT-LIT",
       "round": 26,
+      "season": 2018,
       "scheduled_at": "2018-12-09",
       "home_team_id": "VIT",
       "away_team_id": "LIT",
@@ -3985,6 +4166,7 @@
     {
       "id": "2018-26-ZLN-KOM",
       "round": 26,
+      "season": 2018,
       "scheduled_at": "2018-12-09",
       "home_team_id": "ZLN",
       "away_team_id": "KOM",
@@ -4007,6 +4189,7 @@
     {
       "id": "2018-27-CHM-KOM",
       "round": 27,
+      "season": 2018,
       "scheduled_at": "2018-12-18",
       "home_team_id": "CHM",
       "away_team_id": "KOM",
@@ -4029,6 +4212,7 @@
     {
       "id": "2018-27-MBL-LIT",
       "round": 27,
+      "season": 2018,
       "scheduled_at": "2018-12-19",
       "home_team_id": "MBL",
       "away_team_id": "LIT",
@@ -4051,6 +4235,7 @@
     {
       "id": "2018-27-OLO-KVA",
       "round": 27,
+      "season": 2018,
       "scheduled_at": "2019-02-26",
       "home_team_id": "OLO",
       "away_team_id": "KVA",
@@ -4073,6 +4258,7 @@
     {
       "id": "2018-27-PCE-VIT",
       "round": 27,
+      "season": 2018,
       "scheduled_at": "2018-12-19",
       "home_team_id": "PCE",
       "away_team_id": "VIT",
@@ -4095,6 +4281,7 @@
     {
       "id": "2018-27-PLZ-LIB",
       "round": 27,
+      "season": 2018,
       "scheduled_at": "2018-12-19",
       "home_team_id": "PLZ",
       "away_team_id": "LIB",
@@ -4117,6 +4304,7 @@
     {
       "id": "2018-27-SPA-HKR",
       "round": 27,
+      "season": 2018,
       "scheduled_at": "2018-09-25",
       "home_team_id": "SPA",
       "away_team_id": "HKR",
@@ -4139,6 +4327,7 @@
     {
       "id": "2018-27-ZLN-TRI",
       "round": 27,
+      "season": 2018,
       "scheduled_at": "2018-12-19",
       "home_team_id": "ZLN",
       "away_team_id": "TRI",
@@ -4161,6 +4350,7 @@
     {
       "id": "2018-28-HKR-CHM",
       "round": 28,
+      "season": 2018,
       "scheduled_at": "2018-12-21",
       "home_team_id": "HKR",
       "away_team_id": "CHM",
@@ -4183,6 +4373,7 @@
     {
       "id": "2018-28-KOM-PLZ",
       "round": 28,
+      "season": 2018,
       "scheduled_at": "2018-12-21",
       "home_team_id": "KOM",
       "away_team_id": "PLZ",
@@ -4205,6 +4396,7 @@
     {
       "id": "2018-28-KVA-MBL",
       "round": 28,
+      "season": 2018,
       "scheduled_at": "2018-12-21",
       "home_team_id": "KVA",
       "away_team_id": "MBL",
@@ -4227,6 +4419,7 @@
     {
       "id": "2018-28-LIB-PCE",
       "round": 28,
+      "season": 2018,
       "scheduled_at": "2018-12-21",
       "home_team_id": "LIB",
       "away_team_id": "PCE",
@@ -4249,6 +4442,7 @@
     {
       "id": "2018-28-LIT-ZLN",
       "round": 28,
+      "season": 2018,
       "scheduled_at": "2018-12-21",
       "home_team_id": "LIT",
       "away_team_id": "ZLN",
@@ -4271,6 +4465,7 @@
     {
       "id": "2018-28-TRI-OLO",
       "round": 28,
+      "season": 2018,
       "scheduled_at": "2018-12-21",
       "home_team_id": "TRI",
       "away_team_id": "OLO",
@@ -4293,6 +4488,7 @@
     {
       "id": "2018-28-VIT-SPA",
       "round": 28,
+      "season": 2018,
       "scheduled_at": "2018-12-21",
       "home_team_id": "VIT",
       "away_team_id": "SPA",
@@ -4315,6 +4511,7 @@
     {
       "id": "2018-29-CHM-LIB",
       "round": 29,
+      "season": 2018,
       "scheduled_at": "2018-12-26",
       "home_team_id": "CHM",
       "away_team_id": "LIB",
@@ -4337,6 +4534,7 @@
     {
       "id": "2018-29-MBL-VIT",
       "round": 29,
+      "season": 2018,
       "scheduled_at": "2018-12-26",
       "home_team_id": "MBL",
       "away_team_id": "VIT",
@@ -4359,6 +4557,7 @@
     {
       "id": "2018-29-OLO-KOM",
       "round": 29,
+      "season": 2018,
       "scheduled_at": "2018-12-26",
       "home_team_id": "OLO",
       "away_team_id": "KOM",
@@ -4381,6 +4580,7 @@
     {
       "id": "2018-29-PCE-LIT",
       "round": 29,
+      "season": 2018,
       "scheduled_at": "2018-12-26",
       "home_team_id": "PCE",
       "away_team_id": "LIT",
@@ -4403,6 +4603,7 @@
     {
       "id": "2018-29-PLZ-SPA",
       "round": 29,
+      "season": 2018,
       "scheduled_at": "2018-12-26",
       "home_team_id": "PLZ",
       "away_team_id": "SPA",
@@ -4425,6 +4626,7 @@
     {
       "id": "2018-29-TRI-KVA",
       "round": 29,
+      "season": 2018,
       "scheduled_at": "2019-01-15",
       "home_team_id": "TRI",
       "away_team_id": "KVA",
@@ -4447,6 +4649,7 @@
     {
       "id": "2018-29-ZLN-HKR",
       "round": 29,
+      "season": 2018,
       "scheduled_at": "2018-12-26",
       "home_team_id": "ZLN",
       "away_team_id": "HKR",
@@ -4469,6 +4672,7 @@
     {
       "id": "2018-30-HKR-OLO",
       "round": 30,
+      "season": 2018,
       "scheduled_at": "2018-12-29",
       "home_team_id": "HKR",
       "away_team_id": "OLO",
@@ -4491,6 +4695,7 @@
     {
       "id": "2018-30-KOM-MBL",
       "round": 30,
+      "season": 2018,
       "scheduled_at": "2018-12-28",
       "home_team_id": "KOM",
       "away_team_id": "MBL",
@@ -4513,6 +4718,7 @@
     {
       "id": "2018-30-KVA-ZLN",
       "round": 30,
+      "season": 2018,
       "scheduled_at": "2018-12-28",
       "home_team_id": "KVA",
       "away_team_id": "ZLN",
@@ -4535,6 +4741,7 @@
     {
       "id": "2018-30-LIB-TRI",
       "round": 30,
+      "season": 2018,
       "scheduled_at": "2019-01-22",
       "home_team_id": "LIB",
       "away_team_id": "TRI",
@@ -4557,6 +4764,7 @@
     {
       "id": "2018-30-LIT-CHM",
       "round": 30,
+      "season": 2018,
       "scheduled_at": "2018-12-28",
       "home_team_id": "LIT",
       "away_team_id": "CHM",
@@ -4579,6 +4787,7 @@
     {
       "id": "2018-30-SPA-PCE",
       "round": 30,
+      "season": 2018,
       "scheduled_at": "2018-12-28",
       "home_team_id": "SPA",
       "away_team_id": "PCE",
@@ -4601,6 +4810,7 @@
     {
       "id": "2018-30-VIT-PLZ",
       "round": 30,
+      "season": 2018,
       "scheduled_at": "2018-12-28",
       "home_team_id": "VIT",
       "away_team_id": "PLZ",
@@ -4623,6 +4833,7 @@
     {
       "id": "2018-31-CHM-PLZ",
       "round": 31,
+      "season": 2018,
       "scheduled_at": "2018-12-30",
       "home_team_id": "CHM",
       "away_team_id": "PLZ",
@@ -4645,6 +4856,7 @@
     {
       "id": "2018-31-HKR-TRI",
       "round": 31,
+      "season": 2018,
       "scheduled_at": "2018-12-04",
       "home_team_id": "HKR",
       "away_team_id": "TRI",
@@ -4667,6 +4879,7 @@
     {
       "id": "2018-31-KVA-LIT",
       "round": 31,
+      "season": 2018,
       "scheduled_at": "2018-12-30",
       "home_team_id": "KVA",
       "away_team_id": "LIT",
@@ -4689,6 +4902,7 @@
     {
       "id": "2018-31-OLO-VIT",
       "round": 31,
+      "season": 2018,
       "scheduled_at": "2018-12-30",
       "home_team_id": "OLO",
       "away_team_id": "VIT",
@@ -4711,6 +4925,7 @@
     {
       "id": "2018-31-PCE-KOM",
       "round": 31,
+      "season": 2018,
       "scheduled_at": "2018-12-30",
       "home_team_id": "PCE",
       "away_team_id": "KOM",
@@ -4733,6 +4948,7 @@
     {
       "id": "2018-31-SPA-MBL",
       "round": 31,
+      "season": 2018,
       "scheduled_at": "2018-12-30",
       "home_team_id": "SPA",
       "away_team_id": "MBL",
@@ -4755,6 +4971,7 @@
     {
       "id": "2018-31-ZLN-LIB",
       "round": 31,
+      "season": 2018,
       "scheduled_at": "2018-12-30",
       "home_team_id": "ZLN",
       "away_team_id": "LIB",
@@ -4777,6 +4994,7 @@
     {
       "id": "2018-32-HKR-KVA",
       "round": 32,
+      "season": 2018,
       "scheduled_at": "2019-01-04",
       "home_team_id": "HKR",
       "away_team_id": "KVA",
@@ -4799,6 +5017,7 @@
     {
       "id": "2018-32-KOM-TRI",
       "round": 32,
+      "season": 2018,
       "scheduled_at": "2019-01-04",
       "home_team_id": "KOM",
       "away_team_id": "TRI",
@@ -4821,6 +5040,7 @@
     {
       "id": "2018-32-LIB-MBL",
       "round": 32,
+      "season": 2018,
       "scheduled_at": "2019-01-05",
       "home_team_id": "LIB",
       "away_team_id": "MBL",
@@ -4843,6 +5063,7 @@
     {
       "id": "2018-32-LIT-OLO",
       "round": 32,
+      "season": 2018,
       "scheduled_at": "2019-01-04",
       "home_team_id": "LIT",
       "away_team_id": "OLO",
@@ -4865,6 +5086,7 @@
     {
       "id": "2018-32-PLZ-PCE",
       "round": 32,
+      "season": 2018,
       "scheduled_at": "2019-01-04",
       "home_team_id": "PLZ",
       "away_team_id": "PCE",
@@ -4887,6 +5109,7 @@
     {
       "id": "2018-32-SPA-CHM",
       "round": 32,
+      "season": 2018,
       "scheduled_at": "2019-01-02",
       "home_team_id": "SPA",
       "away_team_id": "CHM",
@@ -4909,6 +5132,7 @@
     {
       "id": "2018-32-VIT-ZLN",
       "round": 32,
+      "season": 2018,
       "scheduled_at": "2019-01-04",
       "home_team_id": "VIT",
       "away_team_id": "ZLN",
@@ -4931,6 +5155,7 @@
     {
       "id": "2018-33-CHM-VIT",
       "round": 33,
+      "season": 2018,
       "scheduled_at": "2019-01-06",
       "home_team_id": "CHM",
       "away_team_id": "VIT",
@@ -4953,6 +5178,7 @@
     {
       "id": "2018-33-KOM-HKR",
       "round": 33,
+      "season": 2018,
       "scheduled_at": "2019-01-06",
       "home_team_id": "KOM",
       "away_team_id": "HKR",
@@ -4975,6 +5201,7 @@
     {
       "id": "2018-33-KVA-LIB",
       "round": 33,
+      "season": 2018,
       "scheduled_at": "2019-01-06",
       "home_team_id": "KVA",
       "away_team_id": "LIB",
@@ -4997,6 +5224,7 @@
     {
       "id": "2018-33-MBL-PCE",
       "round": 33,
+      "season": 2018,
       "scheduled_at": "2019-01-06",
       "home_team_id": "MBL",
       "away_team_id": "PCE",
@@ -5019,6 +5247,7 @@
     {
       "id": "2018-33-OLO-SPA",
       "round": 33,
+      "season": 2018,
       "scheduled_at": "2019-01-06",
       "home_team_id": "OLO",
       "away_team_id": "SPA",
@@ -5041,6 +5270,7 @@
     {
       "id": "2018-33-TRI-LIT",
       "round": 33,
+      "season": 2018,
       "scheduled_at": "2019-01-06",
       "home_team_id": "TRI",
       "away_team_id": "LIT",
@@ -5063,6 +5293,7 @@
     {
       "id": "2018-33-ZLN-PLZ",
       "round": 33,
+      "season": 2018,
       "scheduled_at": "2019-01-06",
       "home_team_id": "ZLN",
       "away_team_id": "PLZ",
@@ -5085,6 +5316,7 @@
     {
       "id": "2018-34-KOM-KVA",
       "round": 34,
+      "season": 2018,
       "scheduled_at": "2019-01-11",
       "home_team_id": "KOM",
       "away_team_id": "KVA",
@@ -5107,6 +5339,7 @@
     {
       "id": "2018-34-LIB-OLO",
       "round": 34,
+      "season": 2018,
       "scheduled_at": "2019-01-11",
       "home_team_id": "LIB",
       "away_team_id": "OLO",
@@ -5129,6 +5362,7 @@
     {
       "id": "2018-34-LIT-HKR",
       "round": 34,
+      "season": 2018,
       "scheduled_at": "2019-01-11",
       "home_team_id": "LIT",
       "away_team_id": "HKR",
@@ -5151,6 +5385,7 @@
     {
       "id": "2018-34-PCE-CHM",
       "round": 34,
+      "season": 2018,
       "scheduled_at": "2019-01-11",
       "home_team_id": "PCE",
       "away_team_id": "CHM",
@@ -5173,6 +5408,7 @@
     {
       "id": "2018-34-PLZ-MBL",
       "round": 34,
+      "season": 2018,
       "scheduled_at": "2019-01-11",
       "home_team_id": "PLZ",
       "away_team_id": "MBL",
@@ -5195,6 +5431,7 @@
     {
       "id": "2018-34-SPA-ZLN",
       "round": 34,
+      "season": 2018,
       "scheduled_at": "2019-01-11",
       "home_team_id": "SPA",
       "away_team_id": "ZLN",
@@ -5217,6 +5454,7 @@
     {
       "id": "2018-34-VIT-TRI",
       "round": 34,
+      "season": 2018,
       "scheduled_at": "2019-01-12",
       "home_team_id": "VIT",
       "away_team_id": "TRI",
@@ -5239,6 +5477,7 @@
     {
       "id": "2018-35-CHM-MBL",
       "round": 35,
+      "season": 2018,
       "scheduled_at": "2019-01-13",
       "home_team_id": "CHM",
       "away_team_id": "MBL",
@@ -5261,6 +5500,7 @@
     {
       "id": "2018-35-HKR-LIB",
       "round": 35,
+      "season": 2018,
       "scheduled_at": "2019-01-13",
       "home_team_id": "HKR",
       "away_team_id": "LIB",
@@ -5283,6 +5523,7 @@
     {
       "id": "2018-35-KOM-LIT",
       "round": 35,
+      "season": 2018,
       "scheduled_at": "2019-01-13",
       "home_team_id": "KOM",
       "away_team_id": "LIT",
@@ -5305,6 +5546,7 @@
     {
       "id": "2018-35-OLO-PLZ",
       "round": 35,
+      "season": 2018,
       "scheduled_at": "2019-01-13",
       "home_team_id": "OLO",
       "away_team_id": "PLZ",
@@ -5327,6 +5569,7 @@
     {
       "id": "2018-35-TRI-SPA",
       "round": 35,
+      "season": 2018,
       "scheduled_at": "2019-01-13",
       "home_team_id": "TRI",
       "away_team_id": "SPA",
@@ -5349,6 +5592,7 @@
     {
       "id": "2018-35-VIT-KVA",
       "round": 35,
+      "season": 2018,
       "scheduled_at": "2019-01-13",
       "home_team_id": "VIT",
       "away_team_id": "KVA",
@@ -5371,6 +5615,7 @@
     {
       "id": "2018-35-ZLN-PCE",
       "round": 35,
+      "season": 2018,
       "scheduled_at": "2019-01-13",
       "home_team_id": "ZLN",
       "away_team_id": "PCE",
@@ -5393,6 +5638,7 @@
     {
       "id": "2018-36-CHM-ZLN",
       "round": 36,
+      "season": 2018,
       "scheduled_at": "2019-01-18",
       "home_team_id": "CHM",
       "away_team_id": "ZLN",
@@ -5415,6 +5661,7 @@
     {
       "id": "2018-36-KVA-SPA",
       "round": 36,
+      "season": 2018,
       "scheduled_at": "2019-01-18",
       "home_team_id": "KVA",
       "away_team_id": "SPA",
@@ -5437,6 +5684,7 @@
     {
       "id": "2018-36-LIB-LIT",
       "round": 36,
+      "season": 2018,
       "scheduled_at": "2019-01-18",
       "home_team_id": "LIB",
       "away_team_id": "LIT",
@@ -5459,6 +5707,7 @@
     {
       "id": "2018-36-MBL-OLO",
       "round": 36,
+      "season": 2018,
       "scheduled_at": "2019-01-18",
       "home_team_id": "MBL",
       "away_team_id": "OLO",
@@ -5481,6 +5730,7 @@
     {
       "id": "2018-36-PCE-TRI",
       "round": 36,
+      "season": 2018,
       "scheduled_at": "2019-01-18",
       "home_team_id": "PCE",
       "away_team_id": "TRI",
@@ -5503,6 +5753,7 @@
     {
       "id": "2018-36-PLZ-HKR",
       "round": 36,
+      "season": 2018,
       "scheduled_at": "2019-01-18",
       "home_team_id": "PLZ",
       "away_team_id": "HKR",
@@ -5525,6 +5776,7 @@
     {
       "id": "2018-36-VIT-KOM",
       "round": 36,
+      "season": 2018,
       "scheduled_at": "2019-01-18",
       "home_team_id": "VIT",
       "away_team_id": "KOM",
@@ -5547,6 +5799,7 @@
     {
       "id": "2018-37-HKR-VIT",
       "round": 37,
+      "season": 2018,
       "scheduled_at": "2019-01-20",
       "home_team_id": "HKR",
       "away_team_id": "VIT",
@@ -5569,6 +5822,7 @@
     {
       "id": "2018-37-KOM-LIB",
       "round": 37,
+      "season": 2018,
       "scheduled_at": "2019-01-20",
       "home_team_id": "KOM",
       "away_team_id": "LIB",
@@ -5591,6 +5845,7 @@
     {
       "id": "2018-37-KVA-CHM",
       "round": 37,
+      "season": 2018,
       "scheduled_at": "2019-01-20",
       "home_team_id": "KVA",
       "away_team_id": "CHM",
@@ -5613,6 +5868,7 @@
     {
       "id": "2018-37-LIT-SPA",
       "round": 37,
+      "season": 2018,
       "scheduled_at": "2019-01-20",
       "home_team_id": "LIT",
       "away_team_id": "SPA",
@@ -5635,6 +5891,7 @@
     {
       "id": "2018-37-PCE-OLO",
       "round": 37,
+      "season": 2018,
       "scheduled_at": "2019-01-20",
       "home_team_id": "PCE",
       "away_team_id": "OLO",
@@ -5657,6 +5914,7 @@
     {
       "id": "2018-37-TRI-PLZ",
       "round": 37,
+      "season": 2018,
       "scheduled_at": "2019-01-20",
       "home_team_id": "TRI",
       "away_team_id": "PLZ",
@@ -5679,6 +5937,7 @@
     {
       "id": "2018-37-ZLN-MBL",
       "round": 37,
+      "season": 2018,
       "scheduled_at": "2019-01-20",
       "home_team_id": "ZLN",
       "away_team_id": "MBL",
@@ -5701,6 +5960,7 @@
     {
       "id": "2018-38-CHM-TRI",
       "round": 38,
+      "season": 2018,
       "scheduled_at": "2019-01-24",
       "home_team_id": "CHM",
       "away_team_id": "TRI",
@@ -5723,6 +5983,7 @@
     {
       "id": "2018-38-MBL-HKR",
       "round": 38,
+      "season": 2018,
       "scheduled_at": "2019-01-25",
       "home_team_id": "MBL",
       "away_team_id": "HKR",
@@ -5745,6 +6006,7 @@
     {
       "id": "2018-38-PCE-KVA",
       "round": 38,
+      "season": 2018,
       "scheduled_at": "2019-01-25",
       "home_team_id": "PCE",
       "away_team_id": "KVA",
@@ -5767,6 +6029,7 @@
     {
       "id": "2018-38-PLZ-LIT",
       "round": 38,
+      "season": 2018,
       "scheduled_at": "2019-01-25",
       "home_team_id": "PLZ",
       "away_team_id": "LIT",
@@ -5789,6 +6052,7 @@
     {
       "id": "2018-38-SPA-KOM",
       "round": 38,
+      "season": 2018,
       "scheduled_at": "2019-01-22",
       "home_team_id": "SPA",
       "away_team_id": "KOM",
@@ -5811,6 +6075,7 @@
     {
       "id": "2018-38-VIT-LIB",
       "round": 38,
+      "season": 2018,
       "scheduled_at": "2019-01-25",
       "home_team_id": "VIT",
       "away_team_id": "LIB",
@@ -5833,6 +6098,7 @@
     {
       "id": "2018-38-ZLN-OLO",
       "round": 38,
+      "season": 2018,
       "scheduled_at": "2019-01-25",
       "home_team_id": "ZLN",
       "away_team_id": "OLO",
@@ -5855,6 +6121,7 @@
     {
       "id": "2018-39-HKR-PCE",
       "round": 39,
+      "season": 2018,
       "scheduled_at": "2019-01-26",
       "home_team_id": "HKR",
       "away_team_id": "PCE",
@@ -5877,6 +6144,7 @@
     {
       "id": "2018-39-KOM-ZLN",
       "round": 39,
+      "season": 2018,
       "scheduled_at": "2019-01-27",
       "home_team_id": "KOM",
       "away_team_id": "ZLN",
@@ -5899,6 +6167,7 @@
     {
       "id": "2018-39-KVA-PLZ",
       "round": 39,
+      "season": 2018,
       "scheduled_at": "2019-01-27",
       "home_team_id": "KVA",
       "away_team_id": "PLZ",
@@ -5921,6 +6190,7 @@
     {
       "id": "2018-39-LIT-VIT",
       "round": 39,
+      "season": 2018,
       "scheduled_at": "2019-01-27",
       "home_team_id": "LIT",
       "away_team_id": "VIT",
@@ -5943,6 +6213,7 @@
     {
       "id": "2018-39-OLO-CHM",
       "round": 39,
+      "season": 2018,
       "scheduled_at": "2019-01-27",
       "home_team_id": "OLO",
       "away_team_id": "CHM",
@@ -5965,6 +6236,7 @@
     {
       "id": "2018-39-SPA-LIB",
       "round": 39,
+      "season": 2018,
       "scheduled_at": "2019-01-27",
       "home_team_id": "SPA",
       "away_team_id": "LIB",
@@ -5987,6 +6259,7 @@
     {
       "id": "2018-39-TRI-MBL",
       "round": 39,
+      "season": 2018,
       "scheduled_at": "2019-01-27",
       "home_team_id": "TRI",
       "away_team_id": "MBL",
@@ -6009,6 +6282,7 @@
     {
       "id": "2018-40-HKR-SPA",
       "round": 40,
+      "season": 2018,
       "scheduled_at": "2019-01-29",
       "home_team_id": "HKR",
       "away_team_id": "SPA",
@@ -6031,6 +6305,7 @@
     {
       "id": "2018-40-KOM-CHM",
       "round": 40,
+      "season": 2018,
       "scheduled_at": "2019-01-29",
       "home_team_id": "KOM",
       "away_team_id": "CHM",
@@ -6053,6 +6328,7 @@
     {
       "id": "2018-40-KVA-OLO",
       "round": 40,
+      "season": 2018,
       "scheduled_at": "2019-01-29",
       "home_team_id": "KVA",
       "away_team_id": "OLO",
@@ -6075,6 +6351,7 @@
     {
       "id": "2018-40-LIB-PLZ",
       "round": 40,
+      "season": 2018,
       "scheduled_at": "2019-01-30",
       "home_team_id": "LIB",
       "away_team_id": "PLZ",
@@ -6097,6 +6374,7 @@
     {
       "id": "2018-40-LIT-MBL",
       "round": 40,
+      "season": 2018,
       "scheduled_at": "2019-01-29",
       "home_team_id": "LIT",
       "away_team_id": "MBL",
@@ -6119,6 +6397,7 @@
     {
       "id": "2018-40-TRI-ZLN",
       "round": 40,
+      "season": 2018,
       "scheduled_at": "2019-01-30",
       "home_team_id": "TRI",
       "away_team_id": "ZLN",
@@ -6141,6 +6420,7 @@
     {
       "id": "2018-40-VIT-PCE",
       "round": 40,
+      "season": 2018,
       "scheduled_at": "2019-01-09",
       "home_team_id": "VIT",
       "away_team_id": "PCE",
@@ -6163,6 +6443,7 @@
     {
       "id": "2018-41-CHM-HKR",
       "round": 41,
+      "season": 2018,
       "scheduled_at": "2019-02-01",
       "home_team_id": "CHM",
       "away_team_id": "HKR",
@@ -6185,6 +6466,7 @@
     {
       "id": "2018-41-MBL-KVA",
       "round": 41,
+      "season": 2018,
       "scheduled_at": "2019-02-01",
       "home_team_id": "MBL",
       "away_team_id": "KVA",
@@ -6207,6 +6489,7 @@
     {
       "id": "2018-41-OLO-TRI",
       "round": 41,
+      "season": 2018,
       "scheduled_at": "2019-02-01",
       "home_team_id": "OLO",
       "away_team_id": "TRI",
@@ -6229,6 +6512,7 @@
     {
       "id": "2018-41-PCE-LIB",
       "round": 41,
+      "season": 2018,
       "scheduled_at": "2019-02-01",
       "home_team_id": "PCE",
       "away_team_id": "LIB",
@@ -6251,6 +6535,7 @@
     {
       "id": "2018-41-PLZ-KOM",
       "round": 41,
+      "season": 2018,
       "scheduled_at": "2019-02-01",
       "home_team_id": "PLZ",
       "away_team_id": "KOM",
@@ -6273,6 +6558,7 @@
     {
       "id": "2018-41-SPA-VIT",
       "round": 41,
+      "season": 2018,
       "scheduled_at": "2019-02-01",
       "home_team_id": "SPA",
       "away_team_id": "VIT",
@@ -6295,6 +6581,7 @@
     {
       "id": "2018-41-ZLN-LIT",
       "round": 41,
+      "season": 2018,
       "scheduled_at": "2019-02-01",
       "home_team_id": "ZLN",
       "away_team_id": "LIT",
@@ -6317,6 +6604,7 @@
     {
       "id": "2018-42-HKR-ZLN",
       "round": 42,
+      "season": 2018,
       "scheduled_at": "2019-02-03",
       "home_team_id": "HKR",
       "away_team_id": "ZLN",
@@ -6339,6 +6627,7 @@
     {
       "id": "2018-42-KOM-OLO",
       "round": 42,
+      "season": 2018,
       "scheduled_at": "2019-01-08",
       "home_team_id": "KOM",
       "away_team_id": "OLO",
@@ -6361,6 +6650,7 @@
     {
       "id": "2018-42-KVA-TRI",
       "round": 42,
+      "season": 2018,
       "scheduled_at": "2019-02-03",
       "home_team_id": "KVA",
       "away_team_id": "TRI",
@@ -6383,6 +6673,7 @@
     {
       "id": "2018-42-LIB-CHM",
       "round": 42,
+      "season": 2018,
       "scheduled_at": "2019-02-03",
       "home_team_id": "LIB",
       "away_team_id": "CHM",
@@ -6405,6 +6696,7 @@
     {
       "id": "2018-42-LIT-PCE",
       "round": 42,
+      "season": 2018,
       "scheduled_at": "2019-02-03",
       "home_team_id": "LIT",
       "away_team_id": "PCE",
@@ -6427,6 +6719,7 @@
     {
       "id": "2018-42-SPA-PLZ",
       "round": 42,
+      "season": 2018,
       "scheduled_at": "2019-02-03",
       "home_team_id": "SPA",
       "away_team_id": "PLZ",
@@ -6449,6 +6742,7 @@
     {
       "id": "2018-42-VIT-MBL",
       "round": 42,
+      "season": 2018,
       "scheduled_at": "2018-12-04",
       "home_team_id": "VIT",
       "away_team_id": "MBL",
@@ -6471,6 +6765,7 @@
     {
       "id": "2018-43-CHM-LIT",
       "round": 43,
+      "season": 2018,
       "scheduled_at": "2019-02-13",
       "home_team_id": "CHM",
       "away_team_id": "LIT",
@@ -6493,6 +6788,7 @@
     {
       "id": "2018-43-MBL-KOM",
       "round": 43,
+      "season": 2018,
       "scheduled_at": "2019-02-13",
       "home_team_id": "MBL",
       "away_team_id": "KOM",
@@ -6515,6 +6811,7 @@
     {
       "id": "2018-43-OLO-HKR",
       "round": 43,
+      "season": 2018,
       "scheduled_at": "2019-02-13",
       "home_team_id": "OLO",
       "away_team_id": "HKR",
@@ -6537,6 +6834,7 @@
     {
       "id": "2018-43-PCE-SPA",
       "round": 43,
+      "season": 2018,
       "scheduled_at": "2019-02-13",
       "home_team_id": "PCE",
       "away_team_id": "SPA",
@@ -6559,6 +6857,7 @@
     {
       "id": "2018-43-PLZ-VIT",
       "round": 43,
+      "season": 2018,
       "scheduled_at": "2019-02-13",
       "home_team_id": "PLZ",
       "away_team_id": "VIT",
@@ -6581,6 +6880,7 @@
     {
       "id": "2018-43-TRI-LIB",
       "round": 43,
+      "season": 2018,
       "scheduled_at": "2019-02-13",
       "home_team_id": "TRI",
       "away_team_id": "LIB",
@@ -6603,6 +6903,7 @@
     {
       "id": "2018-43-ZLN-KVA",
       "round": 43,
+      "season": 2018,
       "scheduled_at": "2019-02-13",
       "home_team_id": "ZLN",
       "away_team_id": "KVA",
@@ -6625,6 +6926,7 @@
     {
       "id": "2018-44-KOM-PCE",
       "round": 44,
+      "season": 2018,
       "scheduled_at": "2019-02-15",
       "home_team_id": "KOM",
       "away_team_id": "PCE",
@@ -6647,6 +6949,7 @@
     {
       "id": "2018-44-LIB-ZLN",
       "round": 44,
+      "season": 2018,
       "scheduled_at": "2019-02-15",
       "home_team_id": "LIB",
       "away_team_id": "ZLN",
@@ -6669,6 +6972,7 @@
     {
       "id": "2018-44-LIT-KVA",
       "round": 44,
+      "season": 2018,
       "scheduled_at": "2019-02-15",
       "home_team_id": "LIT",
       "away_team_id": "KVA",
@@ -6691,6 +6995,7 @@
     {
       "id": "2018-44-MBL-SPA",
       "round": 44,
+      "season": 2018,
       "scheduled_at": "2019-02-15",
       "home_team_id": "MBL",
       "away_team_id": "SPA",
@@ -6713,6 +7018,7 @@
     {
       "id": "2018-44-PLZ-CHM",
       "round": 44,
+      "season": 2018,
       "scheduled_at": "2019-02-15",
       "home_team_id": "PLZ",
       "away_team_id": "CHM",
@@ -6735,6 +7041,7 @@
     {
       "id": "2018-44-TRI-HKR",
       "round": 44,
+      "season": 2018,
       "scheduled_at": "2019-02-15",
       "home_team_id": "TRI",
       "away_team_id": "HKR",
@@ -6757,6 +7064,7 @@
     {
       "id": "2018-44-VIT-OLO",
       "round": 44,
+      "season": 2018,
       "scheduled_at": "2019-01-23",
       "home_team_id": "VIT",
       "away_team_id": "OLO",
@@ -6779,6 +7087,7 @@
     {
       "id": "2018-45-CHM-SPA",
       "round": 45,
+      "season": 2018,
       "scheduled_at": "2019-02-17",
       "home_team_id": "CHM",
       "away_team_id": "SPA",
@@ -6801,6 +7110,7 @@
     {
       "id": "2018-45-KVA-HKR",
       "round": 45,
+      "season": 2018,
       "scheduled_at": "2019-02-17",
       "home_team_id": "KVA",
       "away_team_id": "HKR",
@@ -6823,6 +7133,7 @@
     {
       "id": "2018-45-MBL-LIB",
       "round": 45,
+      "season": 2018,
       "scheduled_at": "2019-02-17",
       "home_team_id": "MBL",
       "away_team_id": "LIB",
@@ -6845,6 +7156,7 @@
     {
       "id": "2018-45-OLO-LIT",
       "round": 45,
+      "season": 2018,
       "scheduled_at": "2019-02-17",
       "home_team_id": "OLO",
       "away_team_id": "LIT",
@@ -6867,6 +7179,7 @@
     {
       "id": "2018-45-PCE-PLZ",
       "round": 45,
+      "season": 2018,
       "scheduled_at": "2019-02-17",
       "home_team_id": "PCE",
       "away_team_id": "PLZ",
@@ -6889,6 +7202,7 @@
     {
       "id": "2018-45-TRI-KOM",
       "round": 45,
+      "season": 2018,
       "scheduled_at": "2019-02-17",
       "home_team_id": "TRI",
       "away_team_id": "KOM",
@@ -6911,6 +7225,7 @@
     {
       "id": "2018-45-ZLN-VIT",
       "round": 45,
+      "season": 2018,
       "scheduled_at": "2019-02-17",
       "home_team_id": "ZLN",
       "away_team_id": "VIT",
@@ -6933,6 +7248,7 @@
     {
       "id": "2018-46-KOM-HKR",
       "round": 46,
+      "season": 2018,
       "scheduled_at": "2019-02-19",
       "home_team_id": "KOM",
       "away_team_id": "HKR",
@@ -6955,6 +7271,7 @@
     {
       "id": "2018-46-LIB-KVA",
       "round": 46,
+      "season": 2018,
       "scheduled_at": "2019-02-19",
       "home_team_id": "LIB",
       "away_team_id": "KVA",
@@ -6977,6 +7294,7 @@
     {
       "id": "2018-46-LIT-TRI",
       "round": 46,
+      "season": 2018,
       "scheduled_at": "2019-02-19",
       "home_team_id": "LIT",
       "away_team_id": "TRI",
@@ -6999,6 +7317,7 @@
     {
       "id": "2018-46-PCE-MBL",
       "round": 46,
+      "season": 2018,
       "scheduled_at": "2019-02-19",
       "home_team_id": "PCE",
       "away_team_id": "MBL",
@@ -7021,6 +7340,7 @@
     {
       "id": "2018-46-PLZ-ZLN",
       "round": 46,
+      "season": 2018,
       "scheduled_at": "2019-02-20",
       "home_team_id": "PLZ",
       "away_team_id": "ZLN",
@@ -7043,6 +7363,7 @@
     {
       "id": "2018-46-SPA-OLO",
       "round": 46,
+      "season": 2018,
       "scheduled_at": "2019-02-19",
       "home_team_id": "SPA",
       "away_team_id": "OLO",
@@ -7065,6 +7386,7 @@
     {
       "id": "2018-46-VIT-CHM",
       "round": 46,
+      "season": 2018,
       "scheduled_at": "2019-02-19",
       "home_team_id": "VIT",
       "away_team_id": "CHM",
@@ -7087,6 +7409,7 @@
     {
       "id": "2018-47-CHM-PCE",
       "round": 47,
+      "season": 2018,
       "scheduled_at": "2019-02-22",
       "home_team_id": "CHM",
       "away_team_id": "PCE",
@@ -7109,6 +7432,7 @@
     {
       "id": "2018-47-HKR-LIT",
       "round": 47,
+      "season": 2018,
       "scheduled_at": "2019-02-22",
       "home_team_id": "HKR",
       "away_team_id": "LIT",
@@ -7131,6 +7455,7 @@
     {
       "id": "2018-47-KVA-KOM",
       "round": 47,
+      "season": 2018,
       "scheduled_at": "2019-02-22",
       "home_team_id": "KVA",
       "away_team_id": "KOM",
@@ -7153,6 +7478,7 @@
     {
       "id": "2018-47-MBL-PLZ",
       "round": 47,
+      "season": 2018,
       "scheduled_at": "2019-02-22",
       "home_team_id": "MBL",
       "away_team_id": "PLZ",
@@ -7175,6 +7501,7 @@
     {
       "id": "2018-47-OLO-LIB",
       "round": 47,
+      "season": 2018,
       "scheduled_at": "2019-02-22",
       "home_team_id": "OLO",
       "away_team_id": "LIB",
@@ -7197,6 +7524,7 @@
     {
       "id": "2018-47-VIT-TRI",
       "round": 47,
+      "season": 2018,
       "scheduled_at": "2019-02-22",
       "home_team_id": "VIT",
       "away_team_id": "TRI",
@@ -7219,6 +7547,7 @@
     {
       "id": "2018-47-ZLN-SPA",
       "round": 47,
+      "season": 2018,
       "scheduled_at": "2019-02-22",
       "home_team_id": "ZLN",
       "away_team_id": "SPA",
@@ -7241,6 +7570,7 @@
     {
       "id": "2018-48-LIB-HKR",
       "round": 48,
+      "season": 2018,
       "scheduled_at": "2019-02-24",
       "home_team_id": "LIB",
       "away_team_id": "HKR",
@@ -7263,6 +7593,7 @@
     {
       "id": "2018-48-LIT-KOM",
       "round": 48,
+      "season": 2018,
       "scheduled_at": "2019-02-24",
       "home_team_id": "LIT",
       "away_team_id": "KOM",
@@ -7285,6 +7616,7 @@
     {
       "id": "2018-48-MBL-CHM",
       "round": 48,
+      "season": 2018,
       "scheduled_at": "2019-02-24",
       "home_team_id": "MBL",
       "away_team_id": "CHM",
@@ -7307,6 +7639,7 @@
     {
       "id": "2018-48-PCE-ZLN",
       "round": 48,
+      "season": 2018,
       "scheduled_at": "2019-02-24",
       "home_team_id": "PCE",
       "away_team_id": "ZLN",
@@ -7329,6 +7662,7 @@
     {
       "id": "2018-48-PLZ-OLO",
       "round": 48,
+      "season": 2018,
       "scheduled_at": "2019-02-24",
       "home_team_id": "PLZ",
       "away_team_id": "OLO",
@@ -7351,6 +7685,7 @@
     {
       "id": "2018-48-SPA-TRI",
       "round": 48,
+      "season": 2018,
       "scheduled_at": "2019-02-27",
       "home_team_id": "SPA",
       "away_team_id": "TRI",
@@ -7373,6 +7708,7 @@
     {
       "id": "2018-48-VIT-KVA",
       "round": 48,
+      "season": 2018,
       "scheduled_at": "2019-02-24",
       "home_team_id": "VIT",
       "away_team_id": "KVA",
@@ -7395,6 +7731,7 @@
     {
       "id": "2018-49-HKR-PLZ",
       "round": 49,
+      "season": 2018,
       "scheduled_at": "2019-03-01",
       "home_team_id": "HKR",
       "away_team_id": "PLZ",
@@ -7417,6 +7754,7 @@
     {
       "id": "2018-49-KOM-VIT",
       "round": 49,
+      "season": 2018,
       "scheduled_at": "2019-03-01",
       "home_team_id": "KOM",
       "away_team_id": "VIT",
@@ -7439,6 +7777,7 @@
     {
       "id": "2018-49-LIT-LIB",
       "round": 49,
+      "season": 2018,
       "scheduled_at": "2019-03-01",
       "home_team_id": "LIT",
       "away_team_id": "LIB",
@@ -7461,6 +7800,7 @@
     {
       "id": "2018-49-OLO-MBL",
       "round": 49,
+      "season": 2018,
       "scheduled_at": "2019-03-01",
       "home_team_id": "OLO",
       "away_team_id": "MBL",
@@ -7483,6 +7823,7 @@
     {
       "id": "2018-49-PCE-TRI",
       "round": 49,
+      "season": 2018,
       "scheduled_at": "2019-03-01",
       "home_team_id": "PCE",
       "away_team_id": "TRI",
@@ -7505,6 +7846,7 @@
     {
       "id": "2018-49-SPA-KVA",
       "round": 49,
+      "season": 2018,
       "scheduled_at": "2019-03-01",
       "home_team_id": "SPA",
       "away_team_id": "KVA",
@@ -7527,6 +7869,7 @@
     {
       "id": "2018-49-ZLN-CHM",
       "round": 49,
+      "season": 2018,
       "scheduled_at": "2019-03-01",
       "home_team_id": "ZLN",
       "away_team_id": "CHM",
@@ -7549,6 +7892,7 @@
     {
       "id": "2018-50-CHM-KVA",
       "round": 50,
+      "season": 2018,
       "scheduled_at": "2019-03-03",
       "home_team_id": "CHM",
       "away_team_id": "KVA",
@@ -7571,6 +7915,7 @@
     {
       "id": "2018-50-LIB-KOM",
       "round": 50,
+      "season": 2018,
       "scheduled_at": "2019-03-03",
       "home_team_id": "LIB",
       "away_team_id": "KOM",
@@ -7593,6 +7938,7 @@
     {
       "id": "2018-50-MBL-ZLN",
       "round": 50,
+      "season": 2018,
       "scheduled_at": "2019-03-03",
       "home_team_id": "MBL",
       "away_team_id": "ZLN",
@@ -7615,6 +7961,7 @@
     {
       "id": "2018-50-OLO-PCE",
       "round": 50,
+      "season": 2018,
       "scheduled_at": "2019-03-03",
       "home_team_id": "OLO",
       "away_team_id": "PCE",
@@ -7637,6 +7984,7 @@
     {
       "id": "2018-50-PLZ-TRI",
       "round": 50,
+      "season": 2018,
       "scheduled_at": "2019-03-03",
       "home_team_id": "PLZ",
       "away_team_id": "TRI",
@@ -7659,6 +8007,7 @@
     {
       "id": "2018-50-SPA-LIT",
       "round": 50,
+      "season": 2018,
       "scheduled_at": "2019-03-03",
       "home_team_id": "SPA",
       "away_team_id": "LIT",
@@ -7681,6 +8030,7 @@
     {
       "id": "2018-50-VIT-HKR",
       "round": 50,
+      "season": 2018,
       "scheduled_at": "2019-03-03",
       "home_team_id": "VIT",
       "away_team_id": "HKR",
@@ -7703,6 +8053,7 @@
     {
       "id": "2018-51-HKR-MBL",
       "round": 51,
+      "season": 2018,
       "scheduled_at": "2019-03-05",
       "home_team_id": "HKR",
       "away_team_id": "MBL",
@@ -7725,6 +8076,7 @@
     {
       "id": "2018-51-KOM-SPA",
       "round": 51,
+      "season": 2018,
       "scheduled_at": "2019-03-05",
       "home_team_id": "KOM",
       "away_team_id": "SPA",
@@ -7747,6 +8099,7 @@
     {
       "id": "2018-51-KVA-PCE",
       "round": 51,
+      "season": 2018,
       "scheduled_at": "2019-03-05",
       "home_team_id": "KVA",
       "away_team_id": "PCE",
@@ -7769,6 +8122,7 @@
     {
       "id": "2018-51-LIB-VIT",
       "round": 51,
+      "season": 2018,
       "scheduled_at": "2019-03-05",
       "home_team_id": "LIB",
       "away_team_id": "VIT",
@@ -7791,6 +8145,7 @@
     {
       "id": "2018-51-LIT-PLZ",
       "round": 51,
+      "season": 2018,
       "scheduled_at": "2019-03-05",
       "home_team_id": "LIT",
       "away_team_id": "PLZ",
@@ -7813,6 +8168,7 @@
     {
       "id": "2018-51-OLO-ZLN",
       "round": 51,
+      "season": 2018,
       "scheduled_at": "2019-03-05",
       "home_team_id": "OLO",
       "away_team_id": "ZLN",
@@ -7835,6 +8191,7 @@
     {
       "id": "2018-51-TRI-CHM",
       "round": 51,
+      "season": 2018,
       "scheduled_at": "2019-03-05",
       "home_team_id": "TRI",
       "away_team_id": "CHM",
@@ -7857,6 +8214,7 @@
     {
       "id": "2018-52-CHM-OLO",
       "round": 52,
+      "season": 2018,
       "scheduled_at": "2019-03-08",
       "home_team_id": "CHM",
       "away_team_id": "OLO",
@@ -7879,6 +8237,7 @@
     {
       "id": "2018-52-MBL-TRI",
       "round": 52,
+      "season": 2018,
       "scheduled_at": "2019-03-08",
       "home_team_id": "MBL",
       "away_team_id": "TRI",
@@ -7901,6 +8260,7 @@
     {
       "id": "2018-52-PCE-HKR",
       "round": 52,
+      "season": 2018,
       "scheduled_at": "2019-03-08",
       "home_team_id": "PCE",
       "away_team_id": "HKR",
@@ -7923,6 +8283,7 @@
     {
       "id": "2018-52-PLZ-KVA",
       "round": 52,
+      "season": 2018,
       "scheduled_at": "2019-03-08",
       "home_team_id": "PLZ",
       "away_team_id": "KVA",
@@ -7945,6 +8306,7 @@
     {
       "id": "2018-52-SPA-LIB",
       "round": 52,
+      "season": 2018,
       "scheduled_at": "2019-03-08",
       "home_team_id": "SPA",
       "away_team_id": "LIB",
@@ -7967,6 +8329,7 @@
     {
       "id": "2018-52-VIT-LIT",
       "round": 52,
+      "season": 2018,
       "scheduled_at": "2019-03-08",
       "home_team_id": "VIT",
       "away_team_id": "LIT",
@@ -7989,6 +8352,7 @@
     {
       "id": "2018-52-ZLN-KOM",
       "round": 52,
+      "season": 2018,
       "scheduled_at": "2019-03-08",
       "home_team_id": "ZLN",
       "away_team_id": "KOM",
