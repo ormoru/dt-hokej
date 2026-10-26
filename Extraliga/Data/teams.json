@@ -8,7 +8,8 @@
     "link_blog"    : "https://www.hokej.cz/klub/banes-motor-c-budejovice/1721",
     "link_wiki"    : "https://cs.wikipedia.org/wiki/Banes_Motor_%C4%8Cesk%C3%A9_Bud%C4%9Bjovice",
     "link_youtube" : "",
-    "link_facebook": ""
+    "link_facebook": "",
+    "logo"         : ""
   },
   "CHM": {
     "name"         : "Piráti Chomutov",
@@ -19,7 +20,8 @@
     "link_blog"    : "https://www.hokej.cz/klub/pirati-chomutov/822",
     "link_wiki"    : "https://cs.wikipedia.org/wiki/Pir%C3%A1ti_Chomutov",
     "link_youtube" : "",
-    "link_facebook": ""
+    "link_facebook": "",
+    "logo"         : ""
   },
   "HKR": {
     "name"         : "Mountfield HK",
@@ -30,7 +32,8 @@
     "link_blog"    : "https://www.hokej.cz/klub/mountfield-hk/1711",
     "link_wiki"    : "https://cs.wikipedia.org/wiki/Mountfield_HK",
     "link_youtube" : "",
-    "link_facebook": ""
+    "link_facebook": "",
+    "logo"         : ""
   },
   "JIH": {
     "name"         : "Dukla Jihlava",
@@ -41,7 +44,8 @@
     "link_blog"    : "https://www.hokej.cz/klub/hc-dukla-jihlava/16",
     "link_wiki"    : "https://cs.wikipedia.org/wiki/HC_Dukla_Jihlava",
     "link_youtube" : "",
-    "link_facebook": ""
+    "link_facebook": "",
+    "logo"         : ""
   },
   "KVA": {
     "name"         : "BYD Energie Karlovy Vary",
@@ -52,7 +56,8 @@
     "link_blog"    : "https://www.hokej.cz/klub/hc-energie-karlovy-vary/5",
     "link_wiki"    : "https://cs.wikipedia.org/wiki/HC_Energie_Karlovy_Vary",
     "link_youtube" : "",
-    "link_facebook": ""
+    "link_facebook": "",
+    "logo"         : ""
   },
   "KLA": {
     "name"         : "Rytíři Kladno",
@@ -63,7 +68,8 @@
     "link_blog"    : "https://www.hokej.cz/klub/rytiri-kladno/828",
     "link_wiki"    : "https://cs.wikipedia.org/wiki/Ryt%C3%AD%C5%99i_Kladno",
     "link_youtube" : "https://www.youtube.com/@RytiriKladnoVideo",
-    "link_facebook": "https://www.facebook.com/RytiriKladno"
+    "link_facebook": "https://www.facebook.com/RytiriKladno",
+    "logo"         : ""
   },
   "KOM": {
     "name"         : "HC Kometa Brno",
@@ -74,7 +80,8 @@
     "link_blog"    : "https://www.hokej.cz/klub/hc-kometa-brno/22",
     "link_wiki"    : "https://cs.wikipedia.org/wiki/HC_Kometa_Brno",
     "link_youtube" : "",
-    "link_facebook": ""
+    "link_facebook": "",
+    "logo"         : ""
   },
   "LIB": {
     "name"         : "Bílí Tygři Liberec",
@@ -85,7 +92,8 @@
     "link_blog"    : "https://www.hokej.cz/klub/bili-tygri-liberec/18",
     "link_wiki"    : "https://cs.wikipedia.org/wiki/B%C3%ADl%C3%AD_Tyg%C5%99i_Liberec",
     "link_youtube" : "",
-    "link_facebook": ""
+    "link_facebook": "",
+    "logo"         : ""
   },
   "LIT": {
     "name"         : "HC Verva Litvínov",
@@ -96,7 +104,8 @@
     "link_blog"    : "https://www.hokej.cz/klub/hc-verva-litvinov/823",
     "link_wiki"    : "https://cs.wikipedia.org/wiki/HC_Verva_Litv%C3%ADnov",
     "link_youtube" : "",
-    "link_facebook": ""
+    "link_facebook": "",
+    "logo"         : ""
   },
   "MBL": {
     "name"         : "BK Mladá Boleslav",
@@ -107,7 +116,8 @@
     "link_youtube" : "",
     "link_blog"    : "https://www.hokej.cz/klub/bk-mlada-boleslav/89",
     "link_facebook": "",
-    "link_wiki"    : "https://cs.wikipedia.org/wiki/BK_Mlad%C3%A1_Boleslav"
+    "link_wiki"    : "https://cs.wikipedia.org/wiki/BK_Mlad%C3%A1_Boleslav",
+    "logo"         : ""
   },
   "OLO": {
     "name"         : "HC Olomouc",
@@ -118,7 +128,8 @@
     "link_blog"    : "https://www.hokej.cz/klub/hc-olomouc/24",
     "link_wiki"    : "https://cs.wikipedia.org/wiki/HC_Olomouc",
     "link_youtube" : "",
-    "link_facebook": ""
+    "link_facebook": "",
+    "logo"         : ""
   },
   "PCE": {
     "name"         : "HC Dynamo Pardubice",
@@ -129,7 +140,8 @@
     "link_blog"    : "https://www.hokej.cz/klub/hc-dynamo-pardubice/12",
     "link_wiki"    : "https://cs.wikipedia.org/wiki/HC_Dynamo_Pardubice",
     "link_youtube" : "",
-    "link_facebook": ""
+    "link_facebook": "",
+    "logo"         : ""
   },
   "PLZ": {
     "name"         : "HC Škoda Plzeň",
@@ -140,7 +152,8 @@
     "link_blog"    : "https://www.hokej.cz/klub/hc-skoda-plzen/917",
     "link_wiki"    : "https://cs.wikipedia.org/wiki/HC_%C5%A0koda_Plze%C5%88",
     "link_youtube" : "",
-    "link_facebook": ""
+    "link_facebook": "",
+    "logo"         : ""
   },
   "SLA": {
     "name"         : "HC Slavia Praha",
@@ -151,7 +164,8 @@
     "link_blog"    : "https://www.hokej.cz/klub/hc-slavia-praha/9",
     "link_wiki"    : "https://cs.wikipedia.org/wiki/HC_Slavia_Praha",
     "link_youtube" : "",
-    "link_facebook": ""
+    "link_facebook": "",
+    "logo"         : ""
   },
   "SPA": {
     "name"         : "HC Sparta Praha",
@@ -162,7 +176,8 @@
     "link_blog"    : "https://www.hokej.cz/klub/hc-sparta-praha/8",
     "link_wiki"    : "https://cs.wikipedia.org/wiki/HC_Sparta_Praha",
     "link_youtube" : "",
-    "link_facebook": ""
+    "link_facebook": "",
+    "logo"         : ""
   },
   "TRI": {
     "name"         : "HC Oceláři Třinec",
@@ -173,7 +188,8 @@
     "link_blog"    : "https://www.hokej.cz/klub/hc-ocelari-trinec/11",
     "link_wiki"    : "https://cs.wikipedia.org/wiki/HC_Ocel%C3%A1%C5%99i_T%C5%99inec",
     "link_youtube" : "",
-    "link_facebook": ""
+    "link_facebook": "",
+    "logo"         : ""
   },
   "VIT": {
     "name"         : "HC Vítkovice Ridera",
@@ -184,7 +200,8 @@
     "link_blog"    : "https://www.hokej.cz/klub/hc-vitkovice-ridera/7",
     "link_wiki"    : "https://cs.wikipedia.org/wiki/HC_V%C3%ADtkovice_Ridera",
     "link_youtube" : "",
-    "link_facebook": ""
+    "link_facebook": "",
+    "logo"         : ""
   },
   "ZLN": {
     "name"         : "Berani Zlín",
@@ -195,6 +212,7 @@
     "link_blog"    : "https://www.hokej.cz/klub/ri-okna-berani-zlin/562",
     "link_wiki"    : "https://cs.wikipedia.org/wiki/RI_Okna_Berani_Zl%C3%ADn",
     "link_youtube" : "",
-    "link_facebook": ""
+    "link_facebook": "",
+    "logo"         : ""
   }
 }
