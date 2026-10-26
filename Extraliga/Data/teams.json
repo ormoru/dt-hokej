@@ -1,92 +1,200 @@
 {
   "CEB": {
-    "name"      : "Banes Motor Č. Budějovice",
-    "short_name": "České Budějovice",
-    "color"     : "#FFCC00"
+    "name"         : "Banes Motor Č. Budějovice",
+    "short_name"   : "České Budějovice",
+    "color"        : "#FFCC00",
+    "color_2"      : "",
+    "link_web"     : "http://www.hcmotor.cz/",
+    "link_blog"    : "https://www.hokej.cz/klub/banes-motor-c-budejovice/1721",
+    "link_wiki"    : "https://cs.wikipedia.org/wiki/Banes_Motor_%C4%8Cesk%C3%A9_Bud%C4%9Bjovice",
+    "link_youtube" : "",
+    "link_facebook": ""
   },
   "CHM": {
-    "name"      : "Piráti Chomutov",
-    "short_name": "Chomutov",
-    "color"     : "#4e1c22"
+    "name"         : "Piráti Chomutov",
+    "short_name"   : "Chomutov",
+    "color"        : "#4e1c22",
+    "color_2"      : "",
+    "link_web"     : "https://www.piratichomutov.cz/",
+    "link_blog"    : "https://www.hokej.cz/klub/pirati-chomutov/822",
+    "link_wiki"    : "https://cs.wikipedia.org/wiki/Pir%C3%A1ti_Chomutov",
+    "link_youtube" : "",
+    "link_facebook": ""
   },
   "HKR": {
-    "name"      : "Mountfield HK",
-    "short_name": "Hradec Králové",
-    "color"     : "#E60000"
+    "name"         : "Mountfield HK",
+    "short_name"   : "Hradec Králové",
+    "color"        : "#E60000",
+    "color_2"      : "",
+    "link_web"     : "http://mountfieldhk.cz/",
+    "link_blog"    : "https://www.hokej.cz/klub/mountfield-hk/1711",
+    "link_wiki"    : "https://cs.wikipedia.org/wiki/Mountfield_HK",
+    "link_youtube" : "",
+    "link_facebook": ""
   },
   "JIH": {
-    "name"      : "Dukla Jihlava",
-    "short_name": "Jihlava",
-    "color"     : "#cb730f"
+    "name"         : "Dukla Jihlava",
+    "short_name"   : "Jihlava",
+    "color"        : "#cb730f",
+    "color_2"      : "",
+    "link_web"     : "https://www.hcdukla.cz/",
+    "link_blog"    : "https://www.hokej.cz/klub/hc-dukla-jihlava/16",
+    "link_wiki"    : "https://cs.wikipedia.org/wiki/HC_Dukla_Jihlava",
+    "link_youtube" : "",
+    "link_facebook": ""
   },
   "KVA": {
-    "name"      : "BYD Energie Karlovy Vary",
-    "short_name": "Karlovy Vary",
-    "color"     : "#00FFFF"
+    "name"         : "BYD Energie Karlovy Vary",
+    "short_name"   : "Karlovy Vary",
+    "color"        : "#00FFFF",
+    "color_2"      : "",
+    "link_web"     : "http://www.hokejkv.cz/",
+    "link_blog"    : "https://www.hokej.cz/klub/hc-energie-karlovy-vary/5",
+    "link_wiki"    : "https://cs.wikipedia.org/wiki/HC_Energie_Karlovy_Vary",
+    "link_youtube" : "",
+    "link_facebook": ""
   },
   "KLA": {
-    "name"      : "Rytíři Kladno",
-    "short_name": "Kladno",
-    "color"     : "#00529B"
+    "name"         : "Rytíři Kladno",
+    "short_name"   : "Kladno",
+    "color"        : "#00529B",
+    "color_2"      : "",
+    "link_web"     : "https://www.rytirikladno.cz/",
+    "link_blog"    : "https://www.hokej.cz/klub/rytiri-kladno/828",
+    "link_wiki"    : "https://cs.wikipedia.org/wiki/Ryt%C3%AD%C5%99i_Kladno",
+    "link_youtube" : "https://www.youtube.com/@RytiriKladnoVideo",
+    "link_facebook": "https://www.facebook.com/RytiriKladno"
   },
   "KOM": {
-    "name"      : "HC Kometa Brno",
-    "short_name": "Brno",
-    "color"     : "#003399"
+    "name"         : "HC Kometa Brno",
+    "short_name"   : "Brno",
+    "color"        : "#003399",
+    "color_2"      : "",
+    "link_web"     : "http://www.hc-kometa.cz/",
+    "link_blog"    : "https://www.hokej.cz/klub/hc-kometa-brno/22",
+    "link_wiki"    : "https://cs.wikipedia.org/wiki/HC_Kometa_Brno",
+    "link_youtube" : "",
+    "link_facebook": ""
   },
   "LIB": {
-    "name"      : "Bílí Tygři Liberec",
-    "short_name": "Liberec",
-    "color"     : "#009EE0"
+    "name"         : "Bílí Tygři Liberec",
+    "short_name"   : "Liberec",
+    "color"        : "#009EE0",
+    "color_2"      : "",
+    "link_web"     : "http://www.hcbilitygri.cz/",
+    "link_blog"    : "https://www.hokej.cz/klub/bili-tygri-liberec/18",
+    "link_wiki"    : "https://cs.wikipedia.org/wiki/B%C3%ADl%C3%AD_Tyg%C5%99i_Liberec",
+    "link_youtube" : "",
+    "link_facebook": ""
   },
   "LIT": {
-    "name"      : "HC Verva Litvínov",
-    "short_name": "Litvínov",
-    "color"     : "#F9A825"
+    "name"         : "HC Verva Litvínov",
+    "short_name"   : "Litvínov",
+    "color"        : "#F9A825",
+    "color_2"      : "",
+    "link_web"     : "http://www.hcvl.cz/",
+    "link_blog"    : "https://www.hokej.cz/klub/hc-verva-litvinov/823",
+    "link_wiki"    : "https://cs.wikipedia.org/wiki/HC_Verva_Litv%C3%ADnov",
+    "link_youtube" : "",
+    "link_facebook": ""
   },
   "MBL": {
-    "name"      : "BK Mladá Boleslav",
-    "short_name": "Mladá Boleslav",
-    "color"     : "#4CAF50"
+    "name"         : "BK Mladá Boleslav",
+    "short_name"   : "Mladá Boleslav",
+    "color"        : "#4CAF50",
+    "color_2"      : "",
+    "link_web"     : "http://www.bkboleslav.cz/",
+    "link_youtube" : "",
+    "link_blog"    : "https://www.hokej.cz/klub/bk-mlada-boleslav/89",
+    "link_facebook": "",
+    "link_wiki"    : "https://cs.wikipedia.org/wiki/BK_Mlad%C3%A1_Boleslav"
   },
   "OLO": {
-    "name"      : "HC Olomouc",
-    "short_name": "Olomouc",
-    "color"     : "#E53935"
+    "name"         : "HC Olomouc",
+    "short_name"   : "Olomouc",
+    "color"        : "#E53935",
+    "color_2"      : "",
+    "link_web"     : "http://www.hc-olomouc.cz/",
+    "link_blog"    : "https://www.hokej.cz/klub/hc-olomouc/24",
+    "link_wiki"    : "https://cs.wikipedia.org/wiki/HC_Olomouc",
+    "link_youtube" : "",
+    "link_facebook": ""
   },
   "PCE": {
-    "name"      : "HC Dynamo Pardubice",
-    "short_name": "Pardubice",
-    "color"     : "#CC0000"
+    "name"         : "HC Dynamo Pardubice",
+    "short_name"   : "Pardubice",
+    "color"        : "#CC0000",
+    "color_2"      : "",
+    "link_web"     : "http://www.hcdynamo.cz/",
+    "link_blog"    : "https://www.hokej.cz/klub/hc-dynamo-pardubice/12",
+    "link_wiki"    : "https://cs.wikipedia.org/wiki/HC_Dynamo_Pardubice",
+    "link_youtube" : "",
+    "link_facebook": ""
   },
   "PLZ": {
-    "name"      : "HC Škoda Plzeň",
-    "short_name": "Plzeň",
-    "color"     : "#0D47A1"
+    "name"         : "HC Škoda Plzeň",
+    "short_name"   : "Plzeň",
+    "color"        : "#0D47A1",
+    "color_2"      : "",
+    "link_web"     : "http://www.hcskoda.cz/",
+    "link_blog"    : "https://www.hokej.cz/klub/hc-skoda-plzen/917",
+    "link_wiki"    : "https://cs.wikipedia.org/wiki/HC_%C5%A0koda_Plze%C5%88",
+    "link_youtube" : "",
+    "link_facebook": ""
   },
   "SLA": {
-    "name"      : "HC Slavia Praha",
-    "short_name": "Slavia",
-    "color"     : "#d31313"
+    "name"         : "HC Slavia Praha",
+    "short_name"   : "Slavia",
+    "color"        : "#d31313",
+    "color_2"      : "",
+    "link_web"     : "https://hc-slavia.cz/",
+    "link_blog"    : "https://www.hokej.cz/klub/hc-slavia-praha/9",
+    "link_wiki"    : "https://cs.wikipedia.org/wiki/HC_Slavia_Praha",
+    "link_youtube" : "",
+    "link_facebook": ""
   },
   "SPA": {
-    "name"      : "HC Sparta Praha",
-    "short_name": "Sparta",
-    "color"     : "#800020"
+    "name"         : "HC Sparta Praha",
+    "short_name"   : "Sparta",
+    "color"        : "#800020",
+    "color_2"      : "",
+    "link_web"     : "http://www.hcsparta.cz/",
+    "link_blog"    : "https://www.hokej.cz/klub/hc-sparta-praha/8",
+    "link_wiki"    : "https://cs.wikipedia.org/wiki/HC_Sparta_Praha",
+    "link_youtube" : "",
+    "link_facebook": ""
   },
   "TRI": {
-    "name"      : "HC Oceláři Třinec",
-    "short_name": "Třinec",
-    "color"     : "#D32F2F"
+    "name"         : "HC Oceláři Třinec",
+    "short_name"   : "Třinec",
+    "color"        : "#D32F2F",
+    "color_2"      : "",
+    "link_web"     : "https://www.hcocelari.cz/",
+    "link_blog"    : "https://www.hokej.cz/klub/hc-ocelari-trinec/11",
+    "link_wiki"    : "https://cs.wikipedia.org/wiki/HC_Ocel%C3%A1%C5%99i_T%C5%99inec",
+    "link_youtube" : "",
+    "link_facebook": ""
   },
   "VIT": {
-    "name"      : "HC Vítkovice Ridera",
-    "short_name": "Vítkovice",
-    "color"     : "#01579B"
+    "name"         : "HC Vítkovice Ridera",
+    "short_name"   : "Vítkovice",
+    "color"        : "#01579B",
+    "color_2"      : "",
+    "link_web"     : "http://www.hc-vitkovice.cz/",
+    "link_blog"    : "https://www.hokej.cz/klub/hc-vitkovice-ridera/7",
+    "link_wiki"    : "https://cs.wikipedia.org/wiki/HC_V%C3%ADtkovice_Ridera",
+    "link_youtube" : "",
+    "link_facebook": ""
   },
   "ZLN": {
-    "name"      : "Berani Zlín",
-    "short_name": "Zlín",
-    "color"     : "#d7cb23"
+    "name"         : "Berani Zlín",
+    "short_name"   : "Zlín",
+    "color"        : "#FECD00",
+    "color_2"      : "#001A3F",
+    "link_web"     : "https://www.beranizlin.cz/",
+    "link_blog"    : "https://www.hokej.cz/klub/ri-okna-berani-zlin/562",
+    "link_wiki"    : "https://cs.wikipedia.org/wiki/RI_Okna_Berani_Zl%C3%ADn",
+    "link_youtube" : "",
+    "link_facebook": ""
   }
 }
