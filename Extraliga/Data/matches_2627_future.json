@@ -1,0 +1,2462 @@
+[
+  {
+    "id": "2928379",
+    "round": 18,
+    "date": "2026-11-13",
+    "time": "17:00",
+    "home_team_id": "TRI",
+    "away_team_id": "LIB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928379"
+  },
+  {
+    "id": "2928376",
+    "round": 18,
+    "date": "2026-11-13",
+    "time": "17:30",
+    "home_team_id": "LIT",
+    "away_team_id": "CEB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928376"
+  },
+  {
+    "id": "2928378",
+    "round": 18,
+    "date": "2026-11-13",
+    "time": "17:30",
+    "home_team_id": "MBL",
+    "away_team_id": "VIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928378"
+  },
+  {
+    "id": "2928374",
+    "round": 18,
+    "date": "2026-11-13",
+    "time": "18:00",
+    "home_team_id": "PCE",
+    "away_team_id": "KOM",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928374"
+  },
+  {
+    "id": "2928375",
+    "round": 18,
+    "date": "2026-11-13",
+    "time": "18:00",
+    "home_team_id": "OLO",
+    "away_team_id": "KLA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928375"
+  },
+  {
+    "id": "2928377",
+    "round": 18,
+    "date": "2026-11-13",
+    "time": "18:00",
+    "home_team_id": "KVA",
+    "away_team_id": "SPA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928377"
+  },
+  {
+    "id": "2928380",
+    "round": 18,
+    "date": "2026-11-13",
+    "time": "18:00",
+    "home_team_id": "MHK",
+    "away_team_id": "PLZ",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928380"
+  },
+  {
+    "id": "2928382",
+    "round": 19,
+    "date": "2026-11-15",
+    "time": "16:00",
+    "home_team_id": "KLA",
+    "away_team_id": "TRI",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928382"
+  },
+  {
+    "id": "2928383",
+    "round": 19,
+    "date": "2026-11-15",
+    "time": "16:00",
+    "home_team_id": "LIB",
+    "away_team_id": "LIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928383"
+  },
+  {
+    "id": "2928387",
+    "round": 19,
+    "date": "2026-11-15",
+    "time": "16:00",
+    "home_team_id": "SPA",
+    "away_team_id": "MHK",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928387"
+  },
+  {
+    "id": "2928381",
+    "round": 19,
+    "date": "2026-11-15",
+    "time": "17:00",
+    "home_team_id": "CEB",
+    "away_team_id": "PCE",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928381"
+  },
+  {
+    "id": "2928384",
+    "round": 19,
+    "date": "2026-11-15",
+    "time": "17:00",
+    "home_team_id": "VIT",
+    "away_team_id": "OLO",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928384"
+  },
+  {
+    "id": "2928385",
+    "round": 19,
+    "date": "2026-11-15",
+    "time": "17:30",
+    "home_team_id": "PLZ",
+    "away_team_id": "MBL",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928385"
+  },
+  {
+    "id": "2928395",
+    "round": 21,
+    "date": "2026-11-18",
+    "time": "17:00",
+    "home_team_id": "TRI",
+    "away_team_id": "OLO",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928395"
+  },
+  {
+    "id": "2928360",
+    "round": 16,
+    "date": "2026-11-18",
+    "time": "18:00",
+    "home_team_id": "MHK",
+    "away_team_id": "KOM",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928360"
+  },
+  {
+    "id": "2928390",
+    "round": 20,
+    "date": "2026-11-19",
+    "time": "17:30",
+    "home_team_id": "CEB",
+    "away_team_id": "SPA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928390"
+  },
+  {
+    "id": "2928392",
+    "round": 20,
+    "date": "2026-11-20",
+    "time": "12:00",
+    "home_team_id": "KVA",
+    "away_team_id": "VIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928392"
+  },
+  {
+    "id": "2928388",
+    "round": 20,
+    "date": "2026-11-20",
+    "time": "17:30",
+    "home_team_id": "LIT",
+    "away_team_id": "TRI",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928388"
+  },
+  {
+    "id": "2928391",
+    "round": 20,
+    "date": "2026-11-20",
+    "time": "17:30",
+    "home_team_id": "PLZ",
+    "away_team_id": "PCE",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928391"
+  },
+  {
+    "id": "2928394",
+    "round": 20,
+    "date": "2026-11-20",
+    "time": "17:30",
+    "home_team_id": "MBL",
+    "away_team_id": "KOM",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928394"
+  },
+  {
+    "id": "2928389",
+    "round": 20,
+    "date": "2026-11-20",
+    "time": "18:00",
+    "home_team_id": "MHK",
+    "away_team_id": "KLA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928389"
+  },
+  {
+    "id": "2928393",
+    "round": 20,
+    "date": "2026-11-20",
+    "time": "18:00",
+    "home_team_id": "OLO",
+    "away_team_id": "LIB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928393"
+  },
+  {
+    "id": "2928397",
+    "round": 21,
+    "date": "2026-11-22",
+    "time": "16:00",
+    "home_team_id": "LIB",
+    "away_team_id": "MBL",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928397"
+  },
+  {
+    "id": "2928398",
+    "round": 21,
+    "date": "2026-11-22",
+    "time": "16:00",
+    "home_team_id": "KLA",
+    "away_team_id": "LIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928398"
+  },
+  {
+    "id": "2928400",
+    "round": 21,
+    "date": "2026-11-22",
+    "time": "16:30",
+    "home_team_id": "PLZ",
+    "away_team_id": "KVA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928400"
+  },
+  {
+    "id": "2928396",
+    "round": 21,
+    "date": "2026-11-22",
+    "time": "17:00",
+    "home_team_id": "PCE",
+    "away_team_id": "SPA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928396"
+  },
+  {
+    "id": "2928399",
+    "round": 21,
+    "date": "2026-11-22",
+    "time": "17:00",
+    "home_team_id": "VIT",
+    "away_team_id": "MHK",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928399"
+  },
+  {
+    "id": "2928401",
+    "round": 21,
+    "date": "2026-11-22",
+    "time": "17:00",
+    "home_team_id": "KOM",
+    "away_team_id": "CEB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928401"
+  },
+  {
+    "id": "2928403",
+    "round": 22,
+    "date": "2026-11-24",
+    "time": "17:30",
+    "home_team_id": "MBL",
+    "away_team_id": "KLA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928403"
+  },
+  {
+    "id": "2928406",
+    "round": 22,
+    "date": "2026-11-24",
+    "time": "17:30",
+    "home_team_id": "CEB",
+    "away_team_id": "PLZ",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928406"
+  },
+  {
+    "id": "2928402",
+    "round": 22,
+    "date": "2026-11-24",
+    "time": "18:00",
+    "home_team_id": "KOM",
+    "away_team_id": "SPA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928402"
+  },
+  {
+    "id": "2928404",
+    "round": 22,
+    "date": "2026-11-24",
+    "time": "18:00",
+    "home_team_id": "MHK",
+    "away_team_id": "TRI",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928404"
+  },
+  {
+    "id": "2928405",
+    "round": 22,
+    "date": "2026-11-24",
+    "time": "18:00",
+    "home_team_id": "OLO",
+    "away_team_id": "LIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928405"
+  },
+  {
+    "id": "2928407",
+    "round": 22,
+    "date": "2026-11-24",
+    "time": "18:00",
+    "home_team_id": "PCE",
+    "away_team_id": "VIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928407"
+  },
+  {
+    "id": "2928408",
+    "round": 22,
+    "date": "2026-11-24",
+    "time": "18:00",
+    "home_team_id": "KVA",
+    "away_team_id": "LIB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928408"
+  },
+  {
+    "id": "2928409",
+    "round": 23,
+    "date": "2026-11-27",
+    "time": "17:00",
+    "home_team_id": "TRI",
+    "away_team_id": "PCE",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928409"
+  },
+  {
+    "id": "2928410",
+    "round": 23,
+    "date": "2026-11-27",
+    "time": "17:30",
+    "home_team_id": "LIT",
+    "away_team_id": "MBL",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928410"
+  },
+  {
+    "id": "2928412",
+    "round": 23,
+    "date": "2026-11-27",
+    "time": "17:30",
+    "home_team_id": "VIT",
+    "away_team_id": "SPA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928412"
+  },
+  {
+    "id": "2928415",
+    "round": 23,
+    "date": "2026-11-27",
+    "time": "17:30",
+    "home_team_id": "PLZ",
+    "away_team_id": "KOM",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928415"
+  },
+  {
+    "id": "2928413",
+    "round": 23,
+    "date": "2026-11-27",
+    "time": "18:00",
+    "home_team_id": "OLO",
+    "away_team_id": "MHK",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928413"
+  },
+  {
+    "id": "2928414",
+    "round": 23,
+    "date": "2026-11-27",
+    "time": "18:00",
+    "home_team_id": "KLA",
+    "away_team_id": "KVA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928414"
+  },
+  {
+    "id": "2928416",
+    "round": 24,
+    "date": "2026-11-29",
+    "time": "16:00",
+    "home_team_id": "KVA",
+    "away_team_id": "OLO",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928416"
+  },
+  {
+    "id": "2928417",
+    "round": 24,
+    "date": "2026-11-29",
+    "time": "16:00",
+    "home_team_id": "SPA",
+    "away_team_id": "PLZ",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928417"
+  },
+  {
+    "id": "2928419",
+    "round": 24,
+    "date": "2026-11-29",
+    "time": "16:00",
+    "home_team_id": "LIB",
+    "away_team_id": "PCE",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928419"
+  },
+  {
+    "id": "2928420",
+    "round": 24,
+    "date": "2026-11-29",
+    "time": "16:00",
+    "home_team_id": "MHK",
+    "away_team_id": "LIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928420"
+  },
+  {
+    "id": "2928421",
+    "round": 24,
+    "date": "2026-11-29",
+    "time": "16:00",
+    "home_team_id": "MBL",
+    "away_team_id": "TRI",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928421"
+  },
+  {
+    "id": "2928418",
+    "round": 24,
+    "date": "2026-11-29",
+    "time": "17:00",
+    "home_team_id": "CEB",
+    "away_team_id": "VIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928418"
+  },
+  {
+    "id": "2928422",
+    "round": 24,
+    "date": "2026-11-29",
+    "time": "17:00",
+    "home_team_id": "KOM",
+    "away_team_id": "KLA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928422"
+  },
+  {
+    "id": "2928537",
+    "round": 41,
+    "date": "2026-12-02",
+    "time": "17:30",
+    "home_team_id": "VIT",
+    "away_team_id": "LIB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928537"
+  },
+  {
+    "id": "2928427",
+    "round": 25,
+    "date": "2026-12-03",
+    "time": "17:00",
+    "home_team_id": "TRI",
+    "away_team_id": "SPA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928427"
+  },
+  {
+    "id": "2928429",
+    "round": 25,
+    "date": "2026-12-04",
+    "time": "17:30",
+    "home_team_id": "VIT",
+    "away_team_id": "PLZ",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928429"
+  },
+  {
+    "id": "2928423",
+    "round": 25,
+    "date": "2026-12-04",
+    "time": "18:00",
+    "home_team_id": "KVA",
+    "away_team_id": "LIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928423"
+  },
+  {
+    "id": "2928424",
+    "round": 25,
+    "date": "2026-12-04",
+    "time": "18:00",
+    "home_team_id": "PCE",
+    "away_team_id": "OLO",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928424"
+  },
+  {
+    "id": "2928425",
+    "round": 25,
+    "date": "2026-12-04",
+    "time": "18:00",
+    "home_team_id": "MHK",
+    "away_team_id": "MBL",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928425"
+  },
+  {
+    "id": "2928426",
+    "round": 25,
+    "date": "2026-12-04",
+    "time": "18:00",
+    "home_team_id": "KLA",
+    "away_team_id": "CEB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928426"
+  },
+  {
+    "id": "2928428",
+    "round": 25,
+    "date": "2026-12-04",
+    "time": "18:00",
+    "home_team_id": "LIB",
+    "away_team_id": "KOM",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928428"
+  },
+  {
+    "id": "2928431",
+    "round": 26,
+    "date": "2026-12-06",
+    "time": "15:00",
+    "home_team_id": "PCE",
+    "away_team_id": "KLA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928431"
+  },
+  {
+    "id": "2928432",
+    "round": 26,
+    "date": "2026-12-06",
+    "time": "16:00",
+    "home_team_id": "SPA",
+    "away_team_id": "LIB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928432"
+  },
+  {
+    "id": "2928434",
+    "round": 26,
+    "date": "2026-12-06",
+    "time": "16:00",
+    "home_team_id": "MBL",
+    "away_team_id": "OLO",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928434"
+  },
+  {
+    "id": "2928435",
+    "round": 26,
+    "date": "2026-12-06",
+    "time": "16:00",
+    "home_team_id": "KVA",
+    "away_team_id": "MHK",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928435"
+  },
+  {
+    "id": "2928430",
+    "round": 26,
+    "date": "2026-12-06",
+    "time": "17:00",
+    "home_team_id": "CEB",
+    "away_team_id": "TRI",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928430"
+  },
+  {
+    "id": "2928436",
+    "round": 26,
+    "date": "2026-12-06",
+    "time": "17:00",
+    "home_team_id": "KOM",
+    "away_team_id": "VIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928436"
+  },
+  {
+    "id": "2928433",
+    "round": 26,
+    "date": "2026-12-06",
+    "time": "17:30",
+    "home_team_id": "PLZ",
+    "away_team_id": "LIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928433"
+  },
+  {
+    "id": "2928574",
+    "round": 46,
+    "date": "2026-12-08",
+    "time": "17:00",
+    "home_team_id": "KVA",
+    "away_team_id": "VIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928574"
+  },
+  {
+    "id": "2928441",
+    "round": 27,
+    "date": "2026-12-17",
+    "time": "17:30",
+    "home_team_id": "VIT",
+    "away_team_id": "KLA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928441"
+  },
+  {
+    "id": "2928442",
+    "round": 27,
+    "date": "2026-12-17",
+    "time": "18:00",
+    "home_team_id": "KVA",
+    "away_team_id": "TRI",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928442"
+  },
+  {
+    "id": "2928438",
+    "round": 27,
+    "date": "2026-12-18",
+    "time": "17:30",
+    "home_team_id": "CEB",
+    "away_team_id": "MBL",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928438"
+  },
+  {
+    "id": "2928443",
+    "round": 27,
+    "date": "2026-12-18",
+    "time": "17:30",
+    "home_team_id": "PLZ",
+    "away_team_id": "LIB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928443"
+  },
+  {
+    "id": "2928437",
+    "round": 27,
+    "date": "2026-12-18",
+    "time": "18:00",
+    "home_team_id": "PCE",
+    "away_team_id": "MHK",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928437"
+  },
+  {
+    "id": "2928439",
+    "round": 27,
+    "date": "2026-12-18",
+    "time": "18:00",
+    "home_team_id": "OLO",
+    "away_team_id": "SPA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928439"
+  },
+  {
+    "id": "2928440",
+    "round": 27,
+    "date": "2026-12-18",
+    "time": "18:00",
+    "home_team_id": "KOM",
+    "away_team_id": "LIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928440"
+  },
+  {
+    "id": "2928449",
+    "round": 28,
+    "date": "2026-12-20",
+    "time": "15:00",
+    "home_team_id": "TRI",
+    "away_team_id": "KOM",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928449"
+  },
+  {
+    "id": "2928447",
+    "round": 28,
+    "date": "2026-12-20",
+    "time": "15:30",
+    "home_team_id": "LIT",
+    "away_team_id": "PCE",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928447"
+  },
+  {
+    "id": "2928444",
+    "round": 28,
+    "date": "2026-12-20",
+    "time": "16:00",
+    "home_team_id": "MBL",
+    "away_team_id": "KVA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928444"
+  },
+  {
+    "id": "2928445",
+    "round": 28,
+    "date": "2026-12-20",
+    "time": "16:00",
+    "home_team_id": "SPA",
+    "away_team_id": "KLA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928445"
+  },
+  {
+    "id": "2928446",
+    "round": 28,
+    "date": "2026-12-20",
+    "time": "16:00",
+    "home_team_id": "LIB",
+    "away_team_id": "VIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928446"
+  },
+  {
+    "id": "2928448",
+    "round": 28,
+    "date": "2026-12-20",
+    "time": "16:00",
+    "home_team_id": "MHK",
+    "away_team_id": "CEB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928448"
+  },
+  {
+    "id": "2928450",
+    "round": 28,
+    "date": "2026-12-20",
+    "time": "17:00",
+    "home_team_id": "OLO",
+    "away_team_id": "PLZ",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928450"
+  },
+  {
+    "id": "2928453",
+    "round": 29,
+    "date": "2026-12-21",
+    "time": "17:00",
+    "home_team_id": "TRI",
+    "away_team_id": "PLZ",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928453"
+  },
+  {
+    "id": "2928454",
+    "round": 29,
+    "date": "2026-12-22",
+    "time": "17:30",
+    "home_team_id": "CEB",
+    "away_team_id": "OLO",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928454"
+  },
+  {
+    "id": "2928457",
+    "round": 29,
+    "date": "2026-12-22",
+    "time": "17:30",
+    "home_team_id": "VIT",
+    "away_team_id": "LIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928457"
+  },
+  {
+    "id": "2928451",
+    "round": 29,
+    "date": "2026-12-22",
+    "time": "18:00",
+    "home_team_id": "KOM",
+    "away_team_id": "MHK",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928451"
+  },
+  {
+    "id": "2928452",
+    "round": 29,
+    "date": "2026-12-22",
+    "time": "18:00",
+    "home_team_id": "PCE",
+    "away_team_id": "KVA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928452"
+  },
+  {
+    "id": "2928456",
+    "round": 29,
+    "date": "2026-12-22",
+    "time": "18:00",
+    "home_team_id": "LIB",
+    "away_team_id": "KLA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928456"
+  },
+  {
+    "id": "2928455",
+    "round": 29,
+    "date": "2026-12-22",
+    "time": "18:30",
+    "home_team_id": "SPA",
+    "away_team_id": "MBL",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928455"
+  },
+  {
+    "id": "2928458",
+    "round": 30,
+    "date": "2026-12-26",
+    "time": "16:00",
+    "home_team_id": "KLA",
+    "away_team_id": "PLZ",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928458"
+  },
+  {
+    "id": "2928459",
+    "round": 30,
+    "date": "2026-12-26",
+    "time": "16:00",
+    "home_team_id": "MBL",
+    "away_team_id": "PCE",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928459"
+  },
+  {
+    "id": "2928460",
+    "round": 30,
+    "date": "2026-12-26",
+    "time": "16:00",
+    "home_team_id": "LIT",
+    "away_team_id": "SPA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928460"
+  },
+  {
+    "id": "2928461",
+    "round": 30,
+    "date": "2026-12-26",
+    "time": "16:00",
+    "home_team_id": "MHK",
+    "away_team_id": "LIB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928461"
+  },
+  {
+    "id": "2928462",
+    "round": 30,
+    "date": "2026-12-26",
+    "time": "16:00",
+    "home_team_id": "KVA",
+    "away_team_id": "CEB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928462"
+  },
+  {
+    "id": "2928463",
+    "round": 30,
+    "date": "2026-12-26",
+    "time": "17:00",
+    "home_team_id": "OLO",
+    "away_team_id": "KOM",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928463"
+  },
+  {
+    "id": "2928464",
+    "round": 30,
+    "date": "2026-12-26",
+    "time": "17:00",
+    "home_team_id": "TRI",
+    "away_team_id": "VIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928464"
+  },
+  {
+    "id": "2928467",
+    "round": 31,
+    "date": "2026-12-28",
+    "time": "17:30",
+    "home_team_id": "CEB",
+    "away_team_id": "LIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928467"
+  },
+  {
+    "id": "2928469",
+    "round": 31,
+    "date": "2026-12-28",
+    "time": "17:30",
+    "home_team_id": "VIT",
+    "away_team_id": "MBL",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928469"
+  },
+  {
+    "id": "2928471",
+    "round": 31,
+    "date": "2026-12-28",
+    "time": "17:30",
+    "home_team_id": "PLZ",
+    "away_team_id": "MHK",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928471"
+  },
+  {
+    "id": "2928465",
+    "round": 31,
+    "date": "2026-12-28",
+    "time": "18:00",
+    "home_team_id": "KOM",
+    "away_team_id": "PCE",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928465"
+  },
+  {
+    "id": "2928466",
+    "round": 31,
+    "date": "2026-12-28",
+    "time": "18:00",
+    "home_team_id": "KLA",
+    "away_team_id": "OLO",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928466"
+  },
+  {
+    "id": "2928470",
+    "round": 31,
+    "date": "2026-12-28",
+    "time": "18:00",
+    "home_team_id": "LIB",
+    "away_team_id": "TRI",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928470"
+  },
+  {
+    "id": "2928468",
+    "round": 31,
+    "date": "2026-12-28",
+    "time": "18:30",
+    "home_team_id": "SPA",
+    "away_team_id": "KVA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928468"
+  },
+  {
+    "id": "2928473",
+    "round": 32,
+    "date": "2026-12-30",
+    "time": "17:00",
+    "home_team_id": "TRI",
+    "away_team_id": "KLA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928473"
+  },
+  {
+    "id": "2928474",
+    "round": 32,
+    "date": "2026-12-30",
+    "time": "17:30",
+    "home_team_id": "LIT",
+    "away_team_id": "LIB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928474"
+  },
+  {
+    "id": "2928476",
+    "round": 32,
+    "date": "2026-12-30",
+    "time": "17:30",
+    "home_team_id": "MBL",
+    "away_team_id": "PLZ",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928476"
+  },
+  {
+    "id": "2928472",
+    "round": 32,
+    "date": "2026-12-30",
+    "time": "18:00",
+    "home_team_id": "PCE",
+    "away_team_id": "CEB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928472"
+  },
+  {
+    "id": "2928475",
+    "round": 32,
+    "date": "2026-12-30",
+    "time": "18:00",
+    "home_team_id": "OLO",
+    "away_team_id": "VIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928475"
+  },
+  {
+    "id": "2928477",
+    "round": 32,
+    "date": "2026-12-30",
+    "time": "18:00",
+    "home_team_id": "KVA",
+    "away_team_id": "KOM",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928477"
+  },
+  {
+    "id": "2928478",
+    "round": 32,
+    "date": "2026-12-30",
+    "time": "18:00",
+    "home_team_id": "MHK",
+    "away_team_id": "SPA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928478"
+  },
+  {
+    "id": "2928479",
+    "round": 33,
+    "date": "2027-01-03",
+    "time": "15:00",
+    "home_team_id": "TRI",
+    "away_team_id": "LIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928479"
+  },
+  {
+    "id": "2928480",
+    "round": 33,
+    "date": "2027-01-03",
+    "time": "16:00",
+    "home_team_id": "KLA",
+    "away_team_id": "MHK",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928480"
+  },
+  {
+    "id": "2928481",
+    "round": 33,
+    "date": "2027-01-03",
+    "time": "16:00",
+    "home_team_id": "SPA",
+    "away_team_id": "CEB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928481"
+  },
+  {
+    "id": "2928483",
+    "round": 33,
+    "date": "2027-01-03",
+    "time": "16:00",
+    "home_team_id": "VIT",
+    "away_team_id": "KVA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928483"
+  },
+  {
+    "id": "2928484",
+    "round": 33,
+    "date": "2027-01-03",
+    "time": "16:00",
+    "home_team_id": "LIB",
+    "away_team_id": "OLO",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928484"
+  },
+  {
+    "id": "2928482",
+    "round": 33,
+    "date": "2027-01-03",
+    "time": "16:30",
+    "home_team_id": "PLZ",
+    "away_team_id": "PCE",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928482"
+  },
+  {
+    "id": "2928485",
+    "round": 33,
+    "date": "2027-01-03",
+    "time": "17:00",
+    "home_team_id": "KOM",
+    "away_team_id": "MBL",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928485"
+  },
+  {
+    "id": "2928555",
+    "round": 43,
+    "date": "2027-01-05",
+    "time": "17:30",
+    "home_team_id": "VIT",
+    "away_team_id": "TRI",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928555"
+  },
+  {
+    "id": "2928488",
+    "round": 34,
+    "date": "2027-01-08",
+    "time": "17:30",
+    "home_team_id": "MBL",
+    "away_team_id": "LIB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928488"
+  },
+  {
+    "id": "2928489",
+    "round": 34,
+    "date": "2027-01-08",
+    "time": "17:30",
+    "home_team_id": "LIT",
+    "away_team_id": "KLA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928489"
+  },
+  {
+    "id": "2928486",
+    "round": 34,
+    "date": "2027-01-08",
+    "time": "18:00",
+    "home_team_id": "OLO",
+    "away_team_id": "TRI",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928486"
+  },
+  {
+    "id": "2928490",
+    "round": 34,
+    "date": "2027-01-08",
+    "time": "18:00",
+    "home_team_id": "MHK",
+    "away_team_id": "VIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928490"
+  },
+  {
+    "id": "2928491",
+    "round": 34,
+    "date": "2027-01-08",
+    "time": "18:00",
+    "home_team_id": "KVA",
+    "away_team_id": "PLZ",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928491"
+  },
+  {
+    "id": "2928487",
+    "round": 34,
+    "date": "2027-01-08",
+    "time": "18:30",
+    "home_team_id": "SPA",
+    "away_team_id": "PCE",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928487"
+  },
+  {
+    "id": "2928495",
+    "round": 35,
+    "date": "2027-01-10",
+    "time": "15:00",
+    "home_team_id": "TRI",
+    "away_team_id": "MHK",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928495"
+  },
+  {
+    "id": "2928496",
+    "round": 35,
+    "date": "2027-01-10",
+    "time": "15:30",
+    "home_team_id": "LIT",
+    "away_team_id": "OLO",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928496"
+  },
+  {
+    "id": "2928494",
+    "round": 35,
+    "date": "2027-01-10",
+    "time": "16:00",
+    "home_team_id": "KLA",
+    "away_team_id": "MBL",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928494"
+  },
+  {
+    "id": "2928498",
+    "round": 35,
+    "date": "2027-01-10",
+    "time": "16:00",
+    "home_team_id": "VIT",
+    "away_team_id": "PCE",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928498"
+  },
+  {
+    "id": "2928499",
+    "round": 35,
+    "date": "2027-01-10",
+    "time": "16:00",
+    "home_team_id": "LIB",
+    "away_team_id": "KVA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928499"
+  },
+  {
+    "id": "2928497",
+    "round": 35,
+    "date": "2027-01-10",
+    "time": "16:30",
+    "home_team_id": "PLZ",
+    "away_team_id": "CEB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928497"
+  },
+  {
+    "id": "2928493",
+    "round": 35,
+    "date": "2027-01-10",
+    "time": "17:00",
+    "home_team_id": "KOM",
+    "away_team_id": "SPA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928493"
+  },
+  {
+    "id": "2928262",
+    "round": 2,
+    "date": "2027-01-13",
+    "time": "18:00",
+    "home_team_id": "LIB",
+    "away_team_id": "VIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928262"
+  },
+  {
+    "id": "2928492",
+    "round": 34,
+    "date": "2027-01-13",
+    "time": "18:00",
+    "home_team_id": "KOM",
+    "away_team_id": "CEB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928492"
+  },
+  {
+    "id": "2928501",
+    "round": 36,
+    "date": "2027-01-15",
+    "time": "17:30",
+    "home_team_id": "MBL",
+    "away_team_id": "LIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928501"
+  },
+  {
+    "id": "2928502",
+    "round": 36,
+    "date": "2027-01-15",
+    "time": "17:30",
+    "home_team_id": "CEB",
+    "away_team_id": "LIB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928502"
+  },
+  {
+    "id": "2928500",
+    "round": 36,
+    "date": "2027-01-15",
+    "time": "18:00",
+    "home_team_id": "PCE",
+    "away_team_id": "TRI",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928500"
+  },
+  {
+    "id": "2928504",
+    "round": 36,
+    "date": "2027-01-15",
+    "time": "18:00",
+    "home_team_id": "MHK",
+    "away_team_id": "OLO",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928504"
+  },
+  {
+    "id": "2928505",
+    "round": 36,
+    "date": "2027-01-15",
+    "time": "18:00",
+    "home_team_id": "KVA",
+    "away_team_id": "KLA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928505"
+  },
+  {
+    "id": "2928506",
+    "round": 36,
+    "date": "2027-01-15",
+    "time": "18:00",
+    "home_team_id": "KOM",
+    "away_team_id": "PLZ",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928506"
+  },
+  {
+    "id": "2928503",
+    "round": 36,
+    "date": "2027-01-15",
+    "time": "18:30",
+    "home_team_id": "SPA",
+    "away_team_id": "VIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928503"
+  },
+  {
+    "id": "2928512",
+    "round": 37,
+    "date": "2027-01-17",
+    "time": "15:00",
+    "home_team_id": "TRI",
+    "away_team_id": "MBL",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928512"
+  },
+  {
+    "id": "2928511",
+    "round": 37,
+    "date": "2027-01-17",
+    "time": "15:30",
+    "home_team_id": "LIT",
+    "away_team_id": "MHK",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928511"
+  },
+  {
+    "id": "2928509",
+    "round": 37,
+    "date": "2027-01-17",
+    "time": "16:00",
+    "home_team_id": "VIT",
+    "away_team_id": "CEB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928509"
+  },
+  {
+    "id": "2928510",
+    "round": 37,
+    "date": "2027-01-17",
+    "time": "16:00",
+    "home_team_id": "LIB",
+    "away_team_id": "PCE",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928510"
+  },
+  {
+    "id": "2928513",
+    "round": 37,
+    "date": "2027-01-17",
+    "time": "16:00",
+    "home_team_id": "KLA",
+    "away_team_id": "KOM",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928513"
+  },
+  {
+    "id": "2928508",
+    "round": 37,
+    "date": "2027-01-17",
+    "time": "16:30",
+    "home_team_id": "PLZ",
+    "away_team_id": "SPA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928508"
+  },
+  {
+    "id": "2928507",
+    "round": 37,
+    "date": "2027-01-17",
+    "time": "17:00",
+    "home_team_id": "OLO",
+    "away_team_id": "KVA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928507"
+  },
+  {
+    "id": "2928386",
+    "round": 19,
+    "date": "2027-01-18",
+    "time": "18:00",
+    "home_team_id": "KOM",
+    "away_team_id": "KVA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928386"
+  },
+  {
+    "id": "2928566",
+    "round": 45,
+    "date": "2027-01-20",
+    "time": "17:30",
+    "home_team_id": "VIT",
+    "away_team_id": "OLO",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928566"
+  },
+  {
+    "id": "2928516",
+    "round": 38,
+    "date": "2027-01-22",
+    "time": "17:30",
+    "home_team_id": "MBL",
+    "away_team_id": "MHK",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928516"
+  },
+  {
+    "id": "2928517",
+    "round": 38,
+    "date": "2027-01-22",
+    "time": "17:30",
+    "home_team_id": "CEB",
+    "away_team_id": "KLA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928517"
+  },
+  {
+    "id": "2928520",
+    "round": 38,
+    "date": "2027-01-22",
+    "time": "17:30",
+    "home_team_id": "PLZ",
+    "away_team_id": "VIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928520"
+  },
+  {
+    "id": "2928514",
+    "round": 38,
+    "date": "2027-01-22",
+    "time": "18:00",
+    "home_team_id": "KVA",
+    "away_team_id": "LIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928514"
+  },
+  {
+    "id": "2928515",
+    "round": 38,
+    "date": "2027-01-22",
+    "time": "18:00",
+    "home_team_id": "PCE",
+    "away_team_id": "OLO",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928515"
+  },
+  {
+    "id": "2928519",
+    "round": 38,
+    "date": "2027-01-22",
+    "time": "18:00",
+    "home_team_id": "LIB",
+    "away_team_id": "KOM",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928519"
+  },
+  {
+    "id": "2928518",
+    "round": 38,
+    "date": "2027-01-22",
+    "time": "18:30",
+    "home_team_id": "SPA",
+    "away_team_id": "TRI",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928518"
+  },
+  {
+    "id": "2928521",
+    "round": 39,
+    "date": "2027-01-24",
+    "time": "15:00",
+    "home_team_id": "TRI",
+    "away_team_id": "CEB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928521"
+  },
+  {
+    "id": "2928524",
+    "round": 39,
+    "date": "2027-01-24",
+    "time": "15:30",
+    "home_team_id": "LIT",
+    "away_team_id": "PLZ",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928524"
+  },
+  {
+    "id": "2928522",
+    "round": 39,
+    "date": "2027-01-24",
+    "time": "16:00",
+    "home_team_id": "KLA",
+    "away_team_id": "PCE",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928522"
+  },
+  {
+    "id": "2928523",
+    "round": 39,
+    "date": "2027-01-24",
+    "time": "16:00",
+    "home_team_id": "LIB",
+    "away_team_id": "SPA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928523"
+  },
+  {
+    "id": "2928526",
+    "round": 39,
+    "date": "2027-01-24",
+    "time": "16:00",
+    "home_team_id": "MHK",
+    "away_team_id": "KVA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928526"
+  },
+  {
+    "id": "2928527",
+    "round": 39,
+    "date": "2027-01-24",
+    "time": "16:00",
+    "home_team_id": "VIT",
+    "away_team_id": "KOM",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928527"
+  },
+  {
+    "id": "2928525",
+    "round": 39,
+    "date": "2027-01-24",
+    "time": "17:00",
+    "home_team_id": "OLO",
+    "away_team_id": "MBL",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928525"
+  },
+  {
+    "id": "2928533",
+    "round": 40,
+    "date": "2027-01-26",
+    "time": "17:00",
+    "home_team_id": "TRI",
+    "away_team_id": "KVA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928533"
+  },
+  {
+    "id": "2928529",
+    "round": 40,
+    "date": "2027-01-26",
+    "time": "17:30",
+    "home_team_id": "MBL",
+    "away_team_id": "CEB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928529"
+  },
+  {
+    "id": "2928528",
+    "round": 40,
+    "date": "2027-01-26",
+    "time": "18:00",
+    "home_team_id": "MHK",
+    "away_team_id": "PCE",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928528"
+  },
+  {
+    "id": "2928531",
+    "round": 40,
+    "date": "2027-01-26",
+    "time": "18:00",
+    "home_team_id": "KOM",
+    "away_team_id": "LIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928531"
+  },
+  {
+    "id": "2928532",
+    "round": 40,
+    "date": "2027-01-26",
+    "time": "18:00",
+    "home_team_id": "KLA",
+    "away_team_id": "VIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928532"
+  },
+  {
+    "id": "2928534",
+    "round": 40,
+    "date": "2027-01-26",
+    "time": "18:00",
+    "home_team_id": "LIB",
+    "away_team_id": "PLZ",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928534"
+  },
+  {
+    "id": "2928530",
+    "round": 40,
+    "date": "2027-01-26",
+    "time": "18:30",
+    "home_team_id": "SPA",
+    "away_team_id": "OLO",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928530"
+  },
+  {
+    "id": "2928539",
+    "round": 41,
+    "date": "2027-01-29",
+    "time": "17:30",
+    "home_team_id": "CEB",
+    "away_team_id": "MHK",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928539"
+  },
+  {
+    "id": "2928541",
+    "round": 41,
+    "date": "2027-01-29",
+    "time": "17:30",
+    "home_team_id": "PLZ",
+    "away_team_id": "OLO",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928541"
+  },
+  {
+    "id": "2928535",
+    "round": 41,
+    "date": "2027-01-29",
+    "time": "18:00",
+    "home_team_id": "KVA",
+    "away_team_id": "MBL",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928535"
+  },
+  {
+    "id": "2928538",
+    "round": 41,
+    "date": "2027-01-29",
+    "time": "18:00",
+    "home_team_id": "PCE",
+    "away_team_id": "LIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928538"
+  },
+  {
+    "id": "2928536",
+    "round": 41,
+    "date": "2027-01-29",
+    "time": "18:30",
+    "home_team_id": "SPA",
+    "away_team_id": "KLA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928536"
+  },
+  {
+    "id": "2928544",
+    "round": 42,
+    "date": "2027-01-30",
+    "time": "17:00",
+    "home_team_id": "PLZ",
+    "away_team_id": "TRI",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928544"
+  },
+  {
+    "id": "2928548",
+    "round": 42,
+    "date": "2027-01-31",
+    "time": "15:30",
+    "home_team_id": "LIT",
+    "away_team_id": "VIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928548"
+  },
+  {
+    "id": "2928542",
+    "round": 42,
+    "date": "2027-01-31",
+    "time": "16:00",
+    "home_team_id": "MHK",
+    "away_team_id": "KOM",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928542"
+  },
+  {
+    "id": "2928543",
+    "round": 42,
+    "date": "2027-01-31",
+    "time": "16:00",
+    "home_team_id": "KVA",
+    "away_team_id": "PCE",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928543"
+  },
+  {
+    "id": "2928546",
+    "round": 42,
+    "date": "2027-01-31",
+    "time": "16:00",
+    "home_team_id": "MBL",
+    "away_team_id": "SPA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928546"
+  },
+  {
+    "id": "2928547",
+    "round": 42,
+    "date": "2027-01-31",
+    "time": "16:00",
+    "home_team_id": "KLA",
+    "away_team_id": "LIB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928547"
+  },
+  {
+    "id": "2928545",
+    "round": 42,
+    "date": "2027-01-31",
+    "time": "17:00",
+    "home_team_id": "OLO",
+    "away_team_id": "CEB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928545"
+  },
+  {
+    "id": "2928549",
+    "round": 43,
+    "date": "2027-02-02",
+    "time": "17:30",
+    "home_team_id": "PLZ",
+    "away_team_id": "KLA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928549"
+  },
+  {
+    "id": "2928553",
+    "round": 43,
+    "date": "2027-02-02",
+    "time": "17:30",
+    "home_team_id": "CEB",
+    "away_team_id": "KVA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928553"
+  },
+  {
+    "id": "2928550",
+    "round": 43,
+    "date": "2027-02-02",
+    "time": "18:00",
+    "home_team_id": "PCE",
+    "away_team_id": "MBL",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928550"
+  },
+  {
+    "id": "2928552",
+    "round": 43,
+    "date": "2027-02-02",
+    "time": "18:00",
+    "home_team_id": "LIB",
+    "away_team_id": "MHK",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928552"
+  },
+  {
+    "id": "2928554",
+    "round": 43,
+    "date": "2027-02-02",
+    "time": "18:00",
+    "home_team_id": "KOM",
+    "away_team_id": "OLO",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928554"
+  },
+  {
+    "id": "2928551",
+    "round": 43,
+    "date": "2027-02-02",
+    "time": "18:30",
+    "home_team_id": "SPA",
+    "away_team_id": "LIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928551"
+  },
+  {
+    "id": "2928561",
+    "round": 44,
+    "date": "2027-02-05",
+    "time": "17:00",
+    "home_team_id": "TRI",
+    "away_team_id": "LIB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928561"
+  },
+  {
+    "id": "2928558",
+    "round": 44,
+    "date": "2027-02-05",
+    "time": "17:30",
+    "home_team_id": "LIT",
+    "away_team_id": "CEB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928558"
+  },
+  {
+    "id": "2928560",
+    "round": 44,
+    "date": "2027-02-05",
+    "time": "17:30",
+    "home_team_id": "MBL",
+    "away_team_id": "VIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928560"
+  },
+  {
+    "id": "2928556",
+    "round": 44,
+    "date": "2027-02-05",
+    "time": "18:00",
+    "home_team_id": "PCE",
+    "away_team_id": "KOM",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928556"
+  },
+  {
+    "id": "2928557",
+    "round": 44,
+    "date": "2027-02-05",
+    "time": "18:00",
+    "home_team_id": "OLO",
+    "away_team_id": "KLA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928557"
+  },
+  {
+    "id": "2928559",
+    "round": 44,
+    "date": "2027-02-05",
+    "time": "18:00",
+    "home_team_id": "KVA",
+    "away_team_id": "SPA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928559"
+  },
+  {
+    "id": "2928562",
+    "round": 44,
+    "date": "2027-02-05",
+    "time": "18:00",
+    "home_team_id": "MHK",
+    "away_team_id": "PLZ",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928562"
+  },
+  {
+    "id": "2928564",
+    "round": 45,
+    "date": "2027-02-07",
+    "time": "16:00",
+    "home_team_id": "KLA",
+    "away_team_id": "TRI",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928564"
+  },
+  {
+    "id": "2928565",
+    "round": 45,
+    "date": "2027-02-07",
+    "time": "16:00",
+    "home_team_id": "LIB",
+    "away_team_id": "LIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928565"
+  },
+  {
+    "id": "2928569",
+    "round": 45,
+    "date": "2027-02-07",
+    "time": "16:00",
+    "home_team_id": "SPA",
+    "away_team_id": "MHK",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928569"
+  },
+  {
+    "id": "2928567",
+    "round": 45,
+    "date": "2027-02-07",
+    "time": "16:30",
+    "home_team_id": "PLZ",
+    "away_team_id": "MBL",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928567"
+  },
+  {
+    "id": "2928563",
+    "round": 45,
+    "date": "2027-02-07",
+    "time": "17:00",
+    "home_team_id": "CEB",
+    "away_team_id": "PCE",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928563"
+  },
+  {
+    "id": "2928568",
+    "round": 45,
+    "date": "2027-02-07",
+    "time": "17:00",
+    "home_team_id": "KOM",
+    "away_team_id": "KVA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928568"
+  },
+  {
+    "id": "2928570",
+    "round": 46,
+    "date": "2027-02-17",
+    "time": "17:30",
+    "home_team_id": "LIT",
+    "away_team_id": "TRI",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928570"
+  },
+  {
+    "id": "2928572",
+    "round": 46,
+    "date": "2027-02-17",
+    "time": "17:30",
+    "home_team_id": "CEB",
+    "away_team_id": "SPA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928572"
+  },
+  {
+    "id": "2928576",
+    "round": 46,
+    "date": "2027-02-17",
+    "time": "17:30",
+    "home_team_id": "MBL",
+    "away_team_id": "KOM",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928576"
+  },
+  {
+    "id": "2928571",
+    "round": 46,
+    "date": "2027-02-17",
+    "time": "18:00",
+    "home_team_id": "MHK",
+    "away_team_id": "KLA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928571"
+  },
+  {
+    "id": "2928573",
+    "round": 46,
+    "date": "2027-02-17",
+    "time": "18:00",
+    "home_team_id": "PCE",
+    "away_team_id": "PLZ",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928573"
+  },
+  {
+    "id": "2928575",
+    "round": 46,
+    "date": "2027-02-17",
+    "time": "18:00",
+    "home_team_id": "OLO",
+    "away_team_id": "LIB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928575"
+  },
+  {
+    "id": "2928577",
+    "round": 47,
+    "date": "2027-02-19",
+    "time": "17:00",
+    "home_team_id": "TRI",
+    "away_team_id": "OLO",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928577"
+  },
+  {
+    "id": "2928581",
+    "round": 47,
+    "date": "2027-02-19",
+    "time": "17:30",
+    "home_team_id": "VIT",
+    "away_team_id": "MHK",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928581"
+  },
+  {
+    "id": "2928582",
+    "round": 47,
+    "date": "2027-02-19",
+    "time": "17:30",
+    "home_team_id": "PLZ",
+    "away_team_id": "KVA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928582"
+  },
+  {
+    "id": "2928583",
+    "round": 47,
+    "date": "2027-02-19",
+    "time": "17:30",
+    "home_team_id": "CEB",
+    "away_team_id": "KOM",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928583"
+  },
+  {
+    "id": "2928579",
+    "round": 47,
+    "date": "2027-02-19",
+    "time": "18:00",
+    "home_team_id": "LIB",
+    "away_team_id": "MBL",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928579"
+  },
+  {
+    "id": "2928580",
+    "round": 47,
+    "date": "2027-02-19",
+    "time": "18:00",
+    "home_team_id": "KLA",
+    "away_team_id": "LIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928580"
+  },
+  {
+    "id": "2928578",
+    "round": 47,
+    "date": "2027-02-19",
+    "time": "18:30",
+    "home_team_id": "SPA",
+    "away_team_id": "PCE",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928578"
+  },
+  {
+    "id": "2928584",
+    "round": 48,
+    "date": "2027-02-21",
+    "time": "16:00",
+    "home_team_id": "SPA",
+    "away_team_id": "KOM",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928584"
+  },
+  {
+    "id": "2928585",
+    "round": 48,
+    "date": "2027-02-21",
+    "time": "16:00",
+    "home_team_id": "MBL",
+    "away_team_id": "KLA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928585"
+  },
+  {
+    "id": "2928586",
+    "round": 48,
+    "date": "2027-02-21",
+    "time": "16:00",
+    "home_team_id": "MHK",
+    "away_team_id": "TRI",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928586"
+  },
+  {
+    "id": "2928590",
+    "round": 48,
+    "date": "2027-02-21",
+    "time": "16:00",
+    "home_team_id": "KVA",
+    "away_team_id": "LIB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928590"
+  },
+  {
+    "id": "2928587",
+    "round": 48,
+    "date": "2027-02-21",
+    "time": "17:00",
+    "home_team_id": "OLO",
+    "away_team_id": "LIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928587"
+  },
+  {
+    "id": "2928588",
+    "round": 48,
+    "date": "2027-02-21",
+    "time": "17:00",
+    "home_team_id": "CEB",
+    "away_team_id": "PLZ",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928588"
+  },
+  {
+    "id": "2928589",
+    "round": 48,
+    "date": "2027-02-21",
+    "time": "17:00",
+    "home_team_id": "PCE",
+    "away_team_id": "VIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928589"
+  },
+  {
+    "id": "2928540",
+    "round": 41,
+    "date": "2027-02-24",
+    "time": "18:00",
+    "home_team_id": "KOM",
+    "away_team_id": "TRI",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928540"
+  },
+  {
+    "id": "2928591",
+    "round": 49,
+    "date": "2027-02-26",
+    "time": "17:00",
+    "home_team_id": "TRI",
+    "away_team_id": "PCE",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928591"
+  },
+  {
+    "id": "2928592",
+    "round": 49,
+    "date": "2027-02-26",
+    "time": "17:30",
+    "home_team_id": "LIT",
+    "away_team_id": "MBL",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928592"
+  },
+  {
+    "id": "2928594",
+    "round": 49,
+    "date": "2027-02-26",
+    "time": "17:30",
+    "home_team_id": "VIT",
+    "away_team_id": "SPA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928594"
+  },
+  {
+    "id": "2928597",
+    "round": 49,
+    "date": "2027-02-26",
+    "time": "17:30",
+    "home_team_id": "PLZ",
+    "away_team_id": "KOM",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928597"
+  },
+  {
+    "id": "2928593",
+    "round": 49,
+    "date": "2027-02-26",
+    "time": "18:00",
+    "home_team_id": "LIB",
+    "away_team_id": "CEB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928593"
+  },
+  {
+    "id": "2928595",
+    "round": 49,
+    "date": "2027-02-26",
+    "time": "18:00",
+    "home_team_id": "OLO",
+    "away_team_id": "MHK",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928595"
+  },
+  {
+    "id": "2928596",
+    "round": 49,
+    "date": "2027-02-26",
+    "time": "18:00",
+    "home_team_id": "KLA",
+    "away_team_id": "KVA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928596"
+  },
+  {
+    "id": "2928598",
+    "round": 50,
+    "date": "2027-02-28",
+    "time": "16:00",
+    "home_team_id": "KVA",
+    "away_team_id": "OLO",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928598"
+  },
+  {
+    "id": "2928599",
+    "round": 50,
+    "date": "2027-02-28",
+    "time": "16:00",
+    "home_team_id": "SPA",
+    "away_team_id": "PLZ",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928599"
+  },
+  {
+    "id": "2928602",
+    "round": 50,
+    "date": "2027-02-28",
+    "time": "16:00",
+    "home_team_id": "MHK",
+    "away_team_id": "LIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928602"
+  },
+  {
+    "id": "2928603",
+    "round": 50,
+    "date": "2027-02-28",
+    "time": "16:00",
+    "home_team_id": "MBL",
+    "away_team_id": "TRI",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928603"
+  },
+  {
+    "id": "2928600",
+    "round": 50,
+    "date": "2027-02-28",
+    "time": "17:00",
+    "home_team_id": "CEB",
+    "away_team_id": "VIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928600"
+  },
+  {
+    "id": "2928601",
+    "round": 50,
+    "date": "2027-02-28",
+    "time": "17:00",
+    "home_team_id": "PCE",
+    "away_team_id": "LIB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928601"
+  },
+  {
+    "id": "2928604",
+    "round": 50,
+    "date": "2027-02-28",
+    "time": "17:00",
+    "home_team_id": "KOM",
+    "away_team_id": "KLA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928604"
+  },
+  {
+    "id": "2928605",
+    "round": 51,
+    "date": "2027-03-02",
+    "time": "17:30",
+    "home_team_id": "LIT",
+    "away_team_id": "KVA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928605"
+  },
+  {
+    "id": "2928606",
+    "round": 51,
+    "date": "2027-03-02",
+    "time": "17:30",
+    "home_team_id": "OLO",
+    "away_team_id": "PCE",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928606"
+  },
+  {
+    "id": "2928607",
+    "round": 51,
+    "date": "2027-03-02",
+    "time": "17:30",
+    "home_team_id": "MHK",
+    "away_team_id": "MBL",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928607"
+  },
+  {
+    "id": "2928608",
+    "round": 51,
+    "date": "2027-03-02",
+    "time": "17:30",
+    "home_team_id": "KLA",
+    "away_team_id": "CEB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928608"
+  },
+  {
+    "id": "2928609",
+    "round": 51,
+    "date": "2027-03-02",
+    "time": "17:30",
+    "home_team_id": "TRI",
+    "away_team_id": "SPA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928609"
+  },
+  {
+    "id": "2928611",
+    "round": 51,
+    "date": "2027-03-02",
+    "time": "17:30",
+    "home_team_id": "VIT",
+    "away_team_id": "PLZ",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928611"
+  },
+  {
+    "id": "2928610",
+    "round": 51,
+    "date": "2027-03-02",
+    "time": "18:00",
+    "home_team_id": "KOM",
+    "away_team_id": "LIB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928610"
+  },
+  {
+    "id": "2928612",
+    "round": 52,
+    "date": "2027-03-05",
+    "time": "17:30",
+    "home_team_id": "CEB",
+    "away_team_id": "TRI",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928612"
+  },
+  {
+    "id": "2928613",
+    "round": 52,
+    "date": "2027-03-05",
+    "time": "17:30",
+    "home_team_id": "PCE",
+    "away_team_id": "KLA",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928613"
+  },
+  {
+    "id": "2928614",
+    "round": 52,
+    "date": "2027-03-05",
+    "time": "17:30",
+    "home_team_id": "SPA",
+    "away_team_id": "LIB",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928614"
+  },
+  {
+    "id": "2928615",
+    "round": 52,
+    "date": "2027-03-05",
+    "time": "17:30",
+    "home_team_id": "PLZ",
+    "away_team_id": "LIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928615"
+  },
+  {
+    "id": "2928616",
+    "round": 52,
+    "date": "2027-03-05",
+    "time": "17:30",
+    "home_team_id": "MBL",
+    "away_team_id": "OLO",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928616"
+  },
+  {
+    "id": "2928617",
+    "round": 52,
+    "date": "2027-03-05",
+    "time": "17:30",
+    "home_team_id": "KVA",
+    "away_team_id": "MHK",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928617"
+  },
+  {
+    "id": "2928618",
+    "round": 52,
+    "date": "2027-03-05",
+    "time": "17:30",
+    "home_team_id": "KOM",
+    "away_team_id": "VIT",
+    "status": "scheduled",
+    "url": "https://www.hokej.cz/zapas/2928618"
+  }
+]
