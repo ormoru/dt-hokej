@@ -1,10 +1,10 @@
 [
   {
-    "id": "2015-01-HKR-VIT",
+    "id": "2015-01-MHK-VIT",
     "round": 1,
     "season": 2015,
     "scheduled_at": "2015-09-11",
-    "home_team_id": "HKR",
+    "home_team_id": "MHK",
     "away_team_id": "VIT",
     "status": "finished",
     "played_at": "2015-09-11",
@@ -230,12 +230,12 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=2&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-02-OLO-HKR",
+    "id": "2015-02-OLO-MHK",
     "round": 2,
     "season": 2015,
     "scheduled_at": "2015-09-13",
     "home_team_id": "OLO",
-    "away_team_id": "HKR",
+    "away_team_id": "MHK",
     "status": "finished",
     "played_at": "2015-09-13",
     "home_score": 0,
@@ -345,11 +345,11 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=3&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-03-HKR-LIT",
+    "id": "2015-03-MHK-LIT",
     "round": 3,
     "season": 2015,
     "scheduled_at": "2015-09-18",
-    "home_team_id": "HKR",
+    "home_team_id": "MHK",
     "away_team_id": "LIT",
     "status": "finished",
     "played_at": "2015-09-18",
@@ -506,12 +506,12 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=4&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-04-LIB-HKR",
+    "id": "2015-04-LIB-MHK",
     "round": 4,
     "season": 2015,
     "scheduled_at": "2015-09-20",
     "home_team_id": "LIB",
-    "away_team_id": "HKR",
+    "away_team_id": "MHK",
     "status": "finished",
     "played_at": "2015-09-20",
     "home_score": 4,
@@ -759,12 +759,12 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=5&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-05-SPA-HKR",
+    "id": "2015-05-SPA-MHK",
     "round": 5,
     "season": 2015,
     "scheduled_at": "2015-09-25",
     "home_team_id": "SPA",
-    "away_team_id": "HKR",
+    "away_team_id": "MHK",
     "status": "finished",
     "played_at": "2015-09-25",
     "home_score": 4,
@@ -805,11 +805,11 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=5&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-06-HKR-KOM",
+    "id": "2015-06-MHK-KOM",
     "round": 6,
     "season": 2015,
     "scheduled_at": "2015-09-27",
-    "home_team_id": "HKR",
+    "home_team_id": "MHK",
     "away_team_id": "KOM",
     "status": "finished",
     "played_at": "2015-09-27",
@@ -989,11 +989,11 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=7&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-07-HKR-TRI",
+    "id": "2015-07-MHK-TRI",
     "round": 7,
     "season": 2015,
     "scheduled_at": "2015-10-02",
-    "home_team_id": "HKR",
+    "home_team_id": "MHK",
     "away_team_id": "TRI",
     "status": "finished",
     "played_at": "2015-10-02",
@@ -1127,11 +1127,11 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=7&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-08-HKR-PLZ",
+    "id": "2015-08-MHK-PLZ",
     "round": 8,
     "season": 2015,
     "scheduled_at": "2015-10-04",
-    "home_team_id": "HKR",
+    "home_team_id": "MHK",
     "away_team_id": "PLZ",
     "status": "finished",
     "played_at": "2015-10-04",
@@ -1311,12 +1311,12 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=9&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-09-MBL-HKR",
+    "id": "2015-09-MBL-MHK",
     "round": 9,
     "season": 2015,
     "scheduled_at": "2015-10-09",
     "home_team_id": "MBL",
-    "away_team_id": "HKR",
+    "away_team_id": "MHK",
     "status": "finished",
     "played_at": "2015-10-09",
     "home_score": 4,
@@ -1449,11 +1449,11 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=9&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-10-HKR-ZLN",
+    "id": "2015-10-MHK-ZLN",
     "round": 10,
     "season": 2015,
     "scheduled_at": "2015-10-11",
-    "home_team_id": "HKR",
+    "home_team_id": "MHK",
     "away_team_id": "ZLN",
     "status": "finished",
     "played_at": "2015-10-11",
@@ -1610,12 +1610,12 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=10&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-11-CHM-HKR",
+    "id": "2015-11-CHM-MHK",
     "round": 11,
     "season": 2015,
     "scheduled_at": "2015-10-16",
     "home_team_id": "CHM",
-    "away_team_id": "HKR",
+    "away_team_id": "MHK",
     "status": "finished",
     "played_at": "2015-10-16",
     "home_score": 2,
@@ -1771,11 +1771,11 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=11&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-12-HKR-KVA",
+    "id": "2015-12-MHK-KVA",
     "round": 12,
     "season": 2015,
     "scheduled_at": "2015-10-19",
-    "home_team_id": "HKR",
+    "home_team_id": "MHK",
     "away_team_id": "KVA",
     "status": "finished",
     "played_at": "2015-10-19",
@@ -2024,12 +2024,12 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=13&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-13-PCE-HKR",
+    "id": "2015-13-PCE-MHK",
     "round": 13,
     "season": 2015,
     "scheduled_at": "2015-10-23",
     "home_team_id": "PCE",
-    "away_team_id": "HKR",
+    "away_team_id": "MHK",
     "status": "finished",
     "played_at": "2015-10-23",
     "home_score": 2,
@@ -2208,12 +2208,12 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=14&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-14-VIT-HKR",
+    "id": "2015-14-VIT-MHK",
     "round": 14,
     "season": 2015,
     "scheduled_at": "2015-10-28",
     "home_team_id": "VIT",
-    "away_team_id": "HKR",
+    "away_team_id": "MHK",
     "status": "finished",
     "played_at": "2015-10-28",
     "home_score": 2,
@@ -2254,11 +2254,11 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=14&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-15-HKR-OLO",
+    "id": "2015-15-MHK-OLO",
     "round": 15,
     "season": 2015,
     "scheduled_at": "2015-10-30",
-    "home_team_id": "HKR",
+    "home_team_id": "MHK",
     "away_team_id": "OLO",
     "status": "finished",
     "played_at": "2015-10-30",
@@ -2461,12 +2461,12 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=16&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-16-LIT-HKR",
+    "id": "2015-16-LIT-MHK",
     "round": 16,
     "season": 2015,
     "scheduled_at": "2015-11-01",
     "home_team_id": "LIT",
-    "away_team_id": "HKR",
+    "away_team_id": "MHK",
     "status": "finished",
     "played_at": "2015-11-01",
     "home_score": 1,
@@ -2599,11 +2599,11 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=17&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-17-HKR-LIB",
+    "id": "2015-17-MHK-LIB",
     "round": 17,
     "season": 2015,
     "scheduled_at": "2015-12-08",
-    "home_team_id": "HKR",
+    "home_team_id": "MHK",
     "away_team_id": "LIB",
     "status": "finished",
     "played_at": "2015-12-08",
@@ -2737,11 +2737,11 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=17&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-18-HKR-SPA",
+    "id": "2015-18-MHK-SPA",
     "round": 18,
     "season": 2015,
     "scheduled_at": "2015-11-13",
-    "home_team_id": "HKR",
+    "home_team_id": "MHK",
     "away_team_id": "SPA",
     "status": "finished",
     "played_at": "2015-11-13",
@@ -2921,12 +2921,12 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=19&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-19-KOM-HKR",
+    "id": "2015-19-KOM-MHK",
     "round": 19,
     "season": 2015,
     "scheduled_at": "2015-11-24",
     "home_team_id": "KOM",
-    "away_team_id": "HKR",
+    "away_team_id": "MHK",
     "status": "finished",
     "played_at": "2015-11-24",
     "home_score": 5,
@@ -3174,12 +3174,12 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=20&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-20-TRI-HKR",
+    "id": "2015-20-TRI-MHK",
     "round": 20,
     "season": 2015,
     "scheduled_at": "2015-11-17",
     "home_team_id": "TRI",
-    "away_team_id": "HKR",
+    "away_team_id": "MHK",
     "status": "finished",
     "played_at": "2015-11-17",
     "home_score": 1,
@@ -3289,12 +3289,12 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=21&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-21-PLZ-HKR",
+    "id": "2015-21-PLZ-MHK",
     "round": 21,
     "season": 2015,
     "scheduled_at": "2015-11-20",
     "home_team_id": "PLZ",
-    "away_team_id": "HKR",
+    "away_team_id": "MHK",
     "status": "finished",
     "played_at": "2015-11-20",
     "home_score": 3,
@@ -3381,11 +3381,11 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=21&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-22-HKR-MBL",
+    "id": "2015-22-MHK-MBL",
     "round": 22,
     "season": 2015,
     "scheduled_at": "2015-11-22",
-    "home_team_id": "HKR",
+    "home_team_id": "MHK",
     "away_team_id": "MBL",
     "status": "finished",
     "played_at": "2015-11-22",
@@ -3680,12 +3680,12 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=23&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-23-ZLN-HKR",
+    "id": "2015-23-ZLN-MHK",
     "round": 23,
     "season": 2015,
     "scheduled_at": "2015-11-27",
     "home_team_id": "ZLN",
-    "away_team_id": "HKR",
+    "away_team_id": "MHK",
     "status": "finished",
     "played_at": "2015-11-27",
     "home_score": 2,
@@ -3703,11 +3703,11 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=23&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-24-HKR-CHM",
+    "id": "2015-24-MHK-CHM",
     "round": 24,
     "season": 2015,
     "scheduled_at": "2015-11-29",
-    "home_team_id": "HKR",
+    "home_team_id": "MHK",
     "away_team_id": "CHM",
     "status": "finished",
     "played_at": "2015-11-29",
@@ -3887,12 +3887,12 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=25&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-25-KVA-HKR",
+    "id": "2015-25-KVA-MHK",
     "round": 25,
     "season": 2015,
     "scheduled_at": "2015-12-04",
     "home_team_id": "KVA",
-    "away_team_id": "HKR",
+    "away_team_id": "MHK",
     "status": "finished",
     "played_at": "2015-12-04",
     "home_score": 1,
@@ -4025,11 +4025,11 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=25&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-26-HKR-PCE",
+    "id": "2015-26-MHK-PCE",
     "round": 26,
     "season": 2015,
     "scheduled_at": "2015-12-06",
-    "home_team_id": "HKR",
+    "home_team_id": "MHK",
     "away_team_id": "PCE",
     "status": "finished",
     "played_at": "2015-12-06",
@@ -4186,11 +4186,11 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=26&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-27-HKR-VIT",
+    "id": "2015-27-MHK-VIT",
     "round": 27,
     "season": 2015,
     "scheduled_at": "2015-12-11",
-    "home_team_id": "HKR",
+    "home_team_id": "MHK",
     "away_team_id": "VIT",
     "status": "finished",
     "played_at": "2015-12-11",
@@ -4416,12 +4416,12 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=28&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-28-OLO-HKR",
+    "id": "2015-28-OLO-MHK",
     "round": 28,
     "season": 2015,
     "scheduled_at": "2015-12-13",
     "home_team_id": "OLO",
-    "away_team_id": "HKR",
+    "away_team_id": "MHK",
     "status": "finished",
     "played_at": "2015-12-13",
     "home_score": 1,
@@ -4531,11 +4531,11 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=29&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-29-HKR-LIT",
+    "id": "2015-29-MHK-LIT",
     "round": 29,
     "season": 2015,
     "scheduled_at": "2015-12-22",
-    "home_team_id": "HKR",
+    "home_team_id": "MHK",
     "away_team_id": "LIT",
     "status": "finished",
     "played_at": "2015-12-22",
@@ -4692,12 +4692,12 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=30&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-30-LIB-HKR",
+    "id": "2015-30-LIB-MHK",
     "round": 30,
     "season": 2015,
     "scheduled_at": "2015-12-26",
     "home_team_id": "LIB",
-    "away_team_id": "HKR",
+    "away_team_id": "MHK",
     "status": "finished",
     "played_at": "2015-12-26",
     "home_score": 5,
@@ -4945,12 +4945,12 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=31&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-31-SPA-HKR",
+    "id": "2015-31-SPA-MHK",
     "round": 31,
     "season": 2015,
     "scheduled_at": "2015-12-28",
     "home_team_id": "SPA",
-    "away_team_id": "HKR",
+    "away_team_id": "MHK",
     "status": "finished",
     "played_at": "2015-12-28",
     "home_score": 5,
@@ -4991,11 +4991,11 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=31&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-32-HKR-KOM",
+    "id": "2015-32-MHK-KOM",
     "round": 32,
     "season": 2015,
     "scheduled_at": "2015-12-30",
-    "home_team_id": "HKR",
+    "home_team_id": "MHK",
     "away_team_id": "KOM",
     "status": "finished",
     "played_at": "2015-12-30",
@@ -5267,12 +5267,12 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=33&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-33-TRI-HKR",
+    "id": "2015-33-TRI-MHK",
     "round": 33,
     "season": 2015,
     "scheduled_at": "2016-01-05",
     "home_team_id": "TRI",
-    "away_team_id": "HKR",
+    "away_team_id": "MHK",
     "status": "finished",
     "played_at": "2016-01-05",
     "home_score": 7,
@@ -5313,11 +5313,11 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=33&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-34-HKR-PLZ",
+    "id": "2015-34-MHK-PLZ",
     "round": 34,
     "season": 2015,
     "scheduled_at": "2016-01-08",
-    "home_team_id": "HKR",
+    "home_team_id": "MHK",
     "away_team_id": "PLZ",
     "status": "finished",
     "played_at": "2016-01-08",
@@ -5497,12 +5497,12 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=35&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-35-MBL-HKR",
+    "id": "2015-35-MBL-MHK",
     "round": 35,
     "season": 2015,
     "scheduled_at": "2016-01-10",
     "home_team_id": "MBL",
-    "away_team_id": "HKR",
+    "away_team_id": "MHK",
     "status": "finished",
     "played_at": "2016-01-10",
     "home_score": 2,
@@ -5635,11 +5635,11 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=35&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-36-HKR-ZLN",
+    "id": "2015-36-MHK-ZLN",
     "round": 36,
     "season": 2015,
     "scheduled_at": "2016-01-15",
-    "home_team_id": "HKR",
+    "home_team_id": "MHK",
     "away_team_id": "ZLN",
     "status": "finished",
     "played_at": "2016-01-15",
@@ -5796,12 +5796,12 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=36&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-37-CHM-HKR",
+    "id": "2015-37-CHM-MHK",
     "round": 37,
     "season": 2015,
     "scheduled_at": "2016-02-02",
     "home_team_id": "CHM",
-    "away_team_id": "HKR",
+    "away_team_id": "MHK",
     "status": "finished",
     "played_at": "2016-02-02",
     "home_score": 2,
@@ -5957,11 +5957,11 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=37&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-38-HKR-KVA",
+    "id": "2015-38-MHK-KVA",
     "round": 38,
     "season": 2015,
     "scheduled_at": "2016-01-22",
-    "home_team_id": "HKR",
+    "home_team_id": "MHK",
     "away_team_id": "KVA",
     "status": "finished",
     "played_at": "2016-01-22",
@@ -6210,12 +6210,12 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=39&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-39-PCE-HKR",
+    "id": "2015-39-PCE-MHK",
     "round": 39,
     "season": 2015,
     "scheduled_at": "2016-01-24",
     "home_team_id": "PCE",
-    "away_team_id": "HKR",
+    "away_team_id": "MHK",
     "status": "finished",
     "played_at": "2016-01-24",
     "home_score": 3,
@@ -6394,12 +6394,12 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=40&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-40-VIT-HKR",
+    "id": "2015-40-VIT-MHK",
     "round": 40,
     "season": 2015,
     "scheduled_at": "2016-01-26",
     "home_team_id": "VIT",
-    "away_team_id": "HKR",
+    "away_team_id": "MHK",
     "status": "finished",
     "played_at": "2016-01-26",
     "home_score": 1,
@@ -6440,11 +6440,11 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=40&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-41-HKR-OLO",
+    "id": "2015-41-MHK-OLO",
     "round": 41,
     "season": 2015,
     "scheduled_at": "2016-01-29",
-    "home_team_id": "HKR",
+    "home_team_id": "MHK",
     "away_team_id": "OLO",
     "status": "finished",
     "played_at": "2016-01-29",
@@ -6647,12 +6647,12 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=42&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-42-LIT-HKR",
+    "id": "2015-42-LIT-MHK",
     "round": 42,
     "season": 2015,
     "scheduled_at": "2016-01-31",
     "home_team_id": "LIT",
-    "away_team_id": "HKR",
+    "away_team_id": "MHK",
     "status": "finished",
     "played_at": "2016-01-31",
     "home_score": 5,
@@ -6785,11 +6785,11 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=43&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-43-HKR-LIB",
+    "id": "2015-43-MHK-LIB",
     "round": 43,
     "season": 2015,
     "scheduled_at": "2016-02-05",
-    "home_team_id": "HKR",
+    "home_team_id": "MHK",
     "away_team_id": "LIB",
     "status": "finished",
     "played_at": "2016-02-05",
@@ -6923,11 +6923,11 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=43&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-44-HKR-SPA",
+    "id": "2015-44-MHK-SPA",
     "round": 44,
     "season": 2015,
     "scheduled_at": "2016-02-07",
-    "home_team_id": "HKR",
+    "home_team_id": "MHK",
     "away_team_id": "SPA",
     "status": "finished",
     "played_at": "2016-02-07",
@@ -7107,12 +7107,12 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=45&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-45-KOM-HKR",
+    "id": "2015-45-KOM-MHK",
     "round": 45,
     "season": 2015,
     "scheduled_at": "2016-02-17",
     "home_team_id": "KOM",
-    "away_team_id": "HKR",
+    "away_team_id": "MHK",
     "status": "finished",
     "played_at": "2016-02-17",
     "home_score": 3,
@@ -7245,11 +7245,11 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=45&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-46-HKR-TRI",
+    "id": "2015-46-MHK-TRI",
     "round": 46,
     "season": 2015,
     "scheduled_at": "2016-02-19",
-    "home_team_id": "HKR",
+    "home_team_id": "MHK",
     "away_team_id": "TRI",
     "status": "finished",
     "played_at": "2016-02-19",
@@ -7475,12 +7475,12 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=47&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-47-PLZ-HKR",
+    "id": "2015-47-PLZ-MHK",
     "round": 47,
     "season": 2015,
     "scheduled_at": "2016-02-21",
     "home_team_id": "PLZ",
-    "away_team_id": "HKR",
+    "away_team_id": "MHK",
     "status": "finished",
     "played_at": "2016-02-21",
     "home_score": 6,
@@ -7567,11 +7567,11 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=47&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-48-HKR-MBL",
+    "id": "2015-48-MHK-MBL",
     "round": 48,
     "season": 2015,
     "scheduled_at": "2016-02-23",
-    "home_team_id": "HKR",
+    "home_team_id": "MHK",
     "away_team_id": "MBL",
     "status": "finished",
     "played_at": "2016-02-23",
@@ -7866,12 +7866,12 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=49&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-49-ZLN-HKR",
+    "id": "2015-49-ZLN-MHK",
     "round": 49,
     "season": 2015,
     "scheduled_at": "2016-02-26",
     "home_team_id": "ZLN",
-    "away_team_id": "HKR",
+    "away_team_id": "MHK",
     "status": "finished",
     "played_at": "2016-02-26",
     "home_score": 4,
@@ -7889,11 +7889,11 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=49&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-50-HKR-CHM",
+    "id": "2015-50-MHK-CHM",
     "round": 50,
     "season": 2015,
     "scheduled_at": "2016-02-28",
-    "home_team_id": "HKR",
+    "home_team_id": "MHK",
     "away_team_id": "CHM",
     "status": "finished",
     "played_at": "2016-02-28",
@@ -8073,12 +8073,12 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=51&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-51-KVA-HKR",
+    "id": "2015-51-KVA-MHK",
     "round": 51,
     "season": 2015,
     "scheduled_at": "2016-03-01",
     "home_team_id": "KVA",
-    "away_team_id": "HKR",
+    "away_team_id": "MHK",
     "status": "finished",
     "played_at": "2016-03-01",
     "home_score": 2,
@@ -8211,11 +8211,11 @@
     "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=51&matchList-filter-season=2015&matchList-filter-competition=5574"
   },
   {
-    "id": "2015-52-HKR-PCE",
+    "id": "2015-52-MHK-PCE",
     "round": 52,
     "season": 2015,
     "scheduled_at": "2016-03-04",
-    "home_team_id": "HKR",
+    "home_team_id": "MHK",
     "away_team_id": "PCE",
     "status": "finished",
     "played_at": "2016-03-04",
