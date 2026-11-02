@@ -1,6 +1,7 @@
 [
   {
     "id": "2026-01-CEB-MBL",
+    "source_id": "2928256",
     "season": 2026,
     "round": 1,
     "scheduled_at": "2026-09-16",
@@ -19,11 +20,11 @@
     "so_score": null,
     "finish": "OT",
     "home_points": 1,
-    "away_points": 2,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=1&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 2
   },
   {
     "id": "2026-01-KVA-TRI",
+    "source_id": "2928260",
     "season": 2026,
     "round": 1,
     "scheduled_at": "2026-09-15",
@@ -42,11 +43,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=1&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-01-LIT-KOM",
+    "source_id": "2928258",
     "season": 2026,
     "round": 1,
     "scheduled_at": "2026-09-16",
@@ -65,11 +66,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=1&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-01-OLO-SPA",
+    "source_id": "2928257",
     "season": 2026,
     "round": 1,
     "scheduled_at": "2026-09-16",
@@ -88,11 +89,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=1&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-01-PCE-MHK",
+    "source_id": "2928255",
     "season": 2026,
     "round": 1,
     "scheduled_at": "2026-09-16",
@@ -111,11 +112,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=1&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-01-PLZ-LIB",
+    "source_id": "2928261",
     "season": 2026,
     "round": 1,
     "scheduled_at": "2026-09-16",
@@ -134,11 +135,11 @@
     "so_score": [1, 0],
     "finish": "SO",
     "home_points": 2,
-    "away_points": 1,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=1&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 1
   },
   {
     "id": "2026-01-VIT-KLA",
+    "source_id": "2928259",
     "season": 2026,
     "round": 1,
     "scheduled_at": "2026-09-16",
@@ -157,11 +158,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=1&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-02-KLA-SPA",
+    "source_id": "2928268",
     "season": 2026,
     "round": 2,
     "scheduled_at": "2026-09-18",
@@ -180,11 +181,11 @@
     "so_score": [1, 0],
     "finish": "SO",
     "home_points": 2,
-    "away_points": 1,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=2&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 1
   },
   {
     "id": "2026-02-LIT-PCE",
+    "source_id": "2928263",
     "season": 2026,
     "round": 2,
     "scheduled_at": "2026-09-18",
@@ -203,11 +204,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=2&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-02-MBL-KVA",
+    "source_id": "2928267",
     "season": 2026,
     "round": 2,
     "scheduled_at": "2026-09-18",
@@ -226,11 +227,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=2&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-02-MHK-CEB",
+    "source_id": "2928264",
     "season": 2026,
     "round": 2,
     "scheduled_at": "2026-09-18",
@@ -249,11 +250,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=2&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-02-OLO-PLZ",
+    "source_id": "2928266",
     "season": 2026,
     "round": 2,
     "scheduled_at": "2026-09-18",
@@ -272,11 +273,11 @@
     "so_score": null,
     "finish": "OT",
     "home_points": 2,
-    "away_points": 1,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=2&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 1
   },
   {
     "id": "2026-02-TRI-KOM",
+    "source_id": "2928265",
     "season": 2026,
     "round": 2,
     "scheduled_at": "2026-09-18",
@@ -295,11 +296,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=2&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-03-CEB-OLO",
+    "source_id": "2928272",
     "season": 2026,
     "round": 3,
     "scheduled_at": "2026-09-20",
@@ -318,11 +319,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=3&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-03-KOM-MHK",
+    "source_id": "2928269",
     "season": 2026,
     "round": 3,
     "scheduled_at": "2026-09-20",
@@ -341,11 +342,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=3&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-03-LIB-KLA",
+    "source_id": "2928274",
     "season": 2026,
     "round": 3,
     "scheduled_at": "2026-09-20",
@@ -364,11 +365,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=3&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-03-PCE-KVA",
+    "source_id": "2928270",
     "season": 2026,
     "round": 3,
     "scheduled_at": "2026-09-20",
@@ -387,11 +388,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=3&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-03-SPA-MBL",
+    "source_id": "2928273",
     "season": 2026,
     "round": 3,
     "scheduled_at": "2026-09-22",
@@ -410,11 +411,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=3&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-03-TRI-PLZ",
+    "source_id": "2928271",
     "season": 2026,
     "round": 3,
     "scheduled_at": "2026-09-19",
@@ -433,11 +434,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=3&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-03-VIT-LIT",
+    "source_id": "2928275",
     "season": 2026,
     "round": 3,
     "scheduled_at": "2026-09-20",
@@ -456,11 +457,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=3&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-04-KLA-PLZ",
+    "source_id": "2928276",
     "season": 2026,
     "round": 4,
     "scheduled_at": "2026-09-25",
@@ -479,11 +480,11 @@
     "so_score": null,
     "finish": "OT",
     "home_points": 1,
-    "away_points": 2,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=4&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 2
   },
   {
     "id": "2026-04-KVA-CEB",
+    "source_id": "2928280",
     "season": 2026,
     "round": 4,
     "scheduled_at": "2026-09-25",
@@ -502,11 +503,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=4&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-04-LIT-SPA",
+    "source_id": "2928278",
     "season": 2026,
     "round": 4,
     "scheduled_at": "2026-09-25",
@@ -525,11 +526,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=4&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-04-MBL-PCE",
+    "source_id": "2928277",
     "season": 2026,
     "round": 4,
     "scheduled_at": "2026-09-25",
@@ -548,11 +549,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=4&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-04-MHK-LIB",
+    "source_id": "2928279",
     "season": 2026,
     "round": 4,
     "scheduled_at": "2026-09-24",
@@ -571,11 +572,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=4&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-04-OLO-KOM",
+    "source_id": "2928281",
     "season": 2026,
     "round": 4,
     "scheduled_at": "2026-09-25",
@@ -594,11 +595,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=4&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-04-TRI-VIT",
+    "source_id": "2928282",
     "season": 2026,
     "round": 4,
     "scheduled_at": "2026-09-25",
@@ -617,11 +618,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=4&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-05-CEB-LIT",
+    "source_id": "2928285",
     "season": 2026,
     "round": 5,
     "scheduled_at": "2026-09-27",
@@ -640,11 +641,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=5&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-05-KLA-OLO",
+    "source_id": "2928284",
     "season": 2026,
     "round": 5,
     "scheduled_at": "2026-09-27",
@@ -663,11 +664,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=5&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-05-KOM-PCE",
+    "source_id": "2928283",
     "season": 2026,
     "round": 5,
     "scheduled_at": "2026-09-27",
@@ -686,11 +687,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=5&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-05-LIB-TRI",
+    "source_id": "2928288",
     "season": 2026,
     "round": 5,
     "scheduled_at": "2026-09-27",
@@ -709,11 +710,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=5&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-05-PLZ-MHK",
+    "source_id": "2928289",
     "season": 2026,
     "round": 5,
     "scheduled_at": "2026-09-27",
@@ -732,11 +733,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=5&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-05-SPA-KVA",
+    "source_id": "2928286",
     "season": 2026,
     "round": 5,
     "scheduled_at": "2026-09-28",
@@ -755,11 +756,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=5&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-05-VIT-MBL",
+    "source_id": "2928287",
     "season": 2026,
     "round": 5,
     "scheduled_at": "2026-09-27",
@@ -778,11 +779,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=5&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-06-KVA-KOM",
+    "source_id": "2928295",
     "season": 2026,
     "round": 6,
     "scheduled_at": "2026-10-20",
@@ -801,11 +802,11 @@
     "so_score": null,
     "finish": "OT",
     "home_points": 2,
-    "away_points": 1,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=6&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 1
   },
   {
     "id": "2026-06-LIT-LIB",
+    "source_id": "2928292",
     "season": 2026,
     "round": 6,
     "scheduled_at": "2026-09-29",
@@ -824,11 +825,11 @@
     "so_score": [1, 0],
     "finish": "SO",
     "home_points": 2,
-    "away_points": 1,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=6&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 1
   },
   {
     "id": "2026-06-MBL-PLZ",
+    "source_id": "2928294",
     "season": 2026,
     "round": 6,
     "scheduled_at": "2026-09-29",
@@ -847,11 +848,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=6&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-06-MHK-SPA",
+    "source_id": "2928296",
     "season": 2026,
     "round": 6,
     "scheduled_at": "2026-09-29",
@@ -870,11 +871,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=6&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-06-OLO-VIT",
+    "source_id": "2928293",
     "season": 2026,
     "round": 6,
     "scheduled_at": "2026-09-29",
@@ -893,11 +894,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=6&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-06-PCE-CEB",
+    "source_id": "2928290",
     "season": 2026,
     "round": 6,
     "scheduled_at": "2026-09-29",
@@ -916,11 +917,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=6&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-06-TRI-KLA",
+    "source_id": "2928291",
     "season": 2026,
     "round": 6,
     "scheduled_at": "2026-09-29",
@@ -939,11 +940,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=6&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-07-KLA-MHK",
+    "source_id": "2928298",
     "season": 2026,
     "round": 7,
     "scheduled_at": "2026-10-02",
@@ -962,11 +963,11 @@
     "so_score": [0, 1],
     "finish": "SO",
     "home_points": 1,
-    "away_points": 2,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=7&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 2
   },
   {
     "id": "2026-07-KOM-MBL",
+    "source_id": "2928303",
     "season": 2026,
     "round": 7,
     "scheduled_at": "2026-10-02",
@@ -985,11 +986,11 @@
     "so_score": [1, 0],
     "finish": "SO",
     "home_points": 2,
-    "away_points": 1,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=7&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 1
   },
   {
     "id": "2026-07-LIB-OLO",
+    "source_id": "2928302",
     "season": 2026,
     "round": 7,
     "scheduled_at": "2026-10-02",
@@ -1008,11 +1009,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=7&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-07-PCE-PLZ",
+    "source_id": "2928300",
     "season": 2026,
     "round": 7,
     "scheduled_at": "2026-10-02",
@@ -1031,11 +1032,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=7&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-07-SPA-CEB",
+    "source_id": "2928299",
     "season": 2026,
     "round": 7,
     "scheduled_at": "2026-10-01",
@@ -1054,11 +1055,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=7&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-07-TRI-LIT",
+    "source_id": "2928297",
     "season": 2026,
     "round": 7,
     "scheduled_at": "2026-10-02",
@@ -1077,11 +1078,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=7&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-07-VIT-KVA",
+    "source_id": "2928301",
     "season": 2026,
     "round": 7,
     "scheduled_at": "2026-10-02",
@@ -1100,11 +1101,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=7&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-08-CEB-KOM",
+    "source_id": "2928310",
     "season": 2026,
     "round": 8,
     "scheduled_at": "2026-10-05",
@@ -1123,11 +1124,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=8&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-08-KVA-PLZ",
+    "source_id": "2928309",
     "season": 2026,
     "round": 8,
     "scheduled_at": "2026-10-04",
@@ -1146,11 +1147,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=8&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-08-LIT-KLA",
+    "source_id": "2928307",
     "season": 2026,
     "round": 8,
     "scheduled_at": "2026-10-04",
@@ -1169,11 +1170,11 @@
     "so_score": null,
     "finish": "OT",
     "home_points": 1,
-    "away_points": 2,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=8&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 2
   },
   {
     "id": "2026-08-MBL-LIB",
+    "source_id": "2928306",
     "season": 2026,
     "round": 8,
     "scheduled_at": "2026-10-04",
@@ -1192,11 +1193,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=8&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-08-MHK-VIT",
+    "source_id": "2928308",
     "season": 2026,
     "round": 8,
     "scheduled_at": "2026-10-04",
@@ -1215,11 +1216,11 @@
     "so_score": null,
     "finish": "OT",
     "home_points": 2,
-    "away_points": 1,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=8&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 1
   },
   {
     "id": "2026-08-OLO-TRI",
+    "source_id": "2928304",
     "season": 2026,
     "round": 8,
     "scheduled_at": "2026-10-04",
@@ -1238,11 +1239,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=8&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-08-PCE-SPA",
+    "source_id": "2928305",
     "season": 2026,
     "round": 8,
     "scheduled_at": "2026-10-04",
@@ -1261,11 +1262,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=8&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-09-KLA-MBL",
+    "source_id": "2928312",
     "season": 2026,
     "round": 9,
     "scheduled_at": "2026-10-09",
@@ -1284,11 +1285,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=9&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-09-LIB-KVA",
+    "source_id": "2928317",
     "season": 2026,
     "round": 9,
     "scheduled_at": "2026-10-09",
@@ -1307,11 +1308,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=9&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-09-LIT-OLO",
+    "source_id": "2928314",
     "season": 2026,
     "round": 9,
     "scheduled_at": "2026-10-09",
@@ -1330,11 +1331,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=9&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-09-PLZ-CEB",
+    "source_id": "2928315",
     "season": 2026,
     "round": 9,
     "scheduled_at": "2026-10-08",
@@ -1353,11 +1354,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=9&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-09-SPA-KOM",
+    "source_id": "2928311",
     "season": 2026,
     "round": 9,
     "scheduled_at": "2026-10-08",
@@ -1376,11 +1377,11 @@
     "so_score": null,
     "finish": "OT",
     "home_points": 1,
-    "away_points": 2,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=9&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 2
   },
   {
     "id": "2026-09-TRI-MHK",
+    "source_id": "2928313",
     "season": 2026,
     "round": 9,
     "scheduled_at": "2026-10-09",
@@ -1399,11 +1400,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=9&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-09-VIT-PCE",
+    "source_id": "2928316",
     "season": 2026,
     "round": 9,
     "scheduled_at": "2026-10-09",
@@ -1422,11 +1423,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=9&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-10-CEB-LIB",
+    "source_id": "2928320",
     "season": 2026,
     "round": 10,
     "scheduled_at": "2026-10-11",
@@ -1445,11 +1446,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=10&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-10-KOM-PLZ",
+    "source_id": "2928324",
     "season": 2026,
     "round": 10,
     "scheduled_at": "2026-10-11",
@@ -1468,11 +1469,11 @@
     "so_score": null,
     "finish": "OT",
     "home_points": 1,
-    "away_points": 2,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=10&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 2
   },
   {
     "id": "2026-10-KVA-KLA",
+    "source_id": "2928323",
     "season": 2026,
     "round": 10,
     "scheduled_at": "2026-10-11",
@@ -1491,11 +1492,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=10&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-10-MBL-LIT",
+    "source_id": "2928319",
     "season": 2026,
     "round": 10,
     "scheduled_at": "2026-10-11",
@@ -1514,11 +1515,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=10&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-10-MHK-OLO",
+    "source_id": "2928322",
     "season": 2026,
     "round": 10,
     "scheduled_at": "2026-10-11",
@@ -1537,11 +1538,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=10&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-10-PCE-TRI",
+    "source_id": "2928318",
     "season": 2026,
     "round": 10,
     "scheduled_at": "2026-10-11",
@@ -1560,11 +1561,11 @@
     "so_score": null,
     "finish": "OT",
     "home_points": 2,
-    "away_points": 1,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=10&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 1
   },
   {
     "id": "2026-10-SPA-VIT",
+    "source_id": "2928321",
     "season": 2026,
     "round": 10,
     "scheduled_at": "2026-10-11",
@@ -1583,11 +1584,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=10&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-11-KLA-KOM",
+    "source_id": "2928331",
     "season": 2026,
     "round": 11,
     "scheduled_at": "2026-10-16",
@@ -1606,11 +1607,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=11&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-11-LIT-MHK",
+    "source_id": "2928329",
     "season": 2026,
     "round": 11,
     "scheduled_at": "2026-10-15",
@@ -1629,11 +1630,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=11&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-11-OLO-KVA",
+    "source_id": "2928325",
     "season": 2026,
     "round": 11,
     "scheduled_at": "2026-10-16",
@@ -1652,11 +1653,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=11&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-11-PCE-LIB",
+    "source_id": "2928328",
     "season": 2026,
     "round": 11,
     "scheduled_at": "2026-09-22",
@@ -1675,11 +1676,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=11&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-11-PLZ-SPA",
+    "source_id": "2928326",
     "season": 2026,
     "round": 11,
     "scheduled_at": "2026-10-16",
@@ -1698,11 +1699,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=11&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-11-TRI-MBL",
+    "source_id": "2928330",
     "season": 2026,
     "round": 11,
     "scheduled_at": "2026-10-16",
@@ -1721,11 +1722,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=11&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-11-VIT-CEB",
+    "source_id": "2928327",
     "season": 2026,
     "round": 11,
     "scheduled_at": "2026-10-16",
@@ -1744,11 +1745,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=11&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-12-CEB-KLA",
+    "source_id": "2928335",
     "season": 2026,
     "round": 12,
     "scheduled_at": "2026-10-18",
@@ -1767,11 +1768,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=12&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-12-KOM-LIB",
+    "source_id": "2928337",
     "season": 2026,
     "round": 12,
     "scheduled_at": "2026-10-18",
@@ -1790,11 +1791,11 @@
     "so_score": null,
     "finish": "OT",
     "home_points": 2,
-    "away_points": 1,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=12&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 1
   },
   {
     "id": "2026-12-LIT-KVA",
+    "source_id": "2928332",
     "season": 2026,
     "round": 12,
     "scheduled_at": "2026-10-18",
@@ -1813,11 +1814,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=12&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-12-MBL-MHK",
+    "source_id": "2928334",
     "season": 2026,
     "round": 12,
     "scheduled_at": "2026-10-18",
@@ -1836,11 +1837,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=12&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-12-OLO-PCE",
+    "source_id": "2928333",
     "season": 2026,
     "round": 12,
     "scheduled_at": "2026-10-18",
@@ -1859,11 +1860,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=12&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-12-PLZ-VIT",
+    "source_id": "2928338",
     "season": 2026,
     "round": 12,
     "scheduled_at": "2026-10-18",
@@ -1882,11 +1883,11 @@
     "so_score": [1, 0],
     "finish": "SO",
     "home_points": 2,
-    "away_points": 1,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=12&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 1
   },
   {
     "id": "2026-12-SPA-TRI",
+    "source_id": "2928336",
     "season": 2026,
     "round": 12,
     "scheduled_at": "2026-10-18",
@@ -1905,11 +1906,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=12&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-13-KLA-PCE",
+    "source_id": "2928340",
     "season": 2026,
     "round": 13,
     "scheduled_at": "2026-10-23",
@@ -1928,11 +1929,11 @@
     "so_score": null,
     "finish": "OT",
     "home_points": 2,
-    "away_points": 1,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=13&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 1
   },
   {
     "id": "2026-13-LIB-SPA",
+    "source_id": "2928341",
     "season": 2026,
     "round": 13,
     "scheduled_at": "2026-10-23",
@@ -1951,11 +1952,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=13&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-13-LIT-PLZ",
+    "source_id": "2928342",
     "season": 2026,
     "round": 13,
     "scheduled_at": "2026-10-23",
@@ -1974,11 +1975,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=13&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-13-MHK-KVA",
+    "source_id": "2928344",
     "season": 2026,
     "round": 13,
     "scheduled_at": "2026-10-23",
@@ -1997,11 +1998,11 @@
     "so_score": null,
     "finish": "OT",
     "home_points": 1,
-    "away_points": 2,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=13&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 2
   },
   {
     "id": "2026-13-OLO-MBL",
+    "source_id": "2928343",
     "season": 2026,
     "round": 13,
     "scheduled_at": "2026-10-22",
@@ -2020,11 +2021,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=13&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-13-TRI-CEB",
+    "source_id": "2928339",
     "season": 2026,
     "round": 13,
     "scheduled_at": "2026-10-23",
@@ -2043,11 +2044,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=13&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-13-VIT-KOM",
+    "source_id": "2928345",
     "season": 2026,
     "round": 13,
     "scheduled_at": "2026-10-23",
@@ -2066,11 +2067,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=13&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-14-KLA-VIT",
+    "source_id": "2928350",
     "season": 2026,
     "round": 14,
     "scheduled_at": "2026-10-25",
@@ -2089,11 +2090,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=14&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-14-LIB-PLZ",
+    "source_id": "2928352",
     "season": 2026,
     "round": 14,
     "scheduled_at": "2026-10-25",
@@ -2112,11 +2113,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=14&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-14-LIT-KOM",
+    "source_id": "2928349",
     "season": 2026,
     "round": 14,
     "scheduled_at": "2026-10-25",
@@ -2135,11 +2136,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=14&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-14-MBL-CEB",
+    "source_id": "2928347",
     "season": 2026,
     "round": 14,
     "scheduled_at": "2026-10-25",
@@ -2158,11 +2159,11 @@
     "so_score": [1, 0],
     "finish": "SO",
     "home_points": 2,
-    "away_points": 1,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=14&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 1
   },
   {
     "id": "2026-14-MHK-PCE",
+    "source_id": "2928346",
     "season": 2026,
     "round": 14,
     "scheduled_at": "2026-10-25",
@@ -2181,11 +2182,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=14&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-14-SPA-OLO",
+    "source_id": "2928348",
     "season": 2026,
     "round": 14,
     "scheduled_at": "2026-10-24",
@@ -2204,11 +2205,11 @@
     "so_score": null,
     "finish": "OT",
     "home_points": 2,
-    "away_points": 1,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=14&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 1
   },
   {
     "id": "2026-14-TRI-KVA",
+    "source_id": "2928351",
     "season": 2026,
     "round": 14,
     "scheduled_at": "2026-10-25",
@@ -2227,11 +2228,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=14&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-15-CEB-MHK",
+    "source_id": "2928356",
     "season": 2026,
     "round": 15,
     "scheduled_at": "2026-10-27",
@@ -2250,11 +2251,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=15&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-15-KLA-SPA",
+    "source_id": "2928353",
     "season": 2026,
     "round": 15,
     "scheduled_at": "2026-10-27",
@@ -2273,11 +2274,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=15&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-15-KOM-TRI",
+    "source_id": "2928357",
     "season": 2026,
     "round": 15,
     "scheduled_at": "2026-10-28",
@@ -2296,11 +2297,11 @@
     "so_score": null,
     "finish": "OT",
     "home_points": 1,
-    "away_points": 2,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=15&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 2
   },
   {
     "id": "2026-15-KVA-MBL",
+    "source_id": "2928359",
     "season": 2026,
     "round": 15,
     "scheduled_at": "2026-10-27",
@@ -2319,11 +2320,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=15&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-15-PCE-LIT",
+    "source_id": "2928355",
     "season": 2026,
     "round": 15,
     "scheduled_at": "2026-10-27",
@@ -2342,11 +2343,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=15&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-15-PLZ-OLO",
+    "source_id": "2928358",
     "season": 2026,
     "round": 15,
     "scheduled_at": "2026-10-27",
@@ -2365,11 +2366,11 @@
     "so_score": null,
     "finish": "OT",
     "home_points": 2,
-    "away_points": 1,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=15&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 1
   },
   {
     "id": "2026-15-VIT-LIB",
+    "source_id": "2928354",
     "season": 2026,
     "round": 15,
     "scheduled_at": "2026-10-20",
@@ -2388,11 +2389,11 @@
     "so_score": [1, 0],
     "finish": "SO",
     "home_points": 2,
-    "away_points": 1,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=15&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 1
   },
   {
     "id": "2026-16-KLA-LIB",
+    "source_id": "2928365",
     "season": 2026,
     "round": 16,
     "scheduled_at": "2026-10-30",
@@ -2411,11 +2412,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=16&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-16-KVA-PCE",
+    "source_id": "2928361",
     "season": 2026,
     "round": 16,
     "scheduled_at": "2026-10-30",
@@ -2434,11 +2435,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=16&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-16-LIT-VIT",
+    "source_id": "2928366",
     "season": 2026,
     "round": 16,
     "scheduled_at": "2026-10-30",
@@ -2457,11 +2458,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=16&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-16-MBL-SPA",
+    "source_id": "2928364",
     "season": 2026,
     "round": 16,
     "scheduled_at": "2026-10-30",
@@ -2480,11 +2481,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=16&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-16-OLO-CEB",
+    "source_id": "2928363",
     "season": 2026,
     "round": 16,
     "scheduled_at": "2026-10-30",
@@ -2503,11 +2504,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=16&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-16-PLZ-TRI",
+    "source_id": "2928362",
     "season": 2026,
     "round": 16,
     "scheduled_at": "2026-10-30",
@@ -2526,11 +2527,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=16&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-17-CEB-KVA",
+    "source_id": "2928371",
     "season": 2026,
     "round": 17,
     "scheduled_at": "2026-11-01",
@@ -2549,11 +2550,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=17&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   },
   {
     "id": "2026-17-KOM-OLO",
+    "source_id": "2928372",
     "season": 2026,
     "round": 17,
     "scheduled_at": "2026-11-01",
@@ -2572,11 +2573,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=17&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-17-LIB-MHK",
+    "source_id": "2928370",
     "season": 2026,
     "round": 17,
     "scheduled_at": "2026-11-01",
@@ -2595,11 +2596,11 @@
     "so_score": null,
     "finish": "OT",
     "home_points": 2,
-    "away_points": 1,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=17&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 1
   },
   {
     "id": "2026-17-PCE-MBL",
+    "source_id": "2928368",
     "season": 2026,
     "round": 17,
     "scheduled_at": "2026-11-01",
@@ -2618,11 +2619,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=17&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-17-PLZ-KLA",
+    "source_id": "2928367",
     "season": 2026,
     "round": 17,
     "scheduled_at": "2026-11-01",
@@ -2641,11 +2642,11 @@
     "so_score": [1, 0],
     "finish": "SO",
     "home_points": 2,
-    "away_points": 1,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=17&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 1
   },
   {
     "id": "2026-17-SPA-LIT",
+    "source_id": "2928369",
     "season": 2026,
     "round": 17,
     "scheduled_at": "2026-11-01",
@@ -2664,11 +2665,11 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
-    "away_points": 0,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=17&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 0
   },
   {
     "id": "2026-17-VIT-TRI",
+    "source_id": "2928373",
     "season": 2026,
     "round": 17,
     "scheduled_at": "2026-11-01",
@@ -2687,7 +2688,6 @@
     "so_score": null,
     "finish": "REG",
     "home_points": 0,
-    "away_points": 3,
-    "source_url": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-round-round=17&matchList-filter-season=2026&matchList-filter-competition=7562"
+    "away_points": 3
   }
 ]
