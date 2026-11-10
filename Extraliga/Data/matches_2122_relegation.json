@@ -1,0 +1,107 @@
+[
+  {
+    "id": "2021-R01-2899889",
+    "source_id": "2899889",
+    "season": 2021,
+    "round": 1,
+    "scheduled_at": "2022-04-17",
+    "home_team_id": "KLA",
+    "away_team_id": "JIH",
+    "status": "finished",
+    "played_at": "2022-04-17",
+    "home_score": 6,
+    "away_score": 4,
+    "periods": [
+      [1, 0],
+      [2, 3],
+      [3, 1]
+    ],
+    "ot_score": null,
+    "so_score": null,
+    "finish": "REG"
+  },
+  {
+    "id": "2021-R02-2899890",
+    "source_id": "2899890",
+    "season": 2021,
+    "round": 2,
+    "scheduled_at": "2022-04-18",
+    "home_team_id": "KLA",
+    "away_team_id": "JIH",
+    "status": "finished",
+    "played_at": "2022-04-18",
+    "home_score": 4,
+    "away_score": 1,
+    "periods": [
+      [0, 1],
+      [2, 0],
+      [2, 0]
+    ],
+    "ot_score": null,
+    "so_score": null,
+    "finish": "REG"
+  },
+  {
+    "id": "2021-R03-2899891",
+    "source_id": "2899891",
+    "season": 2021,
+    "round": 3,
+    "scheduled_at": "2022-04-21",
+    "home_team_id": "JIH",
+    "away_team_id": "KLA",
+    "status": "finished",
+    "played_at": "2022-04-21",
+    "home_score": 5,
+    "away_score": 3,
+    "periods": [
+      [1, 0],
+      [3, 3],
+      [1, 0]
+    ],
+    "ot_score": null,
+    "so_score": null,
+    "finish": "REG"
+  },
+  {
+    "id": "2021-R04-2899892",
+    "source_id": "2899892",
+    "season": 2021,
+    "round": 4,
+    "scheduled_at": "2022-04-22",
+    "home_team_id": "JIH",
+    "away_team_id": "KLA",
+    "status": "finished",
+    "played_at": "2022-04-22",
+    "home_score": 2,
+    "away_score": 7,
+    "periods": [
+      [1, 2],
+      [1, 2],
+      [0, 3]
+    ],
+    "ot_score": null,
+    "so_score": null,
+    "finish": "REG"
+  },
+  {
+    "id": "2021-R05-2899893",
+    "source_id": "2899893",
+    "season": 2021,
+    "round": 5,
+    "scheduled_at": "2022-04-25",
+    "home_team_id": "KLA",
+    "away_team_id": "JIH",
+    "status": "finished",
+    "played_at": "2022-04-25",
+    "home_score": 6,
+    "away_score": 3,
+    "periods": [
+      [2, 2],
+      [1, 1],
+      [3, 0]
+    ],
+    "ot_score": null,
+    "so_score": null,
+    "finish": "REG"
+  }
+]

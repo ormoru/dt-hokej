@@ -1,0 +1,107 @@
+[
+  {
+    "id": "2025-R01-2928105",
+    "source_id": "2928105",
+    "season": 2025,
+    "round": 1,
+    "scheduled_at": "2026-04-17",
+    "home_team_id": "LIT",
+    "away_team_id": "JIH",
+    "status": "finished",
+    "played_at": "2026-04-17",
+    "home_score": 3,
+    "away_score": 2,
+    "periods": [
+      [0, 1],
+      [1, 1],
+      [1, 0]
+    ],
+    "ot_score": [1, 0],
+    "so_score": null,
+    "finish": "OT"
+  },
+  {
+    "id": "2025-R02-2928106",
+    "source_id": "2928106",
+    "season": 2025,
+    "round": 2,
+    "scheduled_at": "2026-04-18",
+    "home_team_id": "LIT",
+    "away_team_id": "JIH",
+    "status": "finished",
+    "played_at": "2026-04-18",
+    "home_score": 3,
+    "away_score": 1,
+    "periods": [
+      [1, 0],
+      [2, 1],
+      [0, 0]
+    ],
+    "ot_score": null,
+    "so_score": null,
+    "finish": "REG"
+  },
+  {
+    "id": "2025-R03-2928107",
+    "source_id": "2928107",
+    "season": 2025,
+    "round": 3,
+    "scheduled_at": "2026-04-21",
+    "home_team_id": "JIH",
+    "away_team_id": "LIT",
+    "status": "finished",
+    "played_at": "2026-04-21",
+    "home_score": 1,
+    "away_score": 5,
+    "periods": [
+      [0, 1],
+      [1, 2],
+      [0, 2]
+    ],
+    "ot_score": null,
+    "so_score": null,
+    "finish": "REG"
+  },
+  {
+    "id": "2025-R04-2928108",
+    "source_id": "2928108",
+    "season": 2025,
+    "round": 4,
+    "scheduled_at": "2026-04-22",
+    "home_team_id": "JIH",
+    "away_team_id": "LIT",
+    "status": "finished",
+    "played_at": "2026-04-22",
+    "home_score": 4,
+    "away_score": 2,
+    "periods": [
+      [2, 0],
+      [0, 0],
+      [2, 2]
+    ],
+    "ot_score": null,
+    "so_score": null,
+    "finish": "REG"
+  },
+  {
+    "id": "2025-R05-2928109",
+    "source_id": "2928109",
+    "season": 2025,
+    "round": 5,
+    "scheduled_at": "2026-04-25",
+    "home_team_id": "LIT",
+    "away_team_id": "JIH",
+    "status": "finished",
+    "played_at": "2026-04-25",
+    "home_score": 5,
+    "away_score": 0,
+    "periods": [
+      [3, 0],
+      [2, 0],
+      [0, 0]
+    ],
+    "ot_score": null,
+    "so_score": null,
+    "finish": "REG"
+  }
+]

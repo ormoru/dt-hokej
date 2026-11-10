@@ -1,0 +1,86 @@
+[
+  {
+    "id": "2023-R01-2913366",
+    "source_id": "2913366",
+    "season": 2023,
+    "round": 1,
+    "scheduled_at": "2024-04-17",
+    "home_team_id": "KLA",
+    "away_team_id": "VHK",
+    "status": "finished",
+    "played_at": "2024-04-17",
+    "home_score": 4,
+    "away_score": 1,
+    "periods": [
+      [0, 0],
+      [3, 0],
+      [1, 1]
+    ],
+    "ot_score": null,
+    "so_score": null,
+    "finish": "REG"
+  },
+  {
+    "id": "2023-R02-2913367",
+    "source_id": "2913367",
+    "season": 2023,
+    "round": 2,
+    "scheduled_at": "2024-04-18",
+    "home_team_id": "KLA",
+    "away_team_id": "VHK",
+    "status": "finished",
+    "played_at": "2024-04-18",
+    "home_score": 7,
+    "away_score": 2,
+    "periods": [
+      [3, 1],
+      [4, 1],
+      [0, 0]
+    ],
+    "ot_score": null,
+    "so_score": null,
+    "finish": "REG"
+  },
+  {
+    "id": "2023-R03-2913368",
+    "source_id": "2913368",
+    "season": 2023,
+    "round": 3,
+    "scheduled_at": "2024-04-21",
+    "home_team_id": "VHK",
+    "away_team_id": "KLA",
+    "status": "finished",
+    "played_at": "2024-04-21",
+    "home_score": 2,
+    "away_score": 3,
+    "periods": [
+      [0, 1],
+      [2, 2],
+      [0, 0]
+    ],
+    "ot_score": null,
+    "so_score": null,
+    "finish": "REG"
+  },
+  {
+    "id": "2023-R04-2913369",
+    "source_id": "2913369",
+    "season": 2023,
+    "round": 4,
+    "scheduled_at": "2024-04-22",
+    "home_team_id": "VHK",
+    "away_team_id": "KLA",
+    "status": "finished",
+    "played_at": "2024-04-22",
+    "home_score": 3,
+    "away_score": 4,
+    "periods": [
+      [1, 0],
+      [1, 2],
+      [1, 2]
+    ],
+    "ot_score": null,
+    "so_score": null,
+    "finish": "REG"
+  }
+]

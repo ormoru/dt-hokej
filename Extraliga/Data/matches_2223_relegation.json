@@ -1,0 +1,86 @@
+[
+  {
+    "id": "2022-R01-2907364",
+    "source_id": "2907364",
+    "season": 2022,
+    "round": 1,
+    "scheduled_at": "2023-04-16",
+    "home_team_id": "KLA",
+    "away_team_id": "ZLN",
+    "status": "finished",
+    "played_at": "2023-04-16",
+    "home_score": 1,
+    "away_score": 0,
+    "periods": [
+      [0, 0],
+      [0, 0],
+      [1, 0]
+    ],
+    "ot_score": null,
+    "so_score": null,
+    "finish": "REG"
+  },
+  {
+    "id": "2022-R02-2907365",
+    "source_id": "2907365",
+    "season": 2022,
+    "round": 2,
+    "scheduled_at": "2023-04-17",
+    "home_team_id": "KLA",
+    "away_team_id": "ZLN",
+    "status": "finished",
+    "played_at": "2023-04-17",
+    "home_score": 3,
+    "away_score": 1,
+    "periods": [
+      [2, 0],
+      [0, 0],
+      [1, 1]
+    ],
+    "ot_score": null,
+    "so_score": null,
+    "finish": "REG"
+  },
+  {
+    "id": "2022-R03-2907366",
+    "source_id": "2907366",
+    "season": 2022,
+    "round": 3,
+    "scheduled_at": "2023-04-20",
+    "home_team_id": "ZLN",
+    "away_team_id": "KLA",
+    "status": "finished",
+    "played_at": "2023-04-20",
+    "home_score": 1,
+    "away_score": 7,
+    "periods": [
+      [0, 4],
+      [0, 3],
+      [1, 0]
+    ],
+    "ot_score": null,
+    "so_score": null,
+    "finish": "REG"
+  },
+  {
+    "id": "2022-R04-2907367",
+    "source_id": "2907367",
+    "season": 2022,
+    "round": 4,
+    "scheduled_at": "2023-04-21",
+    "home_team_id": "ZLN",
+    "away_team_id": "KLA",
+    "status": "finished",
+    "played_at": "2023-04-21",
+    "home_score": 0,
+    "away_score": 1,
+    "periods": [
+      [0, 0],
+      [0, 1],
+      [0, 0]
+    ],
+    "ot_score": null,
+    "so_score": null,
+    "finish": "REG"
+  }
+]
