@@ -191,6 +191,18 @@
     "link_facebook": "",
     "logo"         : ""
   },
+  "VHK": {
+    "name"         : "VHK ROBE Vsetín",
+    "short_name"   : "Vsetín",
+    "color"        : "#6a8f1a",
+    "color_2"      : "",
+    "link_web"     : "http://www.hc-vsetin.cz/",
+    "link_blog"    : "https://www.hokej.cz/klub/vhk-robe-vsetin/549",
+    "link_wiki"    : "https://cs.wikipedia.org/wiki/VHK_ROBE_Vset%C3%ADn",
+    "link_youtube" : "",
+    "link_facebook": "",
+    "logo"         : ""
+  },
   "VIT": {
     "name"         : "HC Vítkovice Ridera",
     "short_name"   : "Vítkovice",
