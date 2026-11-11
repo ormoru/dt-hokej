@@ -1,28 +1,5 @@
 [
   {
-    "id": "2026-01-CEB-MBL",
-    "source_id": "2928256",
-    "season": 2026,
-    "round": 1,
-    "scheduled_at": "2026-09-16",
-    "home_team_id": "CEB",
-    "away_team_id": "MBL",
-    "status": "finished",
-    "played_at": "2026-09-16",
-    "home_score": 2,
-    "away_score": 3,
-    "periods": [
-      [1, 0],
-      [1, 1],
-      [0, 1]
-    ],
-    "ot_score": [0, 1],
-    "so_score": null,
-    "finish": "OT",
-    "home_points": 1,
-    "away_points": 2
-  },
-  {
     "id": "2026-01-KVA-TRI",
     "source_id": "2928260",
     "season": 2026,
@@ -44,6 +21,29 @@
     "finish": "REG",
     "home_points": 0,
     "away_points": 3
+  },
+  {
+    "id": "2026-01-CEB-MBL",
+    "source_id": "2928256",
+    "season": 2026,
+    "round": 1,
+    "scheduled_at": "2026-09-16",
+    "home_team_id": "CEB",
+    "away_team_id": "MBL",
+    "status": "finished",
+    "played_at": "2026-09-16",
+    "home_score": 2,
+    "away_score": 3,
+    "periods": [
+      [1, 0],
+      [1, 1],
+      [0, 1]
+    ],
+    "ot_score": [0, 1],
+    "so_score": null,
+    "finish": "OT",
+    "home_points": 1,
+    "away_points": 2
   },
   {
     "id": "2026-01-LIT-KOM",
@@ -299,6 +299,29 @@
     "away_points": 0
   },
   {
+    "id": "2026-03-TRI-PLZ",
+    "source_id": "2928271",
+    "season": 2026,
+    "round": 3,
+    "scheduled_at": "2026-09-19",
+    "home_team_id": "TRI",
+    "away_team_id": "PLZ",
+    "status": "finished",
+    "played_at": "2026-09-19",
+    "home_score": 3,
+    "away_score": 2,
+    "periods": [
+      [1, 2],
+      [0, 0],
+      [2, 0]
+    ],
+    "ot_score": null,
+    "so_score": null,
+    "finish": "REG",
+    "home_points": 3,
+    "away_points": 0
+  },
+  {
     "id": "2026-03-CEB-OLO",
     "source_id": "2928272",
     "season": 2026,
@@ -391,6 +414,29 @@
     "away_points": 0
   },
   {
+    "id": "2026-03-VIT-LIT",
+    "source_id": "2928275",
+    "season": 2026,
+    "round": 3,
+    "scheduled_at": "2026-09-20",
+    "home_team_id": "VIT",
+    "away_team_id": "LIT",
+    "status": "finished",
+    "played_at": "2026-09-20",
+    "home_score": 2,
+    "away_score": 3,
+    "periods": [
+      [1, 1],
+      [1, 2],
+      [0, 0]
+    ],
+    "ot_score": null,
+    "so_score": null,
+    "finish": "REG",
+    "home_points": 0,
+    "away_points": 3
+  },
+  {
     "id": "2026-03-SPA-MBL",
     "source_id": "2928273",
     "season": 2026,
@@ -414,50 +460,27 @@
     "away_points": 3
   },
   {
-    "id": "2026-03-TRI-PLZ",
-    "source_id": "2928271",
+    "id": "2026-04-MHK-LIB",
+    "source_id": "2928279",
     "season": 2026,
-    "round": 3,
-    "scheduled_at": "2026-09-19",
-    "home_team_id": "TRI",
-    "away_team_id": "PLZ",
+    "round": 4,
+    "scheduled_at": "2026-09-24",
+    "home_team_id": "MHK",
+    "away_team_id": "LIB",
     "status": "finished",
-    "played_at": "2026-09-19",
-    "home_score": 3,
+    "played_at": "2026-09-24",
+    "home_score": 5,
     "away_score": 2,
     "periods": [
-      [1, 2],
-      [0, 0],
-      [2, 0]
+      [1, 0],
+      [2, 1],
+      [2, 1]
     ],
     "ot_score": null,
     "so_score": null,
     "finish": "REG",
     "home_points": 3,
     "away_points": 0
-  },
-  {
-    "id": "2026-03-VIT-LIT",
-    "source_id": "2928275",
-    "season": 2026,
-    "round": 3,
-    "scheduled_at": "2026-09-20",
-    "home_team_id": "VIT",
-    "away_team_id": "LIT",
-    "status": "finished",
-    "played_at": "2026-09-20",
-    "home_score": 2,
-    "away_score": 3,
-    "periods": [
-      [1, 1],
-      [1, 2],
-      [0, 0]
-    ],
-    "ot_score": null,
-    "so_score": null,
-    "finish": "REG",
-    "home_points": 0,
-    "away_points": 3
   },
   {
     "id": "2026-04-KLA-PLZ",
@@ -550,29 +573,6 @@
     "finish": "REG",
     "home_points": 0,
     "away_points": 3
-  },
-  {
-    "id": "2026-04-MHK-LIB",
-    "source_id": "2928279",
-    "season": 2026,
-    "round": 4,
-    "scheduled_at": "2026-09-24",
-    "home_team_id": "MHK",
-    "away_team_id": "LIB",
-    "status": "finished",
-    "played_at": "2026-09-24",
-    "home_score": 5,
-    "away_score": 2,
-    "periods": [
-      [1, 0],
-      [2, 1],
-      [2, 1]
-    ],
-    "ot_score": null,
-    "so_score": null,
-    "finish": "REG",
-    "home_points": 3,
-    "away_points": 0
   },
   {
     "id": "2026-04-OLO-KOM",
@@ -736,29 +736,6 @@
     "away_points": 0
   },
   {
-    "id": "2026-05-SPA-KVA",
-    "source_id": "2928286",
-    "season": 2026,
-    "round": 5,
-    "scheduled_at": "2026-09-28",
-    "home_team_id": "SPA",
-    "away_team_id": "KVA",
-    "status": "finished",
-    "played_at": "2026-09-28",
-    "home_score": 0,
-    "away_score": 1,
-    "periods": [
-      [0, 0],
-      [0, 1],
-      [0, 0]
-    ],
-    "ot_score": null,
-    "so_score": null,
-    "finish": "REG",
-    "home_points": 0,
-    "away_points": 3
-  },
-  {
     "id": "2026-05-VIT-MBL",
     "source_id": "2928287",
     "season": 2026,
@@ -782,27 +759,27 @@
     "away_points": 0
   },
   {
-    "id": "2026-06-KVA-KOM",
-    "source_id": "2928295",
+    "id": "2026-05-SPA-KVA",
+    "source_id": "2928286",
     "season": 2026,
-    "round": 6,
-    "scheduled_at": "2026-10-20",
-    "home_team_id": "KVA",
-    "away_team_id": "KOM",
+    "round": 5,
+    "scheduled_at": "2026-09-28",
+    "home_team_id": "SPA",
+    "away_team_id": "KVA",
     "status": "finished",
-    "played_at": "2026-10-20",
-    "home_score": 2,
+    "played_at": "2026-09-28",
+    "home_score": 0,
     "away_score": 1,
     "periods": [
-      [1, 0],
+      [0, 0],
       [0, 1],
       [0, 0]
     ],
-    "ot_score": [1, 0],
+    "ot_score": null,
     "so_score": null,
-    "finish": "OT",
-    "home_points": 2,
-    "away_points": 1
+    "finish": "REG",
+    "home_points": 0,
+    "away_points": 3
   },
   {
     "id": "2026-06-LIT-LIB",
@@ -943,6 +920,52 @@
     "away_points": 0
   },
   {
+    "id": "2026-06-KVA-KOM",
+    "source_id": "2928295",
+    "season": 2026,
+    "round": 6,
+    "scheduled_at": "2026-10-20",
+    "home_team_id": "KVA",
+    "away_team_id": "KOM",
+    "status": "finished",
+    "played_at": "2026-10-20",
+    "home_score": 2,
+    "away_score": 1,
+    "periods": [
+      [1, 0],
+      [0, 1],
+      [0, 0]
+    ],
+    "ot_score": [1, 0],
+    "so_score": null,
+    "finish": "OT",
+    "home_points": 2,
+    "away_points": 1
+  },
+  {
+    "id": "2026-07-SPA-CEB",
+    "source_id": "2928299",
+    "season": 2026,
+    "round": 7,
+    "scheduled_at": "2026-10-01",
+    "home_team_id": "SPA",
+    "away_team_id": "CEB",
+    "status": "finished",
+    "played_at": "2026-10-01",
+    "home_score": 4,
+    "away_score": 2,
+    "periods": [
+      [0, 1],
+      [1, 0],
+      [3, 1]
+    ],
+    "ot_score": null,
+    "so_score": null,
+    "finish": "REG",
+    "home_points": 3,
+    "away_points": 0
+  },
+  {
     "id": "2026-07-KLA-MHK",
     "source_id": "2928298",
     "season": 2026,
@@ -1035,29 +1058,6 @@
     "away_points": 0
   },
   {
-    "id": "2026-07-SPA-CEB",
-    "source_id": "2928299",
-    "season": 2026,
-    "round": 7,
-    "scheduled_at": "2026-10-01",
-    "home_team_id": "SPA",
-    "away_team_id": "CEB",
-    "status": "finished",
-    "played_at": "2026-10-01",
-    "home_score": 4,
-    "away_score": 2,
-    "periods": [
-      [0, 1],
-      [1, 0],
-      [3, 1]
-    ],
-    "ot_score": null,
-    "so_score": null,
-    "finish": "REG",
-    "home_points": 3,
-    "away_points": 0
-  },
-  {
     "id": "2026-07-TRI-LIT",
     "source_id": "2928297",
     "season": 2026,
@@ -1102,29 +1102,6 @@
     "finish": "REG",
     "home_points": 0,
     "away_points": 3
-  },
-  {
-    "id": "2026-08-CEB-KOM",
-    "source_id": "2928310",
-    "season": 2026,
-    "round": 8,
-    "scheduled_at": "2026-10-05",
-    "home_team_id": "CEB",
-    "away_team_id": "KOM",
-    "status": "finished",
-    "played_at": "2026-10-05",
-    "home_score": 5,
-    "away_score": 1,
-    "periods": [
-      [2, 0],
-      [1, 0],
-      [2, 1]
-    ],
-    "ot_score": null,
-    "so_score": null,
-    "finish": "REG",
-    "home_points": 3,
-    "away_points": 0
   },
   {
     "id": "2026-08-KVA-PLZ",
@@ -1265,6 +1242,75 @@
     "away_points": 0
   },
   {
+    "id": "2026-08-CEB-KOM",
+    "source_id": "2928310",
+    "season": 2026,
+    "round": 8,
+    "scheduled_at": "2026-10-05",
+    "home_team_id": "CEB",
+    "away_team_id": "KOM",
+    "status": "finished",
+    "played_at": "2026-10-05",
+    "home_score": 5,
+    "away_score": 1,
+    "periods": [
+      [2, 0],
+      [1, 0],
+      [2, 1]
+    ],
+    "ot_score": null,
+    "so_score": null,
+    "finish": "REG",
+    "home_points": 3,
+    "away_points": 0
+  },
+  {
+    "id": "2026-09-PLZ-CEB",
+    "source_id": "2928315",
+    "season": 2026,
+    "round": 9,
+    "scheduled_at": "2026-10-08",
+    "home_team_id": "PLZ",
+    "away_team_id": "CEB",
+    "status": "finished",
+    "played_at": "2026-10-08",
+    "home_score": 4,
+    "away_score": 1,
+    "periods": [
+      [0, 0],
+      [3, 1],
+      [1, 0]
+    ],
+    "ot_score": null,
+    "so_score": null,
+    "finish": "REG",
+    "home_points": 3,
+    "away_points": 0
+  },
+  {
+    "id": "2026-09-SPA-KOM",
+    "source_id": "2928311",
+    "season": 2026,
+    "round": 9,
+    "scheduled_at": "2026-10-08",
+    "home_team_id": "SPA",
+    "away_team_id": "KOM",
+    "status": "finished",
+    "played_at": "2026-10-08",
+    "home_score": 3,
+    "away_score": 4,
+    "periods": [
+      [0, 1],
+      [1, 1],
+      [2, 1]
+    ],
+    "ot_score": [0, 1],
+    "so_score": null,
+    "finish": "OT",
+    "home_points": 1,
+    "away_points": 2
+  },
+  {
     "id": "2026-09-KLA-MBL",
     "source_id": "2928312",
     "season": 2026,
@@ -1332,52 +1378,6 @@
     "finish": "REG",
     "home_points": 3,
     "away_points": 0
-  },
-  {
-    "id": "2026-09-PLZ-CEB",
-    "source_id": "2928315",
-    "season": 2026,
-    "round": 9,
-    "scheduled_at": "2026-10-08",
-    "home_team_id": "PLZ",
-    "away_team_id": "CEB",
-    "status": "finished",
-    "played_at": "2026-10-08",
-    "home_score": 4,
-    "away_score": 1,
-    "periods": [
-      [0, 0],
-      [3, 1],
-      [1, 0]
-    ],
-    "ot_score": null,
-    "so_score": null,
-    "finish": "REG",
-    "home_points": 3,
-    "away_points": 0
-  },
-  {
-    "id": "2026-09-SPA-KOM",
-    "source_id": "2928311",
-    "season": 2026,
-    "round": 9,
-    "scheduled_at": "2026-10-08",
-    "home_team_id": "SPA",
-    "away_team_id": "KOM",
-    "status": "finished",
-    "played_at": "2026-10-08",
-    "home_score": 3,
-    "away_score": 4,
-    "periods": [
-      [0, 1],
-      [1, 1],
-      [2, 1]
-    ],
-    "ot_score": [0, 1],
-    "so_score": null,
-    "finish": "OT",
-    "home_points": 1,
-    "away_points": 2
   },
   {
     "id": "2026-09-TRI-MHK",
@@ -1587,21 +1587,21 @@
     "away_points": 0
   },
   {
-    "id": "2026-11-KLA-KOM",
-    "source_id": "2928331",
+    "id": "2026-11-PCE-LIB",
+    "source_id": "2928328",
     "season": 2026,
     "round": 11,
-    "scheduled_at": "2026-10-16",
-    "home_team_id": "KLA",
-    "away_team_id": "KOM",
+    "scheduled_at": "2026-09-22",
+    "home_team_id": "PCE",
+    "away_team_id": "LIB",
     "status": "finished",
-    "played_at": "2026-10-16",
-    "home_score": 1,
-    "away_score": 2,
+    "played_at": "2026-09-22",
+    "home_score": 4,
+    "away_score": 5,
     "periods": [
-      [1, 0],
       [0, 1],
-      [0, 1]
+      [2, 1],
+      [2, 3]
     ],
     "ot_score": null,
     "so_score": null,
@@ -1633,6 +1633,29 @@
     "away_points": 3
   },
   {
+    "id": "2026-11-KLA-KOM",
+    "source_id": "2928331",
+    "season": 2026,
+    "round": 11,
+    "scheduled_at": "2026-10-16",
+    "home_team_id": "KLA",
+    "away_team_id": "KOM",
+    "status": "finished",
+    "played_at": "2026-10-16",
+    "home_score": 1,
+    "away_score": 2,
+    "periods": [
+      [1, 0],
+      [0, 1],
+      [0, 1]
+    ],
+    "ot_score": null,
+    "so_score": null,
+    "finish": "REG",
+    "home_points": 0,
+    "away_points": 3
+  },
+  {
     "id": "2026-11-OLO-KVA",
     "source_id": "2928325",
     "season": 2026,
@@ -1648,29 +1671,6 @@
       [0, 1],
       [0, 2],
       [0, 2]
-    ],
-    "ot_score": null,
-    "so_score": null,
-    "finish": "REG",
-    "home_points": 0,
-    "away_points": 3
-  },
-  {
-    "id": "2026-11-PCE-LIB",
-    "source_id": "2928328",
-    "season": 2026,
-    "round": 11,
-    "scheduled_at": "2026-09-22",
-    "home_team_id": "PCE",
-    "away_team_id": "LIB",
-    "status": "finished",
-    "played_at": "2026-09-22",
-    "home_score": 4,
-    "away_score": 5,
-    "periods": [
-      [0, 1],
-      [2, 1],
-      [2, 3]
     ],
     "ot_score": null,
     "so_score": null,
@@ -1909,6 +1909,29 @@
     "away_points": 3
   },
   {
+    "id": "2026-13-OLO-MBL",
+    "source_id": "2928343",
+    "season": 2026,
+    "round": 13,
+    "scheduled_at": "2026-10-22",
+    "home_team_id": "OLO",
+    "away_team_id": "MBL",
+    "status": "finished",
+    "played_at": "2026-10-22",
+    "home_score": 4,
+    "away_score": 2,
+    "periods": [
+      [0, 1],
+      [0, 0],
+      [4, 1]
+    ],
+    "ot_score": null,
+    "so_score": null,
+    "finish": "REG",
+    "home_points": 3,
+    "away_points": 0
+  },
+  {
     "id": "2026-13-KLA-PCE",
     "source_id": "2928340",
     "season": 2026,
@@ -2001,29 +2024,6 @@
     "away_points": 2
   },
   {
-    "id": "2026-13-OLO-MBL",
-    "source_id": "2928343",
-    "season": 2026,
-    "round": 13,
-    "scheduled_at": "2026-10-22",
-    "home_team_id": "OLO",
-    "away_team_id": "MBL",
-    "status": "finished",
-    "played_at": "2026-10-22",
-    "home_score": 4,
-    "away_score": 2,
-    "periods": [
-      [0, 1],
-      [0, 0],
-      [4, 1]
-    ],
-    "ot_score": null,
-    "so_score": null,
-    "finish": "REG",
-    "home_points": 3,
-    "away_points": 0
-  },
-  {
     "id": "2026-13-TRI-CEB",
     "source_id": "2928339",
     "season": 2026,
@@ -2068,6 +2068,29 @@
     "finish": "REG",
     "home_points": 3,
     "away_points": 0
+  },
+  {
+    "id": "2026-14-SPA-OLO",
+    "source_id": "2928348",
+    "season": 2026,
+    "round": 14,
+    "scheduled_at": "2026-10-24",
+    "home_team_id": "SPA",
+    "away_team_id": "OLO",
+    "status": "finished",
+    "played_at": "2026-10-24",
+    "home_score": 2,
+    "away_score": 1,
+    "periods": [
+      [0, 0],
+      [1, 0],
+      [0, 1]
+    ],
+    "ot_score": [1, 0],
+    "so_score": null,
+    "finish": "OT",
+    "home_points": 2,
+    "away_points": 1
   },
   {
     "id": "2026-14-KLA-VIT",
@@ -2185,29 +2208,6 @@
     "away_points": 0
   },
   {
-    "id": "2026-14-SPA-OLO",
-    "source_id": "2928348",
-    "season": 2026,
-    "round": 14,
-    "scheduled_at": "2026-10-24",
-    "home_team_id": "SPA",
-    "away_team_id": "OLO",
-    "status": "finished",
-    "played_at": "2026-10-24",
-    "home_score": 2,
-    "away_score": 1,
-    "periods": [
-      [0, 0],
-      [1, 0],
-      [0, 1]
-    ],
-    "ot_score": [1, 0],
-    "so_score": null,
-    "finish": "OT",
-    "home_points": 2,
-    "away_points": 1
-  },
-  {
     "id": "2026-14-TRI-KVA",
     "source_id": "2928351",
     "season": 2026,
@@ -2229,6 +2229,29 @@
     "finish": "REG",
     "home_points": 3,
     "away_points": 0
+  },
+  {
+    "id": "2026-15-VIT-LIB",
+    "source_id": "2928354",
+    "season": 2026,
+    "round": 15,
+    "scheduled_at": "2026-10-20",
+    "home_team_id": "VIT",
+    "away_team_id": "LIB",
+    "status": "finished",
+    "played_at": "2026-10-20",
+    "home_score": 3,
+    "away_score": 2,
+    "periods": [
+      [0, 0],
+      [1, 1],
+      [1, 1]
+    ],
+    "ot_score": [0, 0],
+    "so_score": [1, 0],
+    "finish": "SO",
+    "home_points": 2,
+    "away_points": 1
   },
   {
     "id": "2026-15-CEB-MHK",
@@ -2275,29 +2298,6 @@
     "finish": "REG",
     "home_points": 3,
     "away_points": 0
-  },
-  {
-    "id": "2026-15-KOM-TRI",
-    "source_id": "2928357",
-    "season": 2026,
-    "round": 15,
-    "scheduled_at": "2026-10-28",
-    "home_team_id": "KOM",
-    "away_team_id": "TRI",
-    "status": "finished",
-    "played_at": "2026-10-28",
-    "home_score": 3,
-    "away_score": 4,
-    "periods": [
-      [2, 1],
-      [1, 1],
-      [0, 1]
-    ],
-    "ot_score": [0, 1],
-    "so_score": null,
-    "finish": "OT",
-    "home_points": 1,
-    "away_points": 2
   },
   {
     "id": "2026-15-KVA-MBL",
@@ -2369,27 +2369,27 @@
     "away_points": 1
   },
   {
-    "id": "2026-15-VIT-LIB",
-    "source_id": "2928354",
+    "id": "2026-15-KOM-TRI",
+    "source_id": "2928357",
     "season": 2026,
     "round": 15,
-    "scheduled_at": "2026-10-20",
-    "home_team_id": "VIT",
-    "away_team_id": "LIB",
+    "scheduled_at": "2026-10-28",
+    "home_team_id": "KOM",
+    "away_team_id": "TRI",
     "status": "finished",
-    "played_at": "2026-10-20",
+    "played_at": "2026-10-28",
     "home_score": 3,
-    "away_score": 2,
+    "away_score": 4,
     "periods": [
-      [0, 0],
+      [2, 1],
       [1, 1],
-      [1, 1]
+      [0, 1]
     ],
-    "ot_score": [0, 0],
-    "so_score": [1, 0],
-    "finish": "SO",
-    "home_points": 2,
-    "away_points": 1
+    "ot_score": [0, 1],
+    "so_score": null,
+    "finish": "OT",
+    "home_points": 1,
+    "away_points": 2
   },
   {
     "id": "2026-16-KLA-LIB",
